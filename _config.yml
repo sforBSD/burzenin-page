@@ -145,9 +145,12 @@ collections:
   puk:
     output: true
     permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
   authors:
     output: true
-    permalink: /author/:path/
+    permalink: /:collection/:path/
 
 # Reading Files
 include:
@@ -177,6 +180,8 @@ exclude:
   - package-lock.json
   - Rakefile
   - README
+  - Dockerfile
+  - docker-compose.yml
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
@@ -291,6 +296,14 @@ defaults:
   - scope:
       path: ""
       type: puk
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
     values:
       layout: single
       author_profile: true
