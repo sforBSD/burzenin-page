@@ -89,6 +89,8 @@
   position: relative;
   border-radius: $border-radius;
   overflow: hidden;
+  object-fit: cover;
+  max-height: 225px;
 
   img {
     width: 100%;

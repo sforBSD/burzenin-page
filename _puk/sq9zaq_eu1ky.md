@@ -2,7 +2,8 @@
 title: Analizator wg EU1KY
 puk_category: C
 puk_year: 2017
-author: sq9zaq
+author: 
+  - sq9zaq
 tagline: ""
 proofread: yes
 layout: puk

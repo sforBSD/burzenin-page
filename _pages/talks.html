@@ -1,0 +1,52 @@
+---
+layout: splash
+permalink: /talks/
+---
+
+<h1>Talks Schedule</h1>
+
+{% assign sorted_talks = site.talks | sort: "starttime" %}
+{% assign talks_by_date = sorted_talks | group_by_exp: "talk", "talk.starttime | date: '%Y-%m-%d'" %}
+
+{% for date in talks_by_date %}
+  <h2>{{ date.name }}</h2>
+  <div class="talks-grid">
+    {% assign rooms = "a,b,c,d,outside" | split: ',' %}
+    {% for room in rooms %}
+      <div class="room-column">
+        {% if room == 'outside' %}
+          <h3>Na świeżym powietrzu</h3>
+        {% else %}
+          <h3>Sala {{ room | upcase }}</h3>
+        {% endif %}
+        {% assign room_talks = date.items | where: "room", room %}
+        {% if room_talks.size > 0 %}
+          <ul>
+            {% for talk in room_talks %}
+
+              <li>
+                <a href="{{ talk.url | relative_url }}">
+                    <strong>{{ talk.title }}</strong>
+                  </a><br>
+                
+                  {% for author in talk.author %}
+                  {% assign author_info = site.data.authors[author] %}
+                  - {{ author_info.name }}
+                  {% if author_info.callsign and author_info.callsign != '' %}
+                  ({{ author_info.callsign }})
+                    {% endif %}
+                    <br>
+                  {% endfor %}
+
+                Kiedy: {{ talk.starttime | date: "%H:%M" }} - {{ talk.endtime | date: "%H:%M" }}<br>
+                <!-- <img src="{{ talk.header.teaser }}" alt="{{ talk.title }}"> -->
+              </li>
+            {% endfor %}
+          </ul>
+        {% else %}
+          <p>No talks scheduled.</p>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+{% endfor %}

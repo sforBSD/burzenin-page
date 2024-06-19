@@ -1,0 +1,30 @@
+.talks-grid {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 16px;
+  }
+  
+  .room-column {
+	flex: 1;
+	min-width: 200px;
+  
+	h3 {
+	  text-align: center;
+	}
+  
+	ul {
+	  list-style-type: none;
+	  padding: 0;
+	}
+  
+	li {
+	  border: 1px solid #ccc;
+	  padding: 8px;
+	  margin-bottom: 8px;
+	}
+  
+	img {
+	  max-width: 100%;
+	  height: auto;
+	}
+  }
