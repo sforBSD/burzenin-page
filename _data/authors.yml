@@ -678,3 +678,38 @@ alek:
   speaker           : yes
 
 ## end Alek
+
+## begin SP-OTC
+spotc:
+  name              : SP-OTC
+  constructor       : no
+  speaker           : yes
+
+## end SP-OTC
+
+## begin SP9GMD
+sp9gmd:
+  name              : Filip
+  avatar            : "/assets/images/zjazd.png"
+  callsign          : SP9GMD
+  constructor       : yes
+
+## end SP9GMD
+
+## begin SP5OSP
+sp5osp:
+  name              : Michał
+  avatar            : "/assets/images/zjazd.png"
+  callsign          : SP5OSP
+  constructor       : yes
+
+## end SP5OSP
+
+## begin SQ6POG
+sq6pog:
+  name              : Paweł
+  avatar            : "/assets/images/zjazd.png"
+  callsign          : SQ6POG
+  constructor       : yes
+
+## end SQ6POG

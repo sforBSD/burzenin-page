@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Sklep"
-    url: https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/
+  - title: "FAQ"
+    url: /najwazniejsze
   - title: "Program"
     url: /program
-  # - title: "Aktualności"
-  #   url: /news
-  - title: "Konkurs PUK"
+  - title: "Lokalizacja"
+    url: /venue
+  - title: "Rejestracja"
+    url: https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/
+  - title: "Ekipa"
+    url: /staff
+  - title: "PUK"
     url: /puk/
-  # - title: "Sitemap"
-  #   url: /sitemap/

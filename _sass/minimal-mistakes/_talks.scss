@@ -21,6 +21,26 @@
 	  border: 1px solid #ccc;
 	  padding: 8px;
 	  margin-bottom: 8px;
+
+	  &.breakfast {
+		background-color: #81ff7f24;
+		color: #787878;
+	  }
+
+	  &.dinner {
+		background-color: rgb(149 140 90 / 14%);
+		color: #787878;
+	  }
+
+	  &.tba {
+		background-color: rgb(67 87 243 / 14%);
+
+	  }
+
+	  &.puk {
+		background-color: #fffb7f24
+
+	  }
 	}
   
 	img {

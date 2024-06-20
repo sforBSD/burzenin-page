@@ -16,7 +16,7 @@ layout: archive
       </div>
     </section>
 
-    {% assign posts = site.talks | where_exp:"item", "item.author == page.author" %}
+    {% assign posts = site.talks | where_exp:"item", "item.author contains page.author" %}
     
     <section class="taxonomy__section">
       <h2 class="archive__subtitle">Wystąpienia:</h2>

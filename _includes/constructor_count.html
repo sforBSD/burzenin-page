@@ -3,7 +3,7 @@
 {% assign author_count = 0 %}
 
 {% for item in collection %}
-  {% if item.author == specified_author %}
+  {% if item.author contains specified_author %}
     {% assign author_count = author_count | plus: 1 %}
   {% endif %}
 {% endfor %}

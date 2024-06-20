@@ -1,11 +1,12 @@
 ---
-title: "MISJA NIEMOŻLIWA - TRX B-L-U IP3 +40dBm w niskobudżetowym klasycznym transciverze SSB/CW."
+title: "IP3 +40dBm w niedrogim klasycznym transciverze SSB/CW."
 author: sp9lvz
+ics_slug: sp9lvz_blu_ip3
 starttime: "2024-09-07 12:15"
 endtime: "2024-09-07 13:15"
 layout: talk
 tagline: ""
-room: b
+room: a
 header:
   overlay_image: /assets/images/posts/sp9lvz_blu_ip3.jpg
   overlay_filter: 0.5
