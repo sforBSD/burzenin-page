@@ -56,10 +56,7 @@ artificial_talks:
     starttime: "2024-09-08 07:30:00"
     endtime: "2024-09-08 08:45:00"
     room:
-      - a
-      - b
-      - c
-      - d
+      - s
     where_exactly: "Stołówka"
     where_exactly_geourl: "geo:51.470696420106776,18.84896063210119"
     notitlelink: "yes"
@@ -177,12 +174,17 @@ artificial_talks:
 {% for date in talks_by_date %}
   <h2>{{ date.name }}</h2>
   <div class="talks-grid">
-    {% assign rooms = "a,b,c,d" | split: ',' %}
+    {% assign rooms = "a,b,c,d,s" | split: ',' %}
     {% for room in rooms %}
-      <div class="room-column">
-        <h3>Sala {{ room | upcase }}</h3>
-        {% assign room_talks = date.items | where: "room", room %}
-        {% if room_talks.size > 0 %}
+      {% assign room_talks = date.items | where: "room", room %}
+      {% if room_talks.size > 0 %}
+        <div class="room-column">
+          {%if room != "s" %}
+          <h3>Sala {{ room | upcase }}</h3>
+          {%else%}
+          <h3>Stołówka</h3>          
+          {% endif %}
+          
           <ul>
             {% for talk in room_talks %}
               <li class="{{ talk.class }}">
@@ -212,17 +214,11 @@ artificial_talks:
                   <br>
                 {% endfor %}
                 Kiedy: {{ talk.starttime | date: "%H:%M" }} - {{ talk.endtime | date: "%H:%M" }}<br>
-                {% if talk.artificial_event %}
-                {% else %}
-                <!-- <a href="/talks/{{talk.ics_slug}}.ics">Dodaj do kalendarza</a> -->
-                {% endif%}
               </li>
             {% endfor %}
           </ul>
-        {% else %}
-          <p>No talks scheduled.</p>
-        {% endif %}
-      </div>
+        </div>
+      {% endif %}
     {% endfor %}
   </div>
 
