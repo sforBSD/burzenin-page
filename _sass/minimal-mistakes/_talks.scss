@@ -25,20 +25,36 @@
 	  &.breakfast {
 		background-color: #81ff7f24;
 		color: #787878;
+
+		strong:before {
+			content: "🥐 ";
+		}
 	  }
 
 	  &.dinner {
 		background-color: rgb(149 140 90 / 14%);
 		color: #787878;
+
+		strong:before {
+			content: "🍽️ ";
+		}
 	  }
 
 	  &.tba {
 		background-color: rgb(67 87 243 / 14%);
 
+		strong:before {
+			content: "🔜 ";
+		}
+
 	  }
 
 	  &.puk {
-		background-color: #fffb7f24
+		background-color: #fffb7f24;
+
+		strong:before {
+			content: "🛠️ ";
+		}
 
 	  }
 	}

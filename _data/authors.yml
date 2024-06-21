@@ -671,6 +671,15 @@ sp5xmi:
 
 ## end SP5XMI
 
+## begin SP6SP
+sp6sp:
+  name              : Marcin
+  callsign          : SP6SP
+  constructor       : no
+  speaker           : yes
+
+## end SP6SP
+
 ## begin Alek
 alek:
   name              : Alek Zawada
