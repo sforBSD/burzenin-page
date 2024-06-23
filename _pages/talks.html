@@ -214,7 +214,8 @@ artificial_talks:
                   <br>
                 {% endfor %}
                 <b>Kiedy</b>: {{ talk.starttime | date: "%H:%M" }} - {{ talk.endtime | date: "%H:%M" }}<br>
-                <a href="#" onclick="downloadICS(event, '{{ talk.starttime }}', '{{ talk.endtime }}', '{{ talk.title }}', '---', 'Osrodek Sportowa Osada Zarzecze 12 Strumiany', '{{ talk.url | absolute_url }}')">Dodaj do kalendarza</a><br>
+                <span class="calendarlinks"><a href="#" onclick="downloadICS(event, '{{ talk.starttime }}', '{{ talk.endtime }}', '{{ talk.title }}', '---', 'Osrodek Sportowa Osada Zarzecze 12 Strumiany', '{{ talk.url | absolute_url }}')">.ics</a> / <a
+            href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{ talk.title }}&dates={{ talk.starttime | date: '%Y%m%dT%H%M%S' }}/{{ talk.endtime | date: '%Y%m%dT%H%M%S' }}&ctz=Europe/Warsaw">Google Calendar</a></span><br>
               </li>
             {% endfor %}
           </ul>
@@ -256,8 +257,8 @@ artificial_talks:
               <br>
             {% endfor %}
             Kiedy: {{ talk.starttime | date: "%H:%M" }} - {{ talk.endtime | date: "%H:%M" }}<br>
-            <a href="#" onclick="downloadICS(event, '{{ talk.starttime }}', '{{ talk.endtime }}', '{{ talk.title }}', '---', 'Osrodek Sportowa Osada Zarzecze 12 Strumiany', '{{ talk.url | absolute_url }}')">Dodaj do kalendarza</a><br>
-          </li>
+            <span class="calendarlinks"><a href="#" onclick="downloadICS(event, '{{ talk.starttime }}', '{{ talk.endtime }}', '{{ talk.title }}', '---', 'Osrodek Sportowa Osada Zarzecze 12 Strumiany', '{{ talk.url | absolute_url }}')">.ics</a> / <a
+        href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{ talk.title }}&dates={{ talk.starttime | date: '%Y%m%dT%H%M%S' }}/{{ talk.endtime | date: '%Y%m%dT%H%M%S' }}&ctz=Europe/Warsaw">Google Calendar</a></span><br>
         {% endfor %}
       </ul>
     {% else %}
