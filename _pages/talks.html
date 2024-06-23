@@ -214,13 +214,7 @@ artificial_talks:
                   <br>
                 {% endfor %}
                 <b>Kiedy</b>: {{ talk.starttime | date: "%H:%M" }} - {{ talk.endtime | date: "%H:%M" }}<br>
-                <a href="#" class="download-ics"
-            data-start="{{ talk.starttime }}"
-            data-end="{{ talk.endtime }}"
-            data-title="{{ talk.title }}"
-            data-description="---"
-            data-url="{{ talk.url | absolute_url }}"
-            data-location="Ośrodek Wypoczynkowy „SPORTOWA OSADA”, Zarzecze 12, 98-260 Strumiany, Poland">Dodaj do kalendarza</a><br>
+                <a href="#" onclick="downloadICS(event, '{{ talk.starttime }}', '{{ talk.endtime }}', '{{ talk.title }}', '---', 'Osrodek Sportowa Osada Zarzecze 12 Strumiany', '{{ talk.url | absolute_url }}')">Dodaj do kalendarza</a><br>
               </li>
             {% endfor %}
           </ul>
@@ -246,7 +240,7 @@ artificial_talks:
             <br>
             {%if talk.where_exactly %}
             {%if talk.where_exactly_geourl %}
-            Gdzie: <a href="{{ talk.where_exactly_geourl }}">{{ talk.where_exactly }}</a>
+            Gdsszie: <a href="{{ talk.where_exactly_geourl }}">{{ talk.where_exactly }}</a>
             <br>
             {% else %}
             Gdzie: {{ talk.where_exactly }}
@@ -262,13 +256,7 @@ artificial_talks:
               <br>
             {% endfor %}
             Kiedy: {{ talk.starttime | date: "%H:%M" }} - {{ talk.endtime | date: "%H:%M" }}<br>
-            <a href="#" class="download-ics"
-            data-start="{{ talk.starttime }}"
-            data-end="{{ talk.endtime }}"
-            data-title="{{ talk.title }}"
-            data-description="---"
-            data-url="#"
-            data-location="Ośrodek Wypoczynkowy „SPORTOWA OSADA”, Zarzecze 12, 98-260 Strumiany, Poland">Dodaj do kalendarza</a><br>
+            <a href="#" onclick="downloadICS(event, '{{ talk.starttime }}', '{{ talk.endtime }}', '{{ talk.title }}', '---', 'Osrodek Sportowa Osada Zarzecze 12 Strumiany', '{{ talk.url | absolute_url }}')">Dodaj do kalendarza</a><br>
           </li>
         {% endfor %}
       </ul>
