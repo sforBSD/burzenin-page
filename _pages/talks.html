@@ -1,6 +1,10 @@
 ---
 layout: splash
 permalink: /talks/
+title: Program Zjazdu
+header:
+  overlay_image: /assets/images/burzenin_talks.jpg
+  overlay_filter: 0.5
 artificial_talks:
   - title: "Śniadanie"
     class: "breakfast"
@@ -65,7 +69,9 @@ artificial_talks:
     artificial_event: yes
     starttime: "2024-09-06 20:00:00"
     endtime: "2024-09-06 23:59:00"
-    room: "outside"
+    room:
+      - a
+      - b
     where_exactly: "Pod wiatą"
     where_exactly_geourl: "geo:51.47042292855523,18.8505647676389"
     notitlelink: "yes"
@@ -74,7 +80,11 @@ artificial_talks:
     artificial_event: yes
     starttime: "2024-09-07 20:00:00"
     endtime: "2024-09-07 23:59:00"
-    room: "outside"
+    room:
+      - a
+      - b
+      - c
+      - d
     where_exactly: "Pod wiatą"
     where_exactly_geourl: "geo:51.47042292855523,18.8505647676389"
     notitlelink: "yes"
@@ -148,6 +158,8 @@ artificial_talks:
     starttime: "2024-09-07 09:30:00"
     endtime: "2024-09-07 16:00:00"
     room: "outside"
+    where_exactly: "Pod wiatą"
+    where_exactly_geourl: "geo:51.47042292855523,18.8505647676389"
     notitlelink: "yes"
   - title: "Grochówka"
     class: "outside"
@@ -164,8 +176,6 @@ artificial_talks:
     room: "outside"
     notitlelink: "yes"
 ---
-
-<h1>Talks Schedule</h1>
 
 {% assign all_talks = site.talks | concat: page.artificial_talks %}
 {% assign sorted_talks = all_talks | sort: "starttime" %}
@@ -207,10 +217,10 @@ artificial_talks:
                 {% endif %}
                 {% for author in talk.author %}
                   {% assign author_info = site.data.authors[author] %}
-                  - {{ author_info.name }}
+                  - <a href="{{ author_info.authorpage | relative_url }}">{{ author_info.name }}
                   {% if author_info.callsign and author_info.callsign != '' %}
                     ({{ author_info.callsign }})
-                  {% endif %}
+                  {% endif %}</a>
                   <br>
                 {% endfor %}
                 <b>Kiedy</b>: {{ talk.starttime | date: "%H:%M" }} - {{ talk.endtime | date: "%H:%M" }}<br>
@@ -241,7 +251,7 @@ artificial_talks:
             <br>
             {%if talk.where_exactly %}
             {%if talk.where_exactly_geourl %}
-            Gdsszie: <a href="{{ talk.where_exactly_geourl }}">{{ talk.where_exactly }}</a>
+            Gdzie: <a href="{{ talk.where_exactly_geourl }}">{{ talk.where_exactly }}</a>
             <br>
             {% else %}
             Gdzie: {{ talk.where_exactly }}

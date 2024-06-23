@@ -7,6 +7,7 @@ sq9wtf:
   constructor     : no
   speaker         : no
   callsign        : SQ9WTF
+  authorpage      :  "/authors/sq9wtf"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -23,6 +24,7 @@ sp6mar:
   zjazd_orga      : yes
   constructor     : no
   speaker         : no
+  authorpage      :  "/authors/sp6mar"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -35,7 +37,7 @@ sq9zaq:
   bio             : "Unlis i ukrywający coś, wstydzący się swojego znaku, człowiek z ulicy, losowa osoba z internetu, element, ignorant i darmozjad, anonimowy pirat, konfident, donosiciel"
   avatar          : "/assets/images/people/sq9zaq.jpg"
   callsign        : SQ9ZAQ
-  authorpage      : "/authors/sq9zaq/"
+  authorpage      :  "/authors/sq9zaq"
   zjazd_orga      : yes
   constructor     : yes
   speaker         : no
@@ -54,6 +56,7 @@ sp3htf:
   bio             : "Człowiek od nagłośnienia i technikaliów - żebyście widzieli i słyszeli"
   callsign        : SP3HTF
   zjazd_orga      : yes
+  authorpage      :  "/authors/sp3htf"
 
 sp3nyr:
   name            : "Waldemar"
@@ -62,6 +65,7 @@ sp3nyr:
   bio             : "Konstruktor wielu talentów, często prowadzący warsztaty senior"
   callsign        : SP3NYR
   zjazd_orga      : yes
+  authorpage      :  "/authors/sp3nyr"
 
 sp7ukl:
   name            : "Cezary Libert"
@@ -71,6 +75,7 @@ sp7ukl:
   zjazd_orga      : yes
   constructor     : no
   speaker         : no
+  authorpage      :  "/authors/sp7ukl"
 
 sp9mrn:
   name            : "Maciek Bal"
@@ -79,7 +84,7 @@ sp9mrn:
   bio             : "Wieloletni organizator Zjazdu, człowiek o niebagatelnej wiedzy operacyjnej i anielskiej cierpliwości do nawet najupierdliwszych krótkofalowców"
   constructor_bio : "Ojciec (matka?) Zjazdów Technicznych w Burzeninie... Konstruktor Małego Radia Nasłuchowca. Członek i działacz PZK, RedNacz TK/Propagacji. Można go polubić... :-)"
   avatar          : "/assets/images/people/sp9mrn.jpg"
-  authorpage      : "/authors/sp9mrn/"
+  authorpage      : "/authors/sp9mrn"
   zjazd_orga      : yes
   constructor     : yes
   speaker         : no
@@ -91,7 +96,7 @@ sp9mrn:
 sp2fp:
   name            : "Paweł"
   callsign        : "SP2FP"
-  authorpage      : "/authors/sp2fp/"
+  authorpage      : "/authors/sp2fp"
   # avatar          : "/assets/images/people/sp2fp.jpg"
   zjazd_orga      : no
   constructor     : yes
@@ -104,7 +109,7 @@ sp2fp:
 sq7hjb:
   name            : "Marek"
   callsign        : "SQ7HJB"
-  authorpage      : "/authors/sq7hjb/"
+  authorpage      : "/authors/sq7hjb"
   # avatar          : "/assets/images/people/sq7hjb.jpg"
   constructor_bio : "Licencjonowany krótkofalowiec od 1998 roku, raczej konstruktor, niż DX-man. Lubi budować wszelkie układy elektroniczne, nie tylko radiowe."
   zjazd_orga      : no
@@ -120,6 +125,7 @@ ekipa:
   avatar           : "/assets/images/zjazd.png"
   bio              : "Wolontariusze odpowiedzialni za ten cały bałagan"
   email            : kontakt@zjazdtechniczny.krotkofalowcy.com.pl
+  authorpage       : "/authors/ekipa"
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -134,6 +140,7 @@ sq7ovv:
   callsign          : SQ7OVV
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq7ovv"
 
 ## end SQ7OVV
 
@@ -143,6 +150,7 @@ sq1gu:
   callsign          : SQ1GU
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq1gu"
 
 ## end SQ1GU
 
@@ -152,6 +160,7 @@ sq7jhm:
   callsign          : SQ7JHM
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq7jhm"
 
 ## end SQ7JHM
 
@@ -161,6 +170,7 @@ sp2gya:
   callsign          : SP2GYA
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp2gya"
 
 ## end SP2GYA
 
@@ -170,6 +180,7 @@ sp5mad:
   callsign          : SP5MAD
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp5mad"
 
 ## end SP5MAD
 
@@ -179,6 +190,7 @@ sp6fre:
   callsign          : SP6FRE
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp6fre"
 
 ## end SP6FRE
 
@@ -188,6 +200,7 @@ sp7nj:
   callsign          : SP7NJ
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp7nj"
 
 ## end SP7NJ
 
@@ -197,6 +210,7 @@ sp6ifn:
   callsign          : SP6IFN
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp6ifn"
   constructor_bio   : Krótkofalowiec konstruktor od lat '70 ubiegłego wieku. Autor wielu projektów radiowych, współorganizator Zjazdów Technicznych SP, działacz PZK.
 ## end SP6IFN
 
@@ -206,6 +220,7 @@ sp7yc:
   callsign          : SP7YC
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp7yc"
 
 ## end SP7YC
 
@@ -215,6 +230,7 @@ sq3mve:
   callsign          : SQ3MVE
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq3mve"
 
 ## end SQ3MVE
 
@@ -224,6 +240,7 @@ sq4avs:
   callsign          : SQ4AVS
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq4avs"
 
 ## end SQ4AVS
 
@@ -233,6 +250,7 @@ sq7mzl:
   callsign          : SQ7MZL
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq7mzl"
 
 ## end SQ7MZL
 
@@ -242,6 +260,7 @@ sp2ofs:
   callsign          : SP2OFS
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp2ofs"
   constructor_bio   : Licencjonowany krótkofalowiec od 1984 roku, aktywny na KF i UKF, lubi eksperymentować z róznymi antenami. Członek bydgoskiego klubu SP2PUT.
 
 ## end SP2OFS
@@ -252,6 +271,7 @@ sp2z:
   callsign          : SP2Z
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp2z"
 
 ## end SP2Z
 
@@ -261,6 +281,7 @@ sp6ltp:
   callsign          : SP6LTP
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp6ltp"
 
 ## end SP6LTP
 
@@ -270,6 +291,7 @@ sq5rwu:
   callsign          : SQ5RWU
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq5rwu"
   constructor_bio   : Z zawodu programista. Twierdzi, że w ogóle nie zna się na elektronice, ale to nie przeszkadza mu próbować!
 
 ## end SQ5RWU
@@ -280,6 +302,7 @@ sq7bfs:
   callsign          : SQ7BFS
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq7bfs"
   zjazd_orga      : yes
 
 ## end SQ7BFS
@@ -290,6 +313,7 @@ sq7bfs:
   callsign          : 3Z6AEF
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/3z6aef"
   avatar            : "/assets/images/people/3z6aef.jpg"
   constructor_bio   : Radioamator konstruktor, zainteresowany głównie urządzeniami pomiarowymi. Współorganizator Zjazdów Technicznych, konkursów PUK od 2011 roku, członek i działacz PZK.
 
@@ -301,6 +325,7 @@ sp8hmz:
   callsign          : SP8HMZ
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp8hmz"
 
 ## end SP8HMZ
 
@@ -310,6 +335,7 @@ sp8qep:
   callsign          : SP8QEP
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp8qep"
 
 ## end SP8QEP
 
@@ -319,6 +345,7 @@ sp9hvw:
   callsign          : SP9HVW
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp9hvw"
   constructor_bio   : Doświadczony konstruktor urządzeń radiowych i pomiarowych. Umie naprawić każde urządzenie krótkofalarskie. Członek PZK - klub SP9PKM.
 
 ## end SP9HVW
@@ -329,6 +356,7 @@ sp9nj:
   callsign          : SP9NJ
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp9nj"
   constructor_bio   : Muzyk, grzybiarz, programista webowy. Współorganizator Zjazdów Technicznych, autor platformy LogSP, programu Inwentarza Archiwalnego PZK i wielu innych.
 
 ## end SP9NJ
@@ -339,6 +367,7 @@ sq5kvs:
   callsign          : SQ5KVS
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq5kvs"
   constructor_bio   : Obserwator komet i innych kosmicznych obiektów, krótkofalowiec (licencja 2013), ciekawy wszelkich nowinek technicznych, ale docenia również historię.
 
 ## end SQ5KVS
@@ -349,6 +378,7 @@ sq9kg:
   callsign          : SQ9KG
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq9kg"
 
 ## end SQ9KG
 
@@ -358,6 +388,7 @@ sq9alw:
   callsign          : SQ9ALW
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq9alw"
   zjazd_orga      : yes
 
 ## end SQ9ALW
@@ -368,6 +399,7 @@ sp9jc:
   callsign          : SP9JC
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp9jc"
   zjazd_orga      : yes
 
 ## end SP9JC
@@ -378,6 +410,7 @@ sq9mdd:
   callsign          : SQ9MDD
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq9mdd"
 
 ## end SQ9MDD
 
@@ -387,6 +420,7 @@ sq9pbs:
   callsign          : SQ9PBS
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq9pbs"
 
 ## end SQ9PBS
 
@@ -396,6 +430,7 @@ sp2cnw:
   callsign          : SP2CNW
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp2cnw"
   constructor_bio   : Specjalista od anten na fale ultrakrótkie i mikrofale, zajmuje się tym od 1967 roku (najpierw jako SP1CNW). Niektórzy mylą go z SP1CNV...
 
 ## end SP2CNW
@@ -406,6 +441,7 @@ sp3jml:
   callsign          : SP3JML
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp3jml"
 
 ## end SP3JML
 
@@ -415,6 +451,7 @@ sp4lvc:
   callsign          : SP4LVC
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp4lvc"
   constructor_bio   : Elektroniką interesuje się od czasów tranzystora TG5 i podobnych. Licencję krótkofalarską uzyskał w 1980 r. i od tamtej pory nieustannie jest na pasmach. Ulubiona działalność to DX-y i konstrukcje - najczęściej na bazie już opracowanych urządzeń, ale również autorskie projekty.
 
 ## end SP4LVC
@@ -425,6 +462,7 @@ sp5bmp:
   callsign          : SP5BMP
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp5bmp"
 
 ## end SP5BMP
 
@@ -434,6 +472,7 @@ sp5cgi:
   callsign          : SP5CGI
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp5cgi"
 
 ## end SP5CGI
 
@@ -454,6 +493,7 @@ sp6dlo:
   callsign          : SP6DLO
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp6dlo"
 
 ## end SP6DLO
 
@@ -463,6 +503,7 @@ sp6eer:
   callsign          : SP6EER
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp6eer"
 
 ## end SP6EER
 
@@ -472,6 +513,7 @@ sp6mlf:
   callsign          : SP6MLF
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp6mlf"
   constructor_bio   : Niezwykle skromny i uczynny, zapalony konstruktor urzadzeń radiowych i anten. Członek PZK od 1980 roku, kierownik radiostacji klubu 3Z0TECH.
 
 ## end SP6MLF
@@ -482,6 +524,7 @@ sp6qks:
   callsign          : SP6QKS
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp6qks"
 
 ## end SP6QKS
 
@@ -491,6 +534,7 @@ sp7q:
   callsign          : SP7Q
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp7q"
   constructor_bio   : Zapalony telegrafista (www.titawa.pl), lubi wyprawy terenowe i zawody. Często buduje urządzenia krótkofalarskie - wyłącznie przydatne!
 
 ## end SP7Q
@@ -501,6 +545,7 @@ sp7roh:
   callsign          : SP7ROH
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp7roh"
 
 ## end SP7ROH
 
@@ -510,6 +555,7 @@ sp9jm:
   callsign          : SP9JM
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp9jm"
 
 ## end SP9JM
 
@@ -519,6 +565,7 @@ sp9lla:
   callsign          : SP9LLA
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp9lla"
 
 ## end SP9LLA
 
@@ -528,6 +575,7 @@ sp9wr:
   callsign          : SP9WR
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sp9wr"
 
 ## end SP9WR
 
@@ -537,6 +585,7 @@ sq2rh:
   callsign          : SQ2RH
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq2rh"
   constructor_bio   : W radioamatorkim hobby od lat '80 ubiegłego wieku, licencjonowany krótkofalowiec od 2002 roku. Niezwykle doświadczony administrator i programista IT. Lubi czasem zbudować coś krótkofalarsko przydatnego...
 
 ## end SQ2RH
@@ -547,6 +596,7 @@ sq3nqj:
   callsign          : SQ3NQJ
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq3nqj"
   constructor_bio   : Przemądrzały (podobno) pracownik politechniki, z zamiłowaniem do elektroniki i przetwarzania sygnałów, historii techniki, modelarstwa i militariów.
 
 ## end SQ3NQJ
@@ -557,6 +607,7 @@ sq5fgb:
   callsign          : SQ5FGB
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq5fgb"
   constructor_bio   : Konstruktor urządzeń elektronicznych, programista C/C++ systemów wbudowanych, wykładowca. Autor publikacji i książek dedykowanych mikrokontrolerom jednoukładowym ARM.
 
 ## end SQ5FGB
@@ -567,6 +618,7 @@ sq5rwq:
   callsign          : SQ5RWQ
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq5rwq"
 
 ## end SQ5RWQ
 
@@ -576,6 +628,7 @@ sq5stu:
   callsign          : SQ5STU
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq5stu"
 
 ## end SQ5STU
 
@@ -585,6 +638,7 @@ sq6dgt:
   callsign          : SQ6DGT
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq6dgt"
 
 ## end SQ6DGT
 
@@ -594,6 +648,7 @@ sq6qv:
   callsign          : SQ6QV
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq6qv"
 
 ## end SQ6QV
 
@@ -603,6 +658,7 @@ sq6rgk:
   callsign          : SQ6RGK
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq6rgk"
   constructor_bio   : Motocyklista, krótkofalowiec, konstruktor. Zna się na elementach elektronicznych. Wie jak nadawać z terenu na własnej antenie. Członek PZK od 2009 roku.
 
 ## end SQ6RGK
@@ -613,6 +669,7 @@ sq7alx:
   callsign          : SQ7ALX
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq7alx"
 
 ## end SQ7ALX
 
@@ -622,6 +679,7 @@ sq7ovz:
   callsign          : SQ7OVZ
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq7ovz"
 
 ## end SQ7OVZ
 
@@ -631,6 +689,7 @@ sq7pel:
   callsign          : SQ7PEL
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq7pel"
   zjazd_orga      : yes
 
 ## end SQ7PEL
@@ -641,6 +700,7 @@ sq8mfb:
   callsign          : SQ8MFB
   constructor       : yes
   speaker           : no
+  authorpage        :  "/authors/sq8mfb"
 
 ## end SQ8MFB
 
@@ -650,6 +710,7 @@ sp9lvz:
   callsign          : SP9LVZ
   constructor       : no
   speaker           : yes
+  authorpage        :  "/authors/sp9lvz"
 
 ## end SP9LVZ
 
@@ -659,6 +720,7 @@ sp9uob:
   callsign          : SP9UOB
   constructor       : no
   speaker           : yes
+  authorpage        :  "/authors/sp9uob"
 
 ## end SP9UOB
 
@@ -668,6 +730,7 @@ sp5xmi:
   callsign          : SP5XMI
   constructor       : no
   speaker           : yes
+  authorpage        :  "/authors/sp5xmi"
 
 ## end SP5XMI
 
@@ -677,6 +740,7 @@ sp6sp:
   callsign          : SP6SP
   constructor       : no
   speaker           : yes
+  authorpage        :  "/authors/sp6sp"
 
 ## end SP6SP
 
@@ -686,6 +750,7 @@ alek:
   constructor       : no
   speaker           : yes
 
+  authorpage        :  "/authors/alek"
 ## end Alek
 
 ## begin SP-OTC
@@ -694,6 +759,7 @@ spotc:
   constructor       : no
   speaker           : yes
 
+  authorpage        :  "/authors/spotc"
 ## end SP-OTC
 
 ## begin SP9GMD
@@ -702,6 +768,7 @@ sp9gmd:
   avatar            : "/assets/images/zjazd.png"
   callsign          : SP9GMD
   constructor       : yes
+  authorpage        :  "/authors/sp9gmd"
 
 ## end SP9GMD
 
@@ -711,6 +778,7 @@ sp5osp:
   avatar            : "/assets/images/zjazd.png"
   callsign          : SP5OSP
   constructor       : yes
+  authorpage        :  "/authors/sp5osp"
 
 ## end SP5OSP
 
@@ -720,5 +788,6 @@ sq6pog:
   avatar            : "/assets/images/zjazd.png"
   callsign          : SQ6POG
   constructor       : yes
+  authorpage        :  "/authors/sq6pog"
 
 ## end SQ6POG

@@ -50,10 +50,19 @@
 	  }
 
 	  &.puk {
-		background-color: #fffb7f24;
+		background-color: rgb(255 251 127 / 14%);
 
 		strong:before {
 			content: "🛠️ ";
+		}
+
+	  }
+
+	  &.grill {
+		background-color: rgb(110 67 243 / 14%);
+
+		strong:before {
+			content: "🔥 ";
 		}
 
 	  }
