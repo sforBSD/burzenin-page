@@ -57,6 +57,10 @@
 		}
 
 	  }
+
+	  span.calendarlinks:before {
+		  content: "📅 ";
+	  }
 	}
   
 	img {
