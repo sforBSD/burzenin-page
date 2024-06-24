@@ -791,3 +791,13 @@ sq6pog:
   authorpage        :  "/authors/sq6pog"
 
 ## end SQ6POG
+
+## begin SQ9NJL
+SQ9NJL:
+  name              : Maciek
+  avatar            : "/assets/images/zjazd.png"
+  callsign          : SQ9NJL
+  constructor       : yes
+  authorpage        :  "/authors/sq0njl"
+
+## end SQ9NJL
