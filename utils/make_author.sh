@@ -11,6 +11,7 @@ fi
 CALLSIGN=$1
 NAME=$2
 CALLSIGN_UPPER=$(echo "$CALLSIGN" | tr '[:lower:]' '[:upper:]')
+CALLSIGN_LOWER=$(echo "$CALLSIGN" | tr '[:upper:]' '[:lower:]')
 
 # Get the directory where the script is located
 SCRIPT_DIR=$(dirname "$0")
@@ -20,20 +21,21 @@ AUTHORS_DIR=$(realpath "$SCRIPT_DIR/../_authors")
 DATA_DIR=$(realpath "$SCRIPT_DIR/../_data")
 
 # Perform the sed command with the provided callsign
-sed "s/changeme/$CALLSIGN/g" "$SCRIPT_DIR/author_template.md" > "$AUTHORS_DIR/$CALLSIGN.md"
-echo "File has been processed and saved as $AUTHORS_DIR/$CALLSIGN.md"
+sed "s/changeme/$CALLSIGN/g" "$SCRIPT_DIR/author_template.md" > "$AUTHORS_DIR/$CALLSIGN_LOWER.md"
+echo "File has been processed and saved as $AUTHORS_DIR/$CALLSIGN_LOWER.md"
 
 # Define the snippet to be added
 SNIPPET=$(cat <<EOF
 
-## begin $CALLSIGN
-$CALLSIGN:
+## begin $CALLSIGN_UPPER
+$CALLSIGN_LOWER:
   name              : $NAME
   avatar            : "/assets/images/zjazd.png"
   callsign          : $CALLSIGN_UPPER
   constructor       : yes
+  authorpage        : "/authors/$CALLSIGN_LOWER"
 
-## end $CALLSIGN
+## end $CALLSIGN_UPPER
 EOF
 )
 
