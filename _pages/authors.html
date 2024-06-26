@@ -1,12 +1,18 @@
 ---
 layout: collection
 permalink: /authors/
-collection: authors
-entries_layout: grid
-author: sq9wtf
+header:
+  overlay_image: /assets/images/burzenin_people.jpg
+  overlay_filter: 0.5
+title: Autorzy
+tagline: (czyli konstruktorzy, prelegenci i organiztorzy)
 ---
 
-<h1>Autorzy (konstruktorzy, prelegenci i organiztorzy)</h1>
+Poniżej znajduje się lista dotychczas zidentyfikowanych i przypisanych do swoich aktywności osób, które odznaczyły się w organizacji lub uświetnianiu Zjazdu przez <a href="/puk">udział w konkursie PUK</a> (lista konstruktorów <a href="/puk/constructors">tutaj</a>), poprowadzenie prezentacji lub warsztatów (lista prelegentów <a href="/speakers">tutaj</a>), lub wolontariat przy organizacji wydarzenia (lista organizatorów i wolontariuszy <a href="/staff">tutaj</a>)
+
+<br>
+<br>
+
 {% include small_nav.html %}
 
 <div class="participants-container">
@@ -61,7 +67,15 @@ author: sq9wtf
 			{% include author_count.html current_author=f current_collection='talks'%}
 	  	{% endcapture %}
 
-		<p><a href="/authors/{{ f[0] }}" class="page__taxonomy-item p-category">Projektów: {{ project_count }}, Wystąpień: {{ talk_count }}</a></p>
+		<p><a href="/authors/{{ f[0] }}" class="page__taxonomy-item p-category">
+			{% if f[1].zjazd_orga %}
+			Organizator, 
+			{% endif %}
+			{% unless project_count == "0" %}
+			Projektów: {{ project_count }},
+			{% endunless %}
+			{% unless talk_count == "0" %} Wystąpień: {{ talk_count }}
+			{% endunless %}</a></p>
 		
 	</div>
 	{% endunless %}

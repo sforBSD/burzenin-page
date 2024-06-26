@@ -44,7 +44,7 @@ toc: true
 - Jeśli chodzi o sobotę - bilety bez noclegu na sobotę będzie można kupić nawet w niedzielę (choć sensu brak), a przynajmniej nawet stojąc w kolejce do rejestracji. Nie ma problemu, żeby na sobotę zdecydować się w turbo ostatniej chwili. Zapraszamy!
 
 
-### P: jeśli wybieram się tylko w sobotę, bez noclegu i wyżywienia, też musicie się zarejestrować i wykupić bilet?
+### P: Jeśli wybieram się tylko w sobotę, bez noclegu i wyżywienia, też muszę się zarejestrować i wykupić bilet?
 **O:** Tak, ten najtańszy za 30zł. Kupisz go tak, jak każdy inny bilet na Zjazd - **online** na stronie zjazdu <https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/>.
 
 
@@ -76,8 +76,8 @@ toc: true
 
 
 ### P: Jakie są opcje parkingu?
-**O:** Wjazd na teren mają tylko osoby nocujące. Wszystkie samochody na terenie MUSZĄ posiadać znak i numer telefonu kierowcy za szybą.
-Może to być wydrukowana przepustka wg wzoru: https://zjazdtechniczny.krotkofalowcy.com.pl/images/przepustka.pdf lub zwykłą kartka z tymi informacjami.
+**O:** Wjazd na teren mają tylko osoby nocujące. Wszystkie samochody na terenie MUSZĄ posiadać **znak** i **numer telefonu** kierowcy za szybą.
+Może to być wydrukowana przepustka wg wzoru: [<< WZÓR TUTAJ >>](/assets/bin/przepustka.pdf) lub zwykłą kartka z tymi informacjami.
 W uzasadnionych przypadkach, np osób z niepełnosprawnością prosimy o wcześniejszy kontakt z organizatorami - ogarniemy.
 
 
@@ -86,8 +86,8 @@ W uzasadnionych przypadkach, np osób z niepełnosprawnością prosimy o wcześn
 
 
 ### P: Jak wygląda kwestia wyżywienia?
-**O:** W programie przewidziane są śniadania i obiadokolacje. Na terenie ośrodka znajduje się też kawiarenka w której można kupić napoje, ciastka, frytki zapiekanki itp.
-Wieczorem odbywa się grill party pod wiatą. Organizatorzy zapewniają grilla, węgiel, tacki, jednorazowe sztućce, musztardę ketchup, ale wsad podstawowy trzeba sobie zorganizować samemu.
+**O:** W programie przewidziane są śniadania i obiadokolacje. Na terenie ośrodka znajduje się też kawiarenka w której można kupić napoje, ciastka, frytki, zapiekanki itp.
+Wieczorem odbywa się grill party pod wiatą. Organizatorzy zapewniają grilla, węgiel, tacki, jednorazowe sztućce, musztardę, ketchup, ale wsad podstawowy trzeba sobie zorganizować samemu.
 
 
 ### P: Czy można przyjechać z psem, kotem lub złotą rybką w małym akwarium.

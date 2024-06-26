@@ -767,7 +767,7 @@ spotc:
 sp9gmd:
   name              : Filip
   callsign          : SP9GMD
-  constructor       : yes
+  constructor       : no
   speaker           : yes
   authorpage        :  "/authors/sp9gmd"
 
@@ -777,7 +777,7 @@ sp9gmd:
 sp5osp:
   name              : Michał
   callsign          : SP5OSP
-  constructor       : yes
+  constructor       : no
   speaker           : yes
   authorpage        :  "/authors/sp5osp"
 
@@ -787,7 +787,7 @@ sp5osp:
 sq6pog:
   name              : Paweł
   callsign          : SQ6POG
-  constructor       : yes
+  constructor       : no
   speaker           : yes
   authorpage        :  "/authors/sq6pog"
 
@@ -797,7 +797,7 @@ sq6pog:
 sq9njl:
   name              : Maciek
   callsign          : SQ9NJL
-  constructor       : yes
+  constructor       : no
   speaker           : yes
   authorpage        :  "/authors/sq9njl"
 
@@ -807,7 +807,7 @@ sq9njl:
 sp9gnm:
   name              : Władysław
   callsign          : SP9GNM
-  constructor       : yes
+  constructor       : no
   speaker           : yes
   authorpage        : "/authors/sp9gnm"
 
@@ -817,7 +817,7 @@ sp9gnm:
 sp7giq:
   name              : Krzysztof
   callsign          : SP7GIQ
-  constructor       : yes
+  constructor       : no
   speaker           : yes
   authorpage        : "/authors/sp7giq"
 
@@ -827,7 +827,7 @@ sp7giq:
 sq3swf:
   name              : Olgierd
   callsign          : SQ3SWF
-  constructor       : yes
+  constructor       : no
   speaker           : yes
   authorpage        : "/authors/sq3swf"
 
@@ -837,7 +837,7 @@ sq3swf:
 sp9bit:
   name              : Marcin
   callsign          : SP9BIT
-  constructor       : yes
+  constructor       : no
   speaker           : yes
   authorpage        : "/authors/sp9bit"
 
@@ -847,7 +847,7 @@ sp9bit:
 sq9zbf:
   name              : Magda
   callsign          : SQ9ZBF
-  constructor       : yes
+  constructor       : no
   speaker           : yes
   authorpage        : "/authors/sq9zbf"
 
