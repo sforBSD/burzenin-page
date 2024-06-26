@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP9GMD
+author: sp9gmd
 title: ""
 ---

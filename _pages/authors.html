@@ -1,18 +1,17 @@
 ---
 layout: collection
-permalink: /puk/constructors
+permalink: /authors/
 collection: authors
 entries_layout: grid
 author: sq9wtf
 ---
 
-<h1>Konstruktorzy, którzy brali udział w konkursie PUK</h1>
+<h1>Autorzy (konstruktorzy, prelegenci i organiztorzy)</h1>
 {% include small_nav.html %}
-
 
 <div class="participants-container">
 {% for f in site.data.authors %}
-	{% if f[1].constructor %}
+{% unless f[1].invisible %}
 		<div class="participant">
 
 			{% if f[1].avatar %}
@@ -55,12 +54,16 @@ author: sq9wtf
 		{% endif %}
 
 		{% capture project_count %}
-			{% include author_count.html current_author=f current_collection='puk' %}
+			{% include author_count.html current_author=f current_collection='puk'%}
 	  	{% endcapture %}
 
-		<p><a href="/authors/{{ f[0] }}" class="page__taxonomy-item p-category">Projektów: {{ project_count }}</a></p>
+		{% capture talk_count %}
+			{% include author_count.html current_author=f current_collection='talks'%}
+	  	{% endcapture %}
+
+		<p><a href="/authors/{{ f[0] }}" class="page__taxonomy-item p-category">Projektów: {{ project_count }}, Wystąpień: {{ talk_count }}</a></p>
 		
 	</div>
-	{% endif %}
-{% endfor %}
+	{% endunless %}
+	{% endfor %}
 </div>

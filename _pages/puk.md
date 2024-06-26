@@ -7,10 +7,13 @@ entries_layout: grid
 classes: wide
 ---
 
-<a href="/puk/constructors" class="btn btn--info btn--large">Autorzy</a>
-<a href="#" class="btn btn--info btn--large">Projekty</a>
-<a href="#" class="btn btn--info btn--large">Edycje</a>
-<a href="#" class="btn btn--info btn--large">Historia</a>
+<h1>PUK - czyli Przydatne Urządzenie Krótkofalarskie</h1>
+
+<a href="/puk" class="btn btn--info btn--small">PUK</a>
+<a href="/puk/constructors" class="btn btn--success btn--small">Konstruktorzy</a>
+<a href="#" class="btn btn--primary btn--small">Projekty</a>
+<a href="#" class="btn btn--primary btn--small">Edycje</a>
+<a href="#" class="btn btn--primary btn--small">Historia</a>
 
 Konkurs na **Przydatne Urządzenie Krótkofalarskie** odbył się po raz pierwszy w roku **2010** dla „wyłonienia oryginalnej i ciekawej konstrukcji urządzenia, które może znaleźć zastosowanie w pracowni radioamatora i będzie w łatwy sposób możliwe do odwzorowania przez początkujących krótkofalowców”. Określenie celu konkursu nieco ewoluowało przez lata, ustalone zostały kategorie prac/projektów, ale niezmienna pozostaje główna...
 

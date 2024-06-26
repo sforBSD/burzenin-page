@@ -121,11 +121,12 @@ sq7hjb:
       url: "https://www.qrz.com/db/sq7hjb"
 
 ekipa:
-  name             : "Ekipa zjazdu"
+  name             : "Zjazd Techniczny Krótkofalowców"
   avatar           : "/assets/images/zjazd.png"
   bio              : "Wolontariusze odpowiedzialni za ten cały bałagan"
   email            : kontakt@zjazdtechniczny.krotkofalowcy.com.pl
   authorpage       : "/authors/ekipa"
+  invisible        : yes
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -765,9 +766,9 @@ spotc:
 ## begin SP9GMD
 sp9gmd:
   name              : Filip
-  avatar            : "/assets/images/zjazd.png"
   callsign          : SP9GMD
   constructor       : yes
+  speaker           : yes
   authorpage        :  "/authors/sp9gmd"
 
 ## end SP9GMD
@@ -775,9 +776,9 @@ sp9gmd:
 ## begin SP5OSP
 sp5osp:
   name              : Michał
-  avatar            : "/assets/images/zjazd.png"
   callsign          : SP5OSP
   constructor       : yes
+  speaker           : yes
   authorpage        :  "/authors/sp5osp"
 
 ## end SP5OSP
@@ -785,9 +786,9 @@ sp5osp:
 ## begin SQ6POG
 sq6pog:
   name              : Paweł
-  avatar            : "/assets/images/zjazd.png"
   callsign          : SQ6POG
   constructor       : yes
+  speaker           : yes
   authorpage        :  "/authors/sq6pog"
 
 ## end SQ6POG
@@ -795,9 +796,69 @@ sq6pog:
 ## begin SQ9NJL
 sq9njl:
   name              : Maciek
-  avatar            : "/assets/images/zjazd.png"
   callsign          : SQ9NJL
   constructor       : yes
+  speaker           : yes
   authorpage        :  "/authors/sq9njl"
 
 ## end SQ9NJL
+
+## begin SP9GNM
+sp9gnm:
+  name              : Władysław
+  callsign          : SP9GNM
+  constructor       : yes
+  speaker           : yes
+  authorpage        : "/authors/sp9gnm"
+
+## end SP9GNM
+
+## begin SP7GIQ
+sp7giq:
+  name              : Krzysztof
+  callsign          : SP7GIQ
+  constructor       : yes
+  speaker           : yes
+  authorpage        : "/authors/sp7giq"
+
+## end SP7GIQ
+
+## begin SQ3SWF
+sq3swf:
+  name              : Olgierd
+  callsign          : SQ3SWF
+  constructor       : yes
+  speaker           : yes
+  authorpage        : "/authors/sq3swf"
+
+## end SQ3SWF
+
+## begin SP9BIT
+sp9bit:
+  name              : Marcin
+  callsign          : SP9BIT
+  constructor       : yes
+  speaker           : yes
+  authorpage        : "/authors/sp9bit"
+
+## end SP9BIT
+
+## begin SQ9ZBF
+sq9zbf:
+  name              : Magda
+  callsign          : SQ9ZBF
+  constructor       : yes
+  speaker           : yes
+  authorpage        : "/authors/sq9zbf"
+
+## end SQ9ZBF
+
+## begin SP8EBC
+sp8ebc:
+  name              : Mateusz
+  callsign          : SP8EBC
+  constructor       : yes
+  speaker           : yes
+  authorpage        : "/authors/sp8ebc"
+
+## end SP8EBC
