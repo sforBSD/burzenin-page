@@ -241,6 +241,20 @@ figure {
       width: 100%;
     }
   }
+
+  &.fourth {
+    > a,
+    > iframe,
+    > img {
+      @include breakpoint($small) {
+        width: calc(25% - 0.5em);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
 }
 
 /* Figure captions */
