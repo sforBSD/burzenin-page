@@ -7,8 +7,6 @@ header:
   overlay_filter: 0.5
 ---
 
-{% include small_nav.html %}
-
 {% assign talks_by_year = site.talks | group_by_exp: "talk", "talk.starttime | date: '%Y'" | sort: "name" | reverse %}
 
 {% for year in talks_by_year %}

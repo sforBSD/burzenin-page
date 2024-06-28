@@ -10,12 +10,7 @@ header:
   overlay_filter: 0.5
 ---
 
-<a href="/puk" class="btn btn--info btn--small">PUK</a>
-<a href="/puk/constructors" class="btn btn--success btn--small">Konstruktorzy</a>
-<a href="#" class="btn btn--primary btn--small">Projekty</a>
-<a href="#" class="btn btn--primary btn--small">Edycje</a>
-<a href="/puk/wystawy" class="btn btn--primary btn--small">Wystawy Radioamatorskie</a>
-<a href="/puk/warsztaty_qrp" class="btn btn--primary btn--small">Warsztaty QRP</a>
+{% include small_nav.html %}
 
 Pierwsze dwie edycje konkursu na Przydatne Urządzenie Krótkofalarskie (2010 i 2011) odbyły się podczas Warsztatów SP-QRP, które organizowano w latach 2007-2011. Pomysłodawcą i głównym organizatorem Warsztatów QRP był Włodek SP5DDJ, propagator używania małych mocy nadawania, telegrafii oraz zrównoważonego rozwoju.
 

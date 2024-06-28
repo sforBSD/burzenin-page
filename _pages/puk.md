@@ -10,13 +10,7 @@ header:
   overlay_filter: 0.5
 ---
 
-<a href="/puk" class="btn btn--info btn--small">PUK</a>
-<a href="/puk/constructors" class="btn btn--success btn--small">Konstruktorzy</a>
-<a href="#" class="btn btn--primary btn--small">Projekty</a>
-<a href="#" class="btn btn--primary btn--small">Edycje</a>
-<a href="/puk/wystawy" class="btn btn--primary btn--small">Wystawy Radioamatorskie</a>
-<a href="/puk/warsztaty_qrp" class="btn btn--primary btn--small">Warsztaty QRP</a>
-
+{% include small_nav.html %}
 
 Konkurs na **Przydatne Urządzenie Krótkofalarskie** odbył się po raz pierwszy w roku **2010** dla „wyłonienia oryginalnej i ciekawej konstrukcji urządzenia, które może znaleźć zastosowanie w pracowni radioamatora i będzie w łatwy sposób możliwe do odwzorowania przez początkujących krótkofalowców”. Określenie celu konkursu nieco ewoluowało przez lata, ustalone zostały kategorie prac/projektów, ale niezmienna pozostaje główna...
 

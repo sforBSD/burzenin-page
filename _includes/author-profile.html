@@ -22,7 +22,7 @@
 
     <div class="author__content">
       <h3 class="author__name p-name" itemprop="name">
-        <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a> <small style="color: rgb(123, 123, 123);">{{ author.callsign }}</small>
+        <a class="u-url" rel="me" href="{{ author.authorpage | default: '/' | absolute_url }}" itemprop="url">{{ author.name }} <small style="color: rgb(123, 123, 123);">{{ author.callsign }}</small></a> 
       </h3>
       {% if author_list.size < 2 %}
       {% if author.bio %}

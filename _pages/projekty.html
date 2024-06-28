@@ -1,0 +1,74 @@
+---
+title: Projekty PUK
+layout: collection
+permalink: /puk/projekty
+# collection: puk
+# entries_layout: grid
+classes: wide
+header:
+  overlay_image: /assets/images/burzenin_puk.jpg
+  overlay_filter: 0.5
+categories:
+  A: "TX/RX/TRX"
+  B: "Anteny"
+  C: "Pomiarowe"
+  D: "Moduły"
+  E: "Oprogramowanie"
+ 
+
+---
+
+{% include small_nav.html %}
+
+{% assign category_order = "a,b,c,d,e" | split: "," %}
+{% assign categories = page.categories %}
+{% assign projects_by_year = site.puk | group_by: "puk_year" | sort: "name" | reverse %}
+
+<div id="year-buttons">
+{% for year in projects_by_year%}
+<a class="btn btn--info btn--small" href="#year-{{ year.name | slugify }}">{{ year.name }}</a>
+{% endfor %}
+</div>
+
+<div class="project-list">
+  
+	{% for year in projects_by_year %}
+    <div id="year-{{ year.name | slugify }}" class="project-year">
+      <h2><a href="#year-{{ year.name | slugify }}">{{ year.name }}</a></h2> <a href="#year-buttons">(powrót do listy edycji)</a>
+      {% assign projects_by_category = year.items | group_by: "puk_category" | sort: "name" %}
+      {% for category in projects_by_category %}
+        {% assign category_key = category.name %}
+        {% assign category_name = categories[category_key] %}
+        {% assign category_projects = category.items %}
+        {% if category_projects.size > 0 %}
+			<div class="project-category">
+			  <h3>Kategoria {{ category_key | upcase }} - {{ category_name }}</h3>
+			  <div class="project-category-grid">
+				{% assign sorted_projects = category_projects | sort: "puk_place" %}
+				{% for project in sorted_projects %}
+				  <div class="project-item">
+					{% if project.header.overlay_image %}
+					  <img src="{{ project.header.overlay_image | relative_url }}" alt="{{ project.title }}" class="project-image">
+					{% endif %}
+					<div class="project-details">
+					  <a href="{{ project.url | relative_url }}" class="project-title">{{ project.title }}</a>
+					  <div class="project-meta">
+						<span class="project-author">Autor: 
+						{% assign author_info = site.data.authors[project.author] %}
+						- <a href="{{ author_info.authorpage | relative_url }}">{{ author_info.name }}
+						{% if author_info.callsign and author_info.callsign != '' %}
+						  ({{ author_info.callsign }})
+						{% endif %}</a>
+						</span>
+						<span class="project-place">Projekt nr {{ project.puk_place }}</span>
+					  </div>
+					</div>
+				  </div>
+				{% endfor %}
+			  </div>
+			</div>
+		  {% endif %}
+		{% endfor %}
+	  </div>
+	{% endfor %}
+  </div>

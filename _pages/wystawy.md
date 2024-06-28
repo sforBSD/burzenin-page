@@ -27,12 +27,7 @@ gallery3:
     image_path: /assets/images/wystawy-1.jpg
 ---
 
-<a href="/puk" class="btn btn--info btn--small">PUK</a>
-<a href="/puk/constructors" class="btn btn--success btn--small">Konstruktorzy</a>
-<a href="#" class="btn btn--primary btn--small">Projekty</a>
-<a href="#" class="btn btn--primary btn--small">Edycje</a>
-<a href="/puk/wystawy" class="btn btn--primary btn--small">Wystawy Radioamatorskie</a>
-<a href="/puk/warsztaty_qrp" class="btn btn--primary btn--small">Warsztaty QRP</a>
+{% include small_nav.html %}
 
 Tradycja konkursów i wystaw urządzeń budowanych przez radioamatorów sięga początków krótkofalarstwa. Na zorganizowanej w czerwcu 1926 roku I Ogólnokrajowej Wystawie Radiowej w Warszawie, Władysław Wysocki TPAI, Ludomir Danilewicz TPAV oraz Tadeusz Heftman TPAX - otrzymali złote medale za wystawione odbiorniki i nadajniki. Na skutek istniejących wtedy przepisów, wystawione eksponaty zostały im po wystawie skonfiskowane przez ówczesne władze, bo... nie mieli licencji, których nikomu jeszcze nie wydawano!
 

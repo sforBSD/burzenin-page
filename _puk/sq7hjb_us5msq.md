@@ -2,7 +2,7 @@
 title: Projekt PCB do TRX US5MSQ
 puk_category: D
 puk_year: 2019
-puk_nr: 20
+puk_place: 20
 author: sq7hjb
 proofread: no
 tagline: ""
