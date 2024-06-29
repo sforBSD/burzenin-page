@@ -3,7 +3,8 @@ title: Zabudowa radiostacji terenowej do aluminiowego nesesera
 puk_category: D
 puk_year: 2016
 puk_place: 14
-author: sp5mad
+author: 
+  - sp5mad
 tagline: ""
 layout: puk
 proofread: no

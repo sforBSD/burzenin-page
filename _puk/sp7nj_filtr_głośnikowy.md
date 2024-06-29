@@ -3,7 +3,8 @@ title: Filtr głośnikowy
 puk_category: D
 puk_year: 2018
 puk_place: 10
-author: sp7nj
+author: 
+  - sp7nj
 tagline: ""
 layout: puk
 proofread: no

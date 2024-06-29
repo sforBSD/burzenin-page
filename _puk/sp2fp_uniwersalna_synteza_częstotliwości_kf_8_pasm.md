@@ -3,7 +3,8 @@ title: Uniwersalna synteza częstotliwości KF 8 pasm
 puk_category: D
 puk_year: 2019
 puk_place: 9
-author: sp2fp
+author: 
+  - sp2fp
 tagline: ""
 layout: puk
 proofread: no

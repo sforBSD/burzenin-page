@@ -3,7 +3,8 @@ title: Wobulator z wykorzystaniem platformy Arduino
 puk_category: C
 puk_year: 2017
 puk_place: 9
-author: sq7jhm
+author: 
+  - sq7jhm
 tagline: ""
 layout: puk
 proofread: no

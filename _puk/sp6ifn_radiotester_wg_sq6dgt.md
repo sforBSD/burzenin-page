@@ -3,7 +3,8 @@ title: Radiotester wg. SQ6DGT
 puk_category: C
 puk_year: 2018
 puk_place: 7
-author: sp6ifn
+author: 
+  - sp6ifn
 tagline: ""
 layout: puk
 proofread: no

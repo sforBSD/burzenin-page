@@ -3,7 +3,8 @@ title: Minitransceiver PSK NIKI 80
 puk_category: A
 puk_year: 2010
 puk_place: 1
-author: sp7nj
+author: 
+  - sp7nj
 tagline: ""
 layout: puk
 proofread: no

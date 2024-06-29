@@ -3,7 +3,8 @@ title: TRX Kacper na pasmo 80 metrów
 puk_category: A
 puk_year: 2012
 puk_place: 5
-author: sq7hjb
+author: 
+  - sq7hjb
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: TRX QRP Home Made
 puk_category: A
 puk_year: 2014
 puk_place: 5
-author: sq8mfb
+author: 
+  - sq8mfb
 tagline: ""
 layout: puk
 proofread: no

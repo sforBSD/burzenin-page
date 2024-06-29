@@ -3,7 +3,8 @@ title: Płyta główna TRX 1-500MHz
 puk_category: A
 puk_year: 2012
 puk_place: 2
-author: sp7nj
+author: 
+  - sp7nj
 tagline: ""
 layout: puk
 proofread: no

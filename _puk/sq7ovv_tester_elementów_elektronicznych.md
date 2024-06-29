@@ -3,7 +3,8 @@ title: Tester elementów elektronicznych
 puk_category: C
 puk_year: 2013
 puk_place: 16
-author: sq7ovv
+author: 
+  - sq7ovv
 tagline: ""
 layout: puk
 proofread: no

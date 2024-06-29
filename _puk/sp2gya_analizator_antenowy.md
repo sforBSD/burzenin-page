@@ -3,7 +3,8 @@ title: Analizator antenowy
 puk_category: C
 puk_year: 2012
 puk_place: 8
-author: sp2gya
+author: 
+  - sp2gya
 tagline: ""
 layout: puk
 proofread: no

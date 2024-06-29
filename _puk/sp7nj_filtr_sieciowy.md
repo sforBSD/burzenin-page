@@ -3,7 +3,8 @@ title: Filtr sieciowy
 puk_category: D
 puk_year: 2019
 puk_place: 13
-author: sp7nj
+author: 
+  - sp7nj
 tagline: ""
 layout: puk
 proofread: yes

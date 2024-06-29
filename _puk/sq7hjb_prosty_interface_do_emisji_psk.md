@@ -3,7 +3,8 @@ title: Prosty interface do emisji PSK
 puk_category: D
 puk_year: 2012
 puk_place: 16
-author: sq7hjb
+author: 
+  - sq7hjb
 tagline: ""
 layout: puk
 proofread: no

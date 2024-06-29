@@ -3,7 +3,8 @@ title: SP-TEST Logger
 puk_category: E
 puk_year: 2015
 puk_place: 12
-author: sp9nj
+author: 
+  - sp9nj
 tagline: ""
 layout: puk
 proofread: no

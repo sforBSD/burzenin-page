@@ -3,7 +3,8 @@ title: Aplikacja QSLbiuroMVE
 puk_category: E
 puk_year: 2017
 puk_place: 14
-author: sq3mve
+author: 
+  - sq3mve
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: Odbiornik mini SDR
 puk_category: A
 puk_year: 2013
 puk_place: 6
-author: sq5stu
+author: 
+  - sq5stu
 tagline: ""
 layout: puk
 proofread: no

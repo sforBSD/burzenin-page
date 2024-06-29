@@ -3,7 +3,8 @@ title: Zestaw tłumików oraz mostków pomiarowych
 puk_category: C
 puk_year: 2010
 puk_place: 3
-author: 3z6aef
+author: 
+  - 3z6aef
 tagline: ""
 layout: puk
 proofread: yes

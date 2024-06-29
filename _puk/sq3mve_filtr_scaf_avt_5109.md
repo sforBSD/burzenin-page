@@ -3,7 +3,8 @@ title: Filtr SCAF AVT-5109
 puk_category: D
 puk_year: 2018
 puk_place: 13
-author: sq3mve
+author: 
+  - sq3mve
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: 5W CW/WSPR TRX na pasmo 17m + antena vertical = zestaw na SOTA
 puk_category: A
 puk_year: 2017
 puk_place: 5
-author: sq7pel
+author: 
+  - sq7pel
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: Procesor audio DSP
 puk_category: D
 puk_year: 2019
 puk_place: 19
-author: sp6ltp
+author: 
+  - sp6ltp
 tagline: ""
 layout: puk
 proofread: no

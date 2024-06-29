@@ -3,7 +3,8 @@ title: Prosty odbiornik dla początkujących wg F6BQU (RX „Fala”)
 puk_category: A
 puk_year: 2013
 puk_place: 3
-author: sp8hmz
+author: 
+  - sp8hmz
 tagline: ""
 layout: puk
 proofread: no

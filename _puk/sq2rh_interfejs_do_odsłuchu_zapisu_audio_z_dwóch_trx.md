@@ -3,7 +3,8 @@ title: Interfejs do odsłuchu/zapisu audio z dwóch TRX
 puk_category: D
 puk_year: 2018
 puk_place: 12
-author: sq2rh
+author: 
+  - sq2rh
 tagline: ""
 layout: puk
 proofread: no

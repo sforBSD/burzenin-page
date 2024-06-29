@@ -3,7 +3,8 @@ title: Mini frezarka CNC do płytek PCB
 puk_category: D
 puk_year: 2019
 puk_place: 18
-author: sp6-01-446
+author: 
+  - sp6-01-446
 tagline: ""
 layout: puk
 proofread: no

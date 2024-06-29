@@ -3,7 +3,8 @@ title: PA QRP CW na pasmo 40m
 puk_category: A
 puk_year: 2013
 puk_place: 7
-author: sq7hjb
+author: 
+  - sq7hjb
 tagline: ""
 proofread: yes
 layout: puk

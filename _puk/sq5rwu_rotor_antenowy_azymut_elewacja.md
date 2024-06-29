@@ -3,7 +3,8 @@ title: Rotor antenowy azymut/elewacja
 puk_category: B
 puk_year: 2015
 puk_place: 4
-author: sq5rwu
+author: 
+  - sq5rwu
 tagline: ""
 layout: puk
 proofread: no

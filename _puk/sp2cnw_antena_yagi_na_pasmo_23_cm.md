@@ -3,7 +3,8 @@ title: Antena Yagi na pasmo 23 cm
 puk_category: B
 puk_year: 2019
 puk_place: 4
-author: sp2cnw
+author: 
+  - sp2cnw
 tagline: ""
 layout: puk
 proofread: yes

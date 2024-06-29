@@ -3,7 +3,8 @@ title: Tranceiver SDR Tulipan
 puk_category: A
 puk_year: 2015
 puk_place: 2
-author: sp6ltp
+author: 
+  - sp6ltp
 tagline: ""
 layout: puk
 proofread: no

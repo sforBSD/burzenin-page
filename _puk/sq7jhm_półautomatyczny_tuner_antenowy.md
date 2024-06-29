@@ -3,7 +3,8 @@ title: Półautomatyczny Tuner Antenowy
 puk_category: B
 puk_year: 2014
 puk_place: 7
-author: sq7jhm
+author: 
+  - sq7jhm
 tagline: ""
 layout: puk
 proofread: no

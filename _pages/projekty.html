@@ -55,7 +55,7 @@ categories:
 			  <div class="project-category-grid">
 				{% assign sorted_projects = category_projects | sort: "puk_place" %}
 				{% for project in sorted_projects %}
-				  <div class="project-item">
+				  <div class="project-item-fourth">
 					{% if project.header.overlay_image %}
 					  <img src="{{ project.header.overlay_image | relative_url }}" alt="{{ project.title }}" class="project-image">
 					{% endif %}
@@ -63,11 +63,13 @@ categories:
 					  <a href="{{ project.url | relative_url }}" class="project-title">{{ project.title }}</a>
 					  <div class="project-meta">
 						<span class="project-author">Autor: 
-						{% assign author_info = site.data.authors[project.author] %}
-						- <a href="{{ author_info.authorpage | relative_url }}">{{ author_info.name }}
-						{% if author_info.callsign and author_info.callsign != '' %}
-						  ({{ author_info.callsign }})
-						{% endif %}</a>
+							{% for author in project.author %}
+							{% assign author_info = site.data.authors[author] %}
+							- <a href="{{ author_info.authorpage | relative_url }}">{{ author_info.name }}
+							{% if author_info.callsign and author_info.callsign != '' %}
+							  ({{ author_info.callsign }})
+							{% endif %}</a>
+						  {% endfor %}
 						</span>
 						<span class="project-place">Projekt nr {{ project.puk_place }}</span>
 					  </div>

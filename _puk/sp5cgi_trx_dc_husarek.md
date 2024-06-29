@@ -3,7 +3,8 @@ title: TRX DC Husarek
 puk_category: A
 puk_year: 2013
 puk_place: 1
-author: sp5cgi
+author: 
+  - sp5cgi
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: Moduł kondensatorów ze wskaźnikiem napięcia
 puk_category: D
 puk_year: 2016
 puk_place: 13
-author: sp5mad
+author: 
+  - sp5mad
 tagline: ""
 layout: puk
 proofread: no

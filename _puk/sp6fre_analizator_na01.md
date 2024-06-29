@@ -3,7 +3,8 @@ title: Analizator NA01
 puk_category: C
 puk_year: 2011
 puk_place: 4
-author: sp6fre
+author: 
+  - sp6fre
 tagline: ""
 layout: puk
 proofread: no

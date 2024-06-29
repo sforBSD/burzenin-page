@@ -3,7 +3,8 @@ title: Uniwersalny wzmacniacz HF - 100W
 puk_category: D
 puk_year: 2015
 puk_place: 9
-author: sp9hvw
+author: 
+  - sp9hvw
 tagline: ""
 layout: puk
 proofread: no

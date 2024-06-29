@@ -3,7 +3,8 @@ title: Transceiver Kacper
 puk_category: A
 puk_year: 2015
 puk_place: 1
-author: sp2gya
+author: 
+  - sp2gya
 tagline: ""
 layout: puk
 proofread: no

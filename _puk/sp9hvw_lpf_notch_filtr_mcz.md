@@ -3,7 +3,8 @@ title: LPF, notch filtr- mcz.
 puk_category: D
 puk_year: 2016
 puk_place: 15
-author: sp9hvw
+author: 
+  - sp9hvw
 tagline: ""
 layout: puk
 proofread: no

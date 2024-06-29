@@ -3,7 +3,8 @@ title: Balkonowy zestaw antenowy BZA-5
 puk_category: B
 puk_year: 2014
 puk_place: 8
-author: sq7mzl
+author: 
+  - sq7mzl
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: Separator galwaniczny USB 5kV z własnym zasilaniem
 puk_category: D
 puk_year: 2016
 puk_place: 16
-author: sq7bfs
+author: 
+  - sq7bfs
 tagline: ""
 layout: puk
 proofread: no

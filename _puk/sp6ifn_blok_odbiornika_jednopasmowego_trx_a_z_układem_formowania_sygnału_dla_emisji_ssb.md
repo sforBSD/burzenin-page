@@ -3,7 +3,8 @@ title: Blok odbiornika jednopasmowego TRX-a z układem formowania sygnału dla e
 puk_category: A
 puk_year: 2013
 puk_place: 2
-author: sp6ifn
+author: 
+  - sp6ifn
 tagline: ""
 layout: puk
 proofread: no

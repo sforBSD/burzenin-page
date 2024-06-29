@@ -3,7 +3,8 @@ title: Regulowany tłumik w.cz. 131 dB
 puk_category: C
 puk_year: 2013
 puk_place: 9
-author: sp7roh
+author: 
+  - sp7roh
 tagline: ""
 layout: puk
 proofread: no

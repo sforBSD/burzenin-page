@@ -3,7 +3,8 @@ title: Generator TDO z funkcją falomierza zasilany bateryjką 1,5V
 puk_category: C
 puk_year: 2010
 puk_place: 4
-author: sp2gya
+author: 
+  - sp2gya
 tagline: ""
 layout: puk
 proofread: no

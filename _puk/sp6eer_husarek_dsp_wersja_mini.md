@@ -3,7 +3,8 @@ title: HUSAREK DSP wersja MINI
 puk_category: A
 puk_year: 2017
 puk_place: 1
-author: sp6eer
+author: 
+  - sp6eer
 tagline: ""
 layout: puk
 proofread: no

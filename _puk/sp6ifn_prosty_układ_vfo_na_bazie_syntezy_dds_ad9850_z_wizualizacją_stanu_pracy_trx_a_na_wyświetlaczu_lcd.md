@@ -3,7 +3,8 @@ title: Prosty układ VFO na bazie syntezy DDS AD9850 z wizualizacją stanu pracy
 puk_category: D
 puk_year: 2013
 puk_place: 17
-author: sp6ifn
+author: 
+  - sp6ifn
 tagline: ""
 layout: puk
 proofread: no

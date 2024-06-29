@@ -3,7 +3,8 @@ title: Transceiver  OMEGA V.3 (12-pasmowa)
 puk_category: A
 puk_year: 2016
 puk_place: 5
-author: sp7nj
+author: 
+  - sp7nj
 tagline: ""
 layout: puk
 proofread: no

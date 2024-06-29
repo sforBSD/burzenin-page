@@ -3,7 +3,8 @@ title: HAMBIT
 puk_category: D
 puk_year: 2018
 puk_place: 11
-author: sp9jm
+author: 
+  - sp9jm
 tagline: ""
 layout: puk
 proofread: yes

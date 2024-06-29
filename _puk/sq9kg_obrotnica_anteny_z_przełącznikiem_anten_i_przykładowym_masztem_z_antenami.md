@@ -3,7 +3,8 @@ title: Obrotnica anteny z przełącznikiem anten i przykładowym masztem z anten
 puk_category: B
 puk_year: 2016
 puk_place: 11
-author: sq9kg
+author: 
+  - sq9kg
 tagline: ""
 layout: puk
 proofread: no

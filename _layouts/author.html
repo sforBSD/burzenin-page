@@ -1,5 +1,6 @@
 ---
 layout: archive
+classes: wide
 ---
 
 {% assign author = site.data.authors[page.author] %}
@@ -9,9 +10,30 @@ layout: archive
       <h2 class="archive__subtitle">Projekty:</h2>
       <div class="entries-list">
 
-        {% for post in posts %}
-          {% include archive-single.html type=entries_layout %}
-        {% endfor %}
+        <div class="project-category-grid">
+          {% for post in posts %}
+            <div class="project-item-half">
+            {% if post.header.overlay_image %}
+              <img src="{{ post.header.overlay_image | relative_url }}" alt="{{ post.title }}" class="project-image">
+            {% endif %}
+            <div class="project-details">
+              <a href="{{ post.url | relative_url }}" class="project-title">{{ post.title }}</a>
+              <div class="project-meta">
+              <span class="project-author">Autor: 
+                {% for author in post.author %}
+                  {% assign author_info = site.data.authors[author] %}
+                  - <a href="{{ author_info.authorpage | relative_url }}">{{ author_info.name }}
+                  {% if author_info.callsign and author_info.callsign != '' %}
+                    ({{ author_info.callsign }})
+                  {% endif %}</a>
+                {% endfor %}
+              </span>
+              Rok {{ post.puk_year }} numer {{post.puk_place}} kategoria {{ post.puk_category}}
+              </div>
+            </div>
+            </div>
+          {% endfor %}
+          </div>
         
       </div>
     </section>
@@ -22,9 +44,30 @@ layout: archive
       <h2 class="archive__subtitle">Wystąpienia:</h2>
       <div class="entries-list">
 
-        {% for post in posts %}
-          {% include archive-single.html type=entries_layout %}
-        {% endfor %}
+        <div class="project-category-grid">
+          {% for post in posts %}
+            <div class="project-item-half">
+            {% if post.header.overlay_image %}
+              <img src="{{ post.header.overlay_image | relative_url }}" alt="{{ post.title }}" class="project-image">
+            {% endif %}
+            <div class="project-details">
+              <a href="{{ post.url | relative_url }}" class="project-title">{{ post.title }}</a>
+              <div class="project-meta">
+                <span class="project-author">Autor: 
+                  {% for author in post.author %}
+                    {% assign author_info = site.data.authors[author] %}
+                    - <a href="{{ author_info.authorpage | relative_url }}">{{ author_info.name }}
+                    {% if author_info.callsign and author_info.callsign != '' %}
+                      ({{ author_info.callsign }})
+                    {% endif %}</a>
+                  {% endfor %}
+                </span>
+                Kiedy: {{ post.starttime }} sala {{post.room}}.
+              </div>
+            </div>
+            </div>
+          {% endfor %}
+          </div>
         
       </div>
     </section>

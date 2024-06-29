@@ -3,7 +3,8 @@ title: Wielofunkcyjne urządzenie pomiarowe "radio3"
 puk_category: C
 puk_year: 2017
 puk_place: 8
-author: sq6dgt
+author: 
+  - sq6dgt
 tagline: ""
 layout: puk
 proofread: no

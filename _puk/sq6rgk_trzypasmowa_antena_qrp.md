@@ -3,7 +3,8 @@ title: Trzypasmowa antena QRP
 puk_category: B
 puk_year: 2011
 puk_place: 3
-author: sq6rgk
+author: 
+  - sq6rgk
 tagline: ""
 layout: puk
 proofread: no

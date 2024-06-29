@@ -3,7 +3,8 @@ title: Interface CAT na USB do Elecraft K2
 puk_category: D
 puk_year: 2017
 puk_place: 13
-author: sq7ovv
+author: 
+  - sq7ovv
 tagline: ""
 layout: puk
 proofread: no

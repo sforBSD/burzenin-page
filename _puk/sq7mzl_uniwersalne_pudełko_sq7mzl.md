@@ -3,7 +3,8 @@ title: Uniwersalne Pudełko SQ7MZL
 puk_category: D
 puk_year: 2016
 puk_place: 17
-author: sq7mzl
+author: 
+  - sq7mzl
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: EmCom DIGI APRS dla infrastruktury sieci ratunkowej
 puk_category: D
 puk_year: 2019
 puk_place: 21
-author: sq9mdd
+author: 
+  - sq9mdd
 tagline: ""
 layout: puk
 proofread: no

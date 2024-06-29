@@ -3,7 +3,8 @@ title: Lekka antena terenowa QRP 80-10m
 puk_category: B
 puk_year: 2018
 puk_place: 4
-author: sp8qep
+author: 
+  - sp8qep
 tagline: ""
 layout: puk
 proofread: no

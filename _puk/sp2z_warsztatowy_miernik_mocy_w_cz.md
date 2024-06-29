@@ -3,7 +3,8 @@ title: Warsztatowy miernik mocy w. cz.
 puk_category: C
 puk_year: 2018
 puk_place: 6
-author: sp2z
+author: 
+  - sp2z
 tagline: ""
 layout: puk
 proofread: no

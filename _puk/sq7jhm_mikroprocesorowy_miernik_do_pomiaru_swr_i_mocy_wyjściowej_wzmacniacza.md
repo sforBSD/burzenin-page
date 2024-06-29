@@ -3,7 +3,8 @@ title: Mikroprocesorowy miernik do pomiaru SWR i mocy wyjściowej wzmacniacza
 puk_category: C
 puk_year: 2013
 puk_place: 14
-author: sq7jhm
+author: 
+  - sq7jhm
 tagline: ""
 layout: puk
 proofread: no

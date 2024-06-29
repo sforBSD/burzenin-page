@@ -3,7 +3,8 @@ title: Rozszerzenie zakresu pracy wobulatora NWT7 do 200 MHz.
 puk_category: C
 puk_year: 2012
 puk_place: 10
-author: sq4avs
+author: 
+  - sq4avs
 tagline: ""
 layout: puk
 proofread: no

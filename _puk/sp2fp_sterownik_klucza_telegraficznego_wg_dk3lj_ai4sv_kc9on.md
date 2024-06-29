@@ -3,15 +3,16 @@ title: Sterownik klucza telegraficznego wg DK3LJ/AI4SV/KC9ON
 puk_category: D
 puk_year: 2019
 puk_place: 17
-author: sp2fp
+author: 
+  - sp2fp
 tagline: ""
 layout: puk
 proofread: yes
 classes: wide
 header:
-  overlay_image: /assets/images/puk/dummy.jpg
+  overlay_image: /assets/images/dummy.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/puk/dummy.jpg
+  teaser: /assets/images/dummy.jpg
 ---
 
 Odnośniki

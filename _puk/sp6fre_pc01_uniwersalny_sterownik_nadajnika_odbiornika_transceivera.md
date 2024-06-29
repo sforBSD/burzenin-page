@@ -3,7 +3,8 @@ title: PC01 - uniwersalny sterownik nadajnika/odbiornika/transceivera
 puk_category: D
 puk_year: 2017
 puk_place: 12
-author: sp6fre
+author: 
+  - sp6fre
 tagline: ""
 layout: puk
 proofread: no

@@ -3,15 +3,16 @@ title: Puszka antenowa do anten Yagi na pasma UKF
 puk_category: B
 puk_year: 2018
 puk_place: 5
-author: sq6qv
+author: 
+  - sq6qv
 tagline: ""
 layout: puk
 proofread: no
 classes: wide
 header:
-  overlay_image: /assets/images/puk/dummy.jpg
+  overlay_image: /assets/images/dummy.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/puk/dummy.jpg
+  teaser: /assets/images/dummy.jpg
 ---
 
 

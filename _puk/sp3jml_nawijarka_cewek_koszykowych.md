@@ -3,7 +3,8 @@ title: Nawijarka cewek koszykowych
 puk_category: D
 puk_year: 2019
 puk_place: 12
-author: sp3jml
+author: 
+  - sp3jml
 tagline: ""
 layout: puk
 proofread: no

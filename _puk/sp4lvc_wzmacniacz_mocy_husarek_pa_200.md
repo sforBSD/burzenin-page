@@ -3,7 +3,8 @@ title: Wzmacniacz mocy Husarek PA-200
 puk_category: A
 puk_year: 2019
 puk_place: 2
-author: sp4lvc
+author: 
+  - sp4lvc
 tagline: ""
 layout: puk
 proofread: no

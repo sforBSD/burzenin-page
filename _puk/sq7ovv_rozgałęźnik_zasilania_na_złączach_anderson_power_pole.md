@@ -3,7 +3,8 @@ title: Rozgałęźnik zasilania na złączach Anderson Power Pole
 puk_category: D
 puk_year: 2018
 puk_place: 16
-author: sq7ovv
+author: 
+  - sq7ovv
 tagline: ""
 layout: puk
 proofread: no

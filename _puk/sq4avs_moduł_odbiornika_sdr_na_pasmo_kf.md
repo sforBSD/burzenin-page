@@ -3,7 +3,8 @@ title: Moduł odbiornika SDR na pasmo KF
 puk_category: A
 puk_year: 2013
 puk_place: 5
-author: sq4avs
+author: 
+  - sq4avs
 tagline: ""
 layout: puk
 proofread: no

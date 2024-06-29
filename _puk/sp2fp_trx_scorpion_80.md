@@ -3,7 +3,8 @@ title: TRX SCORPION 80
 puk_category: A
 puk_year: 2016
 puk_place: 1
-author: sp2fp
+author: 
+  - sp2fp
 tagline: ""
 layout: puk
 proofread: no

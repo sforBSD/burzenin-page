@@ -3,7 +3,8 @@ title: Transceiver VisAir
 puk_category: A
 puk_year: 2016
 puk_place: 4
-author: sp6ltp
+author: 
+  - sp6ltp
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: Falomierz generator
 puk_category: C
 puk_year: 2012
 puk_place: 9
-author: sp7yc
+author: 
+  - sp7yc
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: Cyfrowy moduł DSP AGC dla analogowych TRX
 puk_category: D
 puk_year: 2019
 puk_place: 16
-author: sq5kvs
+author: 
+  - sq5kvs
 tagline: ""
 layout: puk
 proofread: no

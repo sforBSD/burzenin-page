@@ -3,7 +3,8 @@ title: Zestaw do instalacji i zdalnego testowania anten
 puk_category: B
 puk_year: 2014
 puk_place: 6
-author: sp9wr
+author: 
+  - sp9wr
 tagline: ""
 layout: puk
 proofread: no

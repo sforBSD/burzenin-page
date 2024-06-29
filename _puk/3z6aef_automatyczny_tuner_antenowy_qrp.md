@@ -3,7 +3,8 @@ title: Automatyczny tuner antenowy QRP
 puk_category: B
 puk_year: 2011
 puk_place: 2
-author: 3z6aef
+author: 
+  - 3z6aef
 tagline: ""
 layout: puk
 proofread: yes

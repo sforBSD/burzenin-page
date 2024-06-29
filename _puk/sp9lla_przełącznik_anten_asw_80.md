@@ -3,7 +3,8 @@ title: Przełącznik anten ASW-80
 puk_category: B
 puk_year: 2010
 puk_place: 2
-author: sp9lla
+author: 
+  - sp9lla
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: Zdalny przełącznik antenowy
 puk_category: B
 puk_year: 2019
 puk_place: 5
-author: sp2z
+author: 
+  - sp2z
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: Wielofunkcyjny miernik FCLG
 puk_category: C
 puk_year: 2013
 puk_place: 10
-author: sp7yc
+author: 
+  - sp7yc
 tagline: ""
 layout: puk
 proofread: no

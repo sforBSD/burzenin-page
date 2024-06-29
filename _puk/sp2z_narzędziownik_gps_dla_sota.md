@@ -3,7 +3,8 @@ title: Narzędziownik GPS dla SOTA
 puk_category: D
 puk_year: 2019
 puk_place: 11
-author: sp2z
+author: 
+  - sp2z
 tagline: ""
 layout: puk
 proofread: no

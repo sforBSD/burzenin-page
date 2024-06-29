@@ -3,7 +3,8 @@ title: uBeacon zasilany solarnie
 puk_category: A
 puk_year: 2019
 puk_place: 3
-author: sq5kvs
+author: 
+  - sq5kvs
 tagline: ""
 layout: puk
 proofread: no

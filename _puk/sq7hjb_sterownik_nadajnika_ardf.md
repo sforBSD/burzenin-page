@@ -3,7 +3,8 @@ title: Sterownik nadajnika ARDF.
 puk_category: D
 puk_year: 2011
 puk_place: 6
-author: sq7hjb
+author: 
+  - sq7hjb
 tagline: ""
 layout: puk
 proofread: no

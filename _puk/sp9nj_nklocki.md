@@ -3,15 +3,16 @@ title: nKlocki
 puk_category: E
 puk_year: 2016
 puk_place: 18
-author: sp9nj
+author: 
+  - sp9nj
 tagline: ""
 layout: puk
 proofread: no
 classes: wide
 header:
-  overlay_image: /assets/images/puk/dummy.jpg
+  overlay_image: /assets/images/dummy.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/puk/dummy.jpg
+  teaser: /assets/images/dummy.jpg
 ---
 
 ![](assets/img/work-in-progress.jpg) 

@@ -3,7 +3,8 @@ title: Kontroler anteny magnetycznej
 puk_category: B
 puk_year: 2016
 puk_place: 8
-author: sp6fre
+author: 
+  - sp6fre
 tagline: ""
 layout: puk
 proofread: no

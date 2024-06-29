@@ -3,7 +3,8 @@ title: Balkonowa Antena Magnetyczna BAM-3
 puk_category: B
 puk_year: 2015
 puk_place: 5
-author: sq7mzl
+author: 
+  - sq7mzl
 tagline: ""
 layout: puk
 proofread: no

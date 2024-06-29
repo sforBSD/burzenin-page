@@ -3,7 +3,8 @@ title: Miernik antenowy i nie tylko, SWR/ X/Z  z wykorzystaniem platformy Arduin
 puk_category: C
 puk_year: 2017
 puk_place: 10
-author: sq7jhm
+author: 
+  - sq7jhm
 tagline: ""
 layout: puk
 proofread: no

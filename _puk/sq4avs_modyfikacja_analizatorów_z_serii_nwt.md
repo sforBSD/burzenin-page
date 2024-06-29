@@ -3,7 +3,8 @@ title: Modyfikacja analizatorów z serii NWT
 puk_category: C
 puk_year: 2013
 puk_place: 11
-author: sq4avs
+author: 
+  - sq4avs
 tagline: ""
 layout: puk
 proofread: no

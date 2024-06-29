@@ -3,7 +3,8 @@ title: Wzmacniacz 50W
 puk_category: D
 puk_year: 2015
 puk_place: 8
-author: sp2gya
+author: 
+  - sp2gya
 tagline: ""
 layout: puk
 proofread: no

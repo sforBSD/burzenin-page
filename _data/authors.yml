@@ -8,13 +8,10 @@ sq9wtf:
   speaker         : no
   callsign        : SQ9WTF
   authorpage      :  "/authors/sq9wtf"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wiktor@hackerspace-krk.pl"
-    - label: "QRZ.com"
-      icon: "fas fa-fw fa-book"
-      url: "https://www.qrz.com/db/sq9wtf"
+  email           : "wiktor@hackerspace-krk.pl"
+  github          : "wprzyb"
+  instagram       : "wprzyb"
+  mastodon        : "https://mastodon.radio/@sq9wtf"
 
 sp6mar:
   name            : "Martyna"
@@ -25,10 +22,7 @@ sp6mar:
   constructor     : no
   speaker         : no
   authorpage      :  "/authors/sp6mar"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:martyna@hackerspace-krk.pl"
+  email           : "martyna@hackerspace-krk.pl"
 
 sq9zaq:
   name            : "canis_lupus"
@@ -41,13 +35,7 @@ sq9zaq:
   zjazd_orga      : yes
   constructor     : yes
   speaker         : no
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:szymon@hackerspace-krk.pl"
-    - label: "QRZ.com"
-      icon: "fas fa-fw fa-book"
-      url: "https://www.qrz.com/db/sq9zaq"
+  email           : "szymon@hackerspace-krk.pl"
 
 sp3htf:
   name            : "Rafał"
@@ -88,10 +76,6 @@ sp9mrn:
   zjazd_orga      : yes
   constructor     : yes
   speaker         : no
-  links:
-    - label: "QRZ.com"
-      icon: "fas fa-fw fa-book"
-      url: "https://www.qrz.com/db/sp9mrn"
 
 sp2fp:
   name            : "Paweł"
@@ -101,10 +85,6 @@ sp2fp:
   zjazd_orga      : no
   constructor     : yes
   speaker         : no
-  links:
-    - label: "QRZ.com"
-      icon: "fas fa-fw fa-book"
-      url: "https://www.qrz.com/db/sp2fp"
 
 sq7hjb:
   name            : "Marek"
@@ -115,10 +95,6 @@ sq7hjb:
   zjazd_orga      : no
   constructor     : yes
   speaker         : no
-  links:
-    - label: "QRZ.com"
-      icon: "fas fa-fw fa-book"
-      url: "https://www.qrz.com/db/sq7hjb"
 
 ekipa:
   name             : "Zjazd Techniczny Krótkofalowców"

@@ -3,7 +3,8 @@ title: Zasilacz Stabilizowany Ręcznie Regulowany
 puk_category: D
 puk_year: 2015
 puk_place: 7
-author: sp2gya
+author:
+ - sp2gya
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: Uniwersalny syntezer DDS do TRX-ów jednopasmowych
 puk_category: D
 puk_year: 2012
 puk_place: 15
-author: sq1gu
+author: 
+  - sq1gu
 tagline: ""
 layout: puk
 proofread: no

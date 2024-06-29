@@ -3,7 +3,8 @@ title: Nadajnik ARDF 3,5/144 MHz
 puk_category: A
 puk_year: 2014
 puk_place: 1
-author: sp7yc
+author: 
+  - sp7yc
 tagline: ""
 layout: puk
 proofread: no

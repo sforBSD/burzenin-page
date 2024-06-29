@@ -3,7 +3,8 @@ title: HYDRA - TRX KF CW/SSB 3,5/7/14 MHz
 puk_category: A
 puk_year: 2019
 puk_place: 1
-author: sp2fp
+author: 
+  - sp2fp
 tagline: ""
 layout: puk
 classes: wide

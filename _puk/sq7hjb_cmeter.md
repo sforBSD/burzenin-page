@@ -3,7 +3,8 @@ title: Miernik pojemności
 puk_category: C
 puk_year: 2013
 puk_place: 12
-author: sq7hjb
+author: 
+  - sq7hjb
 tagline: ""
 proofread: yes
 layout: puk

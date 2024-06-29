@@ -3,7 +3,8 @@ title: Bezprzewodowy CAT interfejs
 puk_category: D
 puk_year: 2012
 puk_place: 14
-author: sq1gu
+author: 
+  - sq1gu
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: Generator DDS w oparciu o gotowy moduł AD9850
 puk_category: D
 puk_year: 2012
 puk_place: 12
-author: sp6fre
+author: 
+  - sp6fre
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: Wzmacniacz mocy B26-PA RF2K5
 puk_category: D
 puk_year: 2018
 puk_place: 9
-author: sp6dlo
+author: 
+  - sp6dlo
 tagline: ""
 layout: puk
 proofread: no

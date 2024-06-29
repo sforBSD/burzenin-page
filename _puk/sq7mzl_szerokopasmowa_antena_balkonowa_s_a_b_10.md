@@ -3,7 +3,8 @@ title: Szerokopasmowa Antena Balkonowa S-A-B 10
 puk_category: B
 puk_year: 2016
 puk_place: 10
-author: sq7mzl
+author: 
+  - sq7mzl
 tagline: ""
 layout: puk
 proofread: no

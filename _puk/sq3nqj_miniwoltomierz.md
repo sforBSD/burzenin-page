@@ -3,7 +3,8 @@ title: Miniwoltomierz
 puk_category: C
 puk_year: 2014
 puk_place: 10
-author: sq3nqj
+author: 
+  - sq3nqj
 tagline: ""
 layout: puk
 proofread: no

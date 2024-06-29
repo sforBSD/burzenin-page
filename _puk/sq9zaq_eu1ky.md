@@ -2,6 +2,7 @@
 title: Analizator wg EU1KY
 puk_category: C
 puk_year: 2017
+puk_place: 11
 author: 
   - sq9zaq
 tagline: ""

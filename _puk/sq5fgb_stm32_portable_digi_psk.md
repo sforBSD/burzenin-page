@@ -3,7 +3,8 @@ title: STM32 Portable DIGI PSK
 puk_category: D
 puk_year: 2015
 puk_place: 10
-author: sq5fgb
+author: 
+  - sq5fgb
 tagline: ""
 layout: puk
 proofread: no

@@ -3,7 +3,8 @@ title: Uniwersalna obudowa do transceivera
 puk_category: D
 puk_year: 2015
 puk_place: 11
-author: sq9kg
+author: 
+  - sq9kg
 tagline: ""
 layout: puk
 proofread: no

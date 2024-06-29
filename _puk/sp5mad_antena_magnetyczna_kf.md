@@ -3,7 +3,8 @@ title: Antena magnetyczna KF
 puk_category: B
 puk_year: 2012
 puk_place: 6
-author: sp5mad
+author: 
+  - sp5mad
 tagline: ""
 layout: puk
 proofread: no

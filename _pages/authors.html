@@ -12,7 +12,7 @@ Poniżej znajduje się lista dotychczas zidentyfikowanych i przypisanych do swoi
 
 <br>
 <br>
-Warto dodać, że nieobecność kogoś na tej liście nie oznaczy umniejszenia zasług tej osoby - choćby w przypadku <a href="/puk/warsztaty_qrp">osób organizujących Warsztaty QRP</a> - nie ma jeszcze dopisanej obsługi pojedynczych historycznych zjazdów jako odkładająca się na profilu użytkownika i na tej liście "zasługa". 
+Warto dodać, że nieobecność kogoś na tej liście nie oznaczy umniejszenia zasług tej osoby - choćby w przypadku <a href="/warsztaty_qrp">osób organizujących Warsztaty QRP</a> - nie ma jeszcze dopisanej obsługi pojedynczych historycznych zjazdów jako odkładająca się na profilu użytkownika i na tej liście "zasługa". 
 
 <br>
 <br>
@@ -69,14 +69,17 @@ Warto dodać, że nieobecność kogoś na tej liście nie oznaczy umniejszenia z
 			{% include author_count.html current_author=f current_collection='talks'%}
 	  	{% endcapture %}
 
+		{%assign pcount = project_count | strip %}
+		{%assign tcount = talk_count | strip%}
+
 		<p><a href="/authors/{{ f[0] }}" class="page__taxonomy-item p-category">
 			{% if f[1].zjazd_orga %}
-			Organizator, 
+			Organizator.  
 			{% endif %}
-			{% unless project_count == "0" %}
-			Projektów: {{ project_count }},
+			{% unless pcount == "0" %}
+			Projektów: {{ project_count }}.
 			{% endunless %}
-			{% unless talk_count == "0" %} Wystąpień: {{ talk_count }}
+			{% unless tcount == "0" %} Wystąpień: {{ talk_count }}.
 			{% endunless %}</a></p>
 		
 	</div>

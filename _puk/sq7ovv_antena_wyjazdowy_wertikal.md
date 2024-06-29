@@ -3,7 +3,8 @@ title: Antena „Wyjazdowy wertikal”
 puk_category: B
 puk_year: 2013
 puk_place: 8
-author: sq7ovv
+author: 
+  - sq7ovv
 tagline: ""
 layout: puk
 proofread: no

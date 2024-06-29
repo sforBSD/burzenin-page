@@ -3,7 +3,8 @@ title: Radiowy Poligon
 puk_category: A
 puk_year: 2017
 puk_place: 4
-author: sq7ovz
+author: 
+  - sq7ovz
 tagline: ""
 layout: puk
 proofread: no

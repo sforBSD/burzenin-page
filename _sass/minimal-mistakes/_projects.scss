@@ -32,16 +32,28 @@
 	gap: 20px;
   }
   
-  .project-item {
+  @mixin project-item-styles($width) {
 	background: #f9f9f9;
 	border: 1px solid #ddd;
 	border-radius: 8px;
 	padding: 15px;
-	width: calc(25% - 20px);
+	width: calc(#{$width} - 20px);
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+  }
+  
+  .project-item-half {
+	@include project-item-styles(50%);
+  }
+  
+  .project-item-third {
+	@include project-item-styles(33.333%);
+  }
+  
+  .project-item-fourth {
+	@include project-item-styles(25%);
   }
   
   .project-image {

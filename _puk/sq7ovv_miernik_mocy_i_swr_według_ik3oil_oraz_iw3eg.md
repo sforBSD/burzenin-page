@@ -3,7 +3,8 @@ title: Miernik mocy i SWR według IK3OIL oraz IW3EG
 puk_category: C
 puk_year: 2013
 puk_place: 15
-author: sq7ovv
+author: 
+  - sq7ovv
 tagline: ""
 layout: puk
 proofread: no

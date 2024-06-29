@@ -3,7 +3,8 @@ title: Głośnik rezonansowy CW
 puk_category: D
 puk_year: 2018
 puk_place: 15
-author: sp7q
+author: 
+  - sp7q
 tagline: ""
 layout: puk
 proofread: yes
