@@ -1,0 +1,18 @@
+LICENSE in root folder is covering all Minimal Mistakes code which is copyrighted by Michael Rose and contributors with MIT License
+All updates and tweaks to the code that was needed for that project that was made outside the main development process of the template are also shared on MIT License conditions.
+Things that need to be licensed other way are some assets, that are not code, but documents and photos, that provide a content to the page, not its structure or design per se.
+
+Event: For the purposes of this sub-license, the term "event" shall hereafter refer specifically to "Zjazd Techniczny Krótkofalowców".
+
+Because of amount of various assets that the page (mainly PUK contest part) is made of, numbers of contestants, differences and eventual inconsistencies between editions of the event and its contest rulebook, it's hard to provide one with complete list of licenses for each file.
+
+We can assume that:
+/assets/images/people - all photos of people faces are copyrighted by the person on the photo and usage of it for event webpage are permited by them, yet organizers suggest them to use one of CC licenses, so some of them may happen to be licensed with CC license (list below)
+- sq9wtf.jpg (CC-BY-NC 4.0)
+/assets/images/bin - it is to be clarified, for now - same as /assets/images/people
+
+Other photos are copyrighted with CC-BY-NC by Zjazd Techniczny Krótkofalowców until said otherwise
+
+If the above information does not cover a specific case or if you wish to use the work in a manner not explicitly permitted by this sub-license, it is recommended to contact us for clarification and permission. 
+
+Please note that this sub-license is under construction and has not been professionally drafted. It is intended to provide clarification and guidance for the use of non-code assets within this project.
