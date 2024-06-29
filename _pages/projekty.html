@@ -1,6 +1,6 @@
 ---
 title: Projekty PUK
-layout: collection
+layout: collection # TODO zmiana
 permalink: /puk/projekty
 # collection: puk
 # entries_layout: grid
@@ -8,6 +8,17 @@ classes: wide
 header:
   overlay_image: /assets/images/burzenin_puk.jpg
   overlay_filter: 0.5
+  actions:
+    - label: "<i class='fas fa-download'></i> PUK"
+      url: "/puk"
+    - label: "<i class='fas fa-wrench'></i> Regulamin PUK"
+      url: "/puk/regulamin"
+    - label: "<i class='fas fa-wrench'></i> Konstruktorzy"
+      url: "/puk/constructors"
+    - label: "<i class='fas fa-wrench'></i> Projekty"
+      url: "/puk/projekty"
+    - label: "<i class='fas fa-wrench'></i> Wystawy radioamatorskie"
+      url: "/puk/wystawy"
 categories:
   A: "TX/RX/TRX"
   B: "Anteny"
@@ -17,8 +28,6 @@ categories:
  
 
 ---
-
-{% include small_nav.html %}
 
 {% assign category_order = "a,b,c,d,e" | split: "," %}
 {% assign categories = page.categories %}

@@ -1,6 +1,6 @@
 ---
 title: Wystawy radioamatorskie
-layout: collection
+layout: collection # TODO zmiana
 permalink: /puk/wystawy
 # collection: puk
 # entries_layout: grid
@@ -8,6 +8,17 @@ classes: wide
 header:
   overlay_image: /assets/images/wystawa-radjoamator.jpg
   overlay_filter: 0.5
+  actions:
+    - label: "<i class='fas fa-download'></i> PUK"
+      url: "/puk"
+    - label: "<i class='fas fa-wrench'></i> Regulamin PUK"
+      url: "/puk/regulamin"
+    - label: "<i class='fas fa-wrench'></i> Konstruktorzy"
+      url: "/puk/constructors"
+    - label: "<i class='fas fa-wrench'></i> Projekty"
+      url: "/puk/projekty"
+    - label: "<i class='fas fa-wrench'></i> Wystawy radioamatorskie"
+      url: "/puk/wystawy"
 gallery1:
   - url: /assets/images/wystawa-radjoamator.jpg
     image_path: /assets/images/wystawa-radjoamator.jpg
@@ -26,8 +37,6 @@ gallery3:
   - url: /assets/images/wystawy-1.jpg
     image_path: /assets/images/wystawy-1.jpg
 ---
-
-{% include small_nav.html %}
 
 Tradycja konkursów i wystaw urządzeń budowanych przez radioamatorów sięga początków krótkofalarstwa. Na zorganizowanej w czerwcu 1926 roku I Ogólnokrajowej Wystawie Radiowej w Warszawie, Władysław Wysocki TPAI, Ludomir Danilewicz TPAV oraz Tadeusz Heftman TPAX - otrzymali złote medale za wystawione odbiorniki i nadajniki. Na skutek istniejących wtedy przepisów, wystawione eksponaty zostały im po wystawie skonfiskowane przez ówczesne władze, bo... nie mieli licencji, których nikomu jeszcze nie wydawano!
 

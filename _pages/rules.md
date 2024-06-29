@@ -1,14 +1,23 @@
 ---
 title: PUK - Regulamin
-layout: collection
+layout: collection # TODO zmiana
 permalink: /puk/regulamin
 classes: wide
 header:
   overlay_image: /assets/images/burzenin_puk.jpg
   overlay_filter: 0.5
+  actions:
+    - label: "<i class='fas fa-download'></i> PUK"
+      url: "/puk"
+    - label: "<i class='fas fa-wrench'></i> Regulamin PUK"
+      url: "/puk/regulamin"
+    - label: "<i class='fas fa-wrench'></i> Konstruktorzy"
+      url: "/puk/constructors"
+    - label: "<i class='fas fa-wrench'></i> Projekty"
+      url: "/puk/projekty"
+    - label: "<i class='fas fa-wrench'></i> Wystawy radioamatorskie"
+      url: "/puk/wystawy"
 ---
-
-{% include small_nav.html %}
 
 1. Celem Konkursu na Przydatne Urządzenie Krótkofalarskie PUK jest promocja samodzielnego projektowania i budowy urządzeń elektronicznych, przydatnych w praktyce radioamatora i krótkofalowca oraz propagowanie idei pracy zespołowej, samokształcenia i rozwijania zainteresowań technicznych.
 

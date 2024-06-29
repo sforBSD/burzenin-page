@@ -1,6 +1,6 @@
 ---
 title: PUK - Przydatne Urządzenie Krótkofalarskie
-layout: collection
+layout: collection # TODO zmiana
 permalink: /puk/
 # collection: puk
 # entries_layout: grid
@@ -8,9 +8,19 @@ classes: wide
 header:
   overlay_image: /assets/images/burzenin_puk.jpg
   overlay_filter: 0.5
+  actions:
+    - label: "<i class='fas fa-download'></i> PUK"
+      url: "/puk"
+    - label: "<i class='fas fa-wrench'></i> Regulamin PUK"
+      url: "/puk/regulamin"
+    - label: "<i class='fas fa-wrench'></i> Konstruktorzy"
+      url: "/puk/constructors"
+    - label: "<i class='fas fa-wrench'></i> Projekty"
+      url: "/puk/projekty"
+    - label: "<i class='fas fa-wrench'></i> Wystawy radioamatorskie"
+      url: "/puk/wystawy"
 ---
 
-{% include small_nav.html %}
 
 Konkurs na **Przydatne Urządzenie Krótkofalarskie** odbył się po raz pierwszy w roku **2010** dla „wyłonienia oryginalnej i ciekawej konstrukcji urządzenia, które może znaleźć zastosowanie w pracowni radioamatora i będzie w łatwy sposób możliwe do odwzorowania przez początkujących krótkofalowców”. Określenie celu konkursu nieco ewoluowało przez lata, ustalone zostały kategorie prac/projektów, ale niezmienna pozostaje główna...
 

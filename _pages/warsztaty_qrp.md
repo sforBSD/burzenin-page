@@ -1,7 +1,7 @@
 ---
 title: Warsztaty QRP
-layout: collection
-permalink: /puk/warsztaty_qrp
+layout: collection # TODO
+permalink: /warsztaty_qrp
 # collection: puk
 # entries_layout: grid
 classes: wide
@@ -9,8 +9,6 @@ header:
   overlay_image: /assets/images/warsztaty_qrp_2008.jpg
   overlay_filter: 0.5
 ---
-
-{% include small_nav.html %}
 
 Pierwsze dwie edycje konkursu na Przydatne Urządzenie Krótkofalarskie (2010 i 2011) odbyły się podczas Warsztatów SP-QRP, które organizowano w latach 2007-2011. Pomysłodawcą i głównym organizatorem Warsztatów QRP był Włodek SP5DDJ, propagator używania małych mocy nadawania, telegrafii oraz zrównoważonego rozwoju.
 
