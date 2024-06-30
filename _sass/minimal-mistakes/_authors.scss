@@ -34,6 +34,11 @@
 	  &.find_out_more::before {
 		content: "🔗"; // Emoji for find out more
 	  }
+
+	  &.find_out_more {
+			margin-top: 20px;
+			font-size: 18px;
+	  }
 	}
   }
   
