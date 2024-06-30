@@ -12,7 +12,7 @@ classes: wide
 
         <div class="project-category-grid">
           {% for post in posts %}
-            <div class="project-item-half">
+            <div class="project-item project-item-half">
             {% if post.header.overlay_image %}
               <img src="{{ post.header.overlay_image | relative_url }}" alt="{{ post.title }}" class="project-image">
             {% endif %}
@@ -46,7 +46,7 @@ classes: wide
 
         <div class="project-category-grid">
           {% for post in posts %}
-            <div class="project-item-half">
+            <div class="project-item project-item-half">
             {% if post.header.overlay_image %}
               <img src="{{ post.header.overlay_image | relative_url }}" alt="{{ post.title }}" class="project-image">
             {% endif %}
