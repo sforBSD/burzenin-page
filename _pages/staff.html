@@ -10,13 +10,14 @@ tagline: Organizatorzy i wolontariusze
 
 Poniżej znajduje się lista osób, które biorą praktycznie przez cały rok udział w organizacji Zjazdu - przygotowują, planują, organizują, a na miejscu - wciąż gdzieś biegają.<br>
 
-Lista prelegentów prowadzących warsztaty lub wykłady w tym roku i poprzednich latach <a href="/puk/constructors">tutaj</a>, lista prelegentów prowadzących warsztaty lub wykłady w tym roku i poprzednich latach <a href="/puk/constructors">tutaj</a>, kompletna lista wszystkich - <a href="/authors">tutaj</a>
+Lista prelegentów prowadzących warsztaty lub wykłady w tym roku i poprzednich latach <a href="/speakers">tutaj</a>, lista konstruktorów, którzy zgłosili swoje projekty do konkursu PUK <a href="/puk/constructors">tutaj</a>, kompletna lista wszystkich - <a href="/authors">tutaj</a>
 <br>
 <br>
 
+<h2>Tegoroczni</h2>
 <div class="participants-container">
 	{% for f in site.data.authors %}
-		{% if f[1].zjazd_orga %}
+		{% if f[1].orga_years contains site.current_year %}
 			<div class="participant">
 	
 				{% if f[1].avatar %}
@@ -57,8 +58,100 @@ Lista prelegentów prowadzących warsztaty lub wykłady w tym roku i poprzednich
 			{% if f[1].bio %}
 				<div class="constructor-bio"> {{ f[1].bio | markdownify }} </div>
 			{% endif %}
+
+			
+		{% capture project_count %}
+			{% include author_count.html current_author=f current_collection='puk'%}
+	  	{% endcapture %}
+
+		{% capture talk_count %}
+			{% include author_count.html current_author=f current_collection='talks'%}
+	  	{% endcapture %}
+
+		{%assign pcount = project_count | strip %}
+		{%assign tcount = talk_count | strip%}
+		<ul class="merits">
+			{% if f[1].orga_years contains site.current_year %}<li class="current_orga">Organizator tegorocznego Zjazdu.</li>{%endif%}
+			{% if f[1].qrp_years %}<li class="previous_orga"> Organizator {{ f[1].qrp_years.size }} edycji Warsztatów QRP.</li>{%endif%}
+			{% if f[1].orga_years %}<li class="previous_orga"> Organizator {{ f[1].orga_years.size }} edycji zjazdów.</li>{%endif%}
+			{% unless pcount == "0" %}<li class="puk_projects">Projektów w konkursie PUK: {{ project_count }}</li>{% endunless %}
+			{% unless tcount == "0" %}<li class="speaker_count">Wystąpień na Zjeździe jako prelegent: {{ talk_count }}</li>{% endunless %}
+			<li class="find_out_more"><a href="/authors/{{ f[0] }}" >Czytaj więcej</a></li> 
+		</ul>
 		</div>
 		{% endif %}
+	{% endfor %}
+	</div>
+	
+  
+<h2>A także ci, którzy organizowali lub pomagali przy poprzednich edycjach</h2>
+<div class="participants-container">
+	{% for f in site.data.authors %}
+		{% unless f[1].orga_years contains site.current_year  %}
+		{% if f[1].orga_years or f[1].qrp_years %}
+			<div class="participant">
+	
+				{% if f[1].avatar %}
+				{% assign img_src = f[1].avatar | relative_url %}
+				{% assign img_alt = f[1].name %}
+				{% assign img_style = "" %}
+			{% else %}
+				{% assign img_src = 'assets/images/zjazd.png' | relative_url %}
+				{% assign img_alt = "Zaślepka" %}
+				{% assign img_style = "opacity: 0.4;" %}
+			{% endif %}
+			
+			{% assign img_class = "u-photo" %}
+			{% if f[1].sk %}
+				{% assign img_class = img_class | append: " sk" %}
+			{% endif %}
+			
+			<img src="{{ img_src }}" itemprop="image" class="{{ img_class }}" style="{{ img_style }}" alt="{{ img_alt }}">
+		
+	
+			{% if f[1].first_name %}
+				{% assign display_name = f[1].first_name %}
+			{% elsif f[1].name %}
+				{% assign display_name = f[1].name %}
+			{% endif %}
+	
+			{% if display_name %}
+				{% if f[1].sk %}
+					{% assign display_name = display_name | append: " (SK)" %}
+				{% endif %}
+				<h2 class="archive__item-title">{{ display_name }} 
+				{% if f[1].callsign %}
+					<small style="color: rgb(212, 212, 212);">{{ f[1].callsign }}</small>
+				{% endif %}
+				</h2>
+			{% endif %}
+	
+			{% if f[1].bio %}
+				<div class="constructor-bio"> {{ f[1].bio | markdownify }} </div>
+			{% endif %}
+
+			
+		{% capture project_count %}
+			{% include author_count.html current_author=f current_collection='puk'%}
+	  	{% endcapture %}
+
+		{% capture talk_count %}
+			{% include author_count.html current_author=f current_collection='talks'%}
+	  	{% endcapture %}
+
+		{%assign pcount = project_count | strip %}
+		{%assign tcount = talk_count | strip%}
+		<ul class="merits">
+			{% if f[1].orga_years contains site.current_year %}<li class="current_orga">Organizator tegorocznego Zjazdu.</li>{%endif%}
+			{% if f[1].qrp_years %}<li class="previous_orga"> Organizator {{ f[1].qrp_years.size }} edycji Warsztatów QRP.</li>{%endif%}
+			{% if f[1].orga_years %}<li class="previous_orga"> Organizator {{ f[1].orga_years.size }} edycji zjazdów.</li>{%endif%}
+			{% unless pcount == "0" %}<li class="puk_projects">Projektów w konkursie PUK: {{ project_count }}</li>{% endunless %}
+			{% unless tcount == "0" %}<li class="speaker_count">Wystąpień na Zjeździe jako prelegent: {{ talk_count }}</li>{% endunless %}
+			<li class="find_out_more"><a href="/authors/{{ f[0] }}" >Czytaj więcej</a></li> 
+		</ul>
+		</div>
+		{% endif %}
+		{% endunless %}
 	{% endfor %}
 	</div>
 	

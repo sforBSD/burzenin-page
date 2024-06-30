@@ -8,12 +8,12 @@ title: Autorzy
 tagline: (czyli konstruktorzy, prelegenci i organiztorzy)
 ---
 
-Poniżej znajduje się lista dotychczas zidentyfikowanych i przypisanych do swoich aktywności osób, które odznaczyły się w organizacji lub uświetnianiu Zjazdu przez <a href="/puk">udział w konkursie PUK</a> (lista konstruktorów <a href="/puk/constructors">tutaj</a>), poprowadzenie prezentacji lub warsztatów (lista prelegentów <a href="/speakers">tutaj</a>), lub wolontariat przy organizacji wydarzenia (lista organizatorów i wolontariuszy <a href="/staff">tutaj</a>)
+Poniżej znajduje się lista {{ site.data.authors.size - 1 }} dotychczas zidentyfikowanych i przypisanych do swoich aktywności osób, które odznaczyły się w organizacji lub uświetnianiu Zjazdu przez <a href="/puk">udział w konkursie PUK</a> (lista konstruktorów <a href="/puk/constructors">tutaj</a>), poprowadzenie prezentacji lub warsztatów (lista prelegentów <a href="/speakers">tutaj</a>), lub wolontariat przy organizacji wydarzenia (lista organizatorów i wolontariuszy <a href="/staff">tutaj</a>)
 
 <br>
 <br>
-Warto dodać, że nieobecność kogoś na tej liście nie oznaczy umniejszenia zasług tej osoby - choćby w przypadku <a href="/warsztaty_qrp">osób organizujących Warsztaty QRP</a> - nie ma jeszcze dopisanej obsługi pojedynczych historycznych zjazdów jako odkładająca się na profilu użytkownika i na tej liście "zasługa". 
 
+Zachęcamy do zgłaszania wszelkich nieścisłości, brakujących osób, zasług i liczb, poniższa lista to żywy, wciąż uzupełniany organizm. Chcesz dorzucić do swojego wpisu swoje zdjęcie, albo wiesz coś, czego tu nie ma, skrobnij maila na <a href="mailto:wiktor@hackerspace-krk.pl">wiktor@hackerspace-krk.pl</a> lub jeśli korzystasz z Githuba - <a href="https://github.com/HackerspaceKRK/burzenin-page/issues">zgłoś tu</a> lub podeślij pullrequesta ze zmianą ;)
 <br>
 <br>
 
@@ -37,7 +37,7 @@ Warto dodać, że nieobecność kogoś na tej liście nie oznaczy umniejszenia z
 			{% assign img_class = img_class | append: " sk" %}
 		{% endif %}
 		
-		<img src="{{ img_src }}" itemprop="image" class="{{ img_class }}" style="{{ img_style }}" alt="{{ img_alt }}">
+		<a href="/authors/{{ f[0] }}" ><img src="{{ img_src }}" itemprop="image" class="{{ img_class }}" style="{{ img_style }}" alt="{{ img_alt }}"></a>
 	
 
 		{% if f[1].first_name %}
@@ -50,7 +50,7 @@ Warto dodać, że nieobecność kogoś na tej liście nie oznaczy umniejszenia z
     		{% if f[1].sk %}
         		{% assign display_name = display_name | append: " (SK)" %}
     		{% endif %}
-    		<h2 class="archive__item-title">{{ display_name }} 
+    		<h2 class="archive__item-title"><a href="/authors/{{ f[0] }}" >{{ display_name }}</a> 
         	{% if f[1].callsign %}
             	<small style="color: rgb(212, 212, 212);">{{ f[1].callsign }}</small>
         	{% endif %}
@@ -71,17 +71,14 @@ Warto dodać, że nieobecność kogoś na tej liście nie oznaczy umniejszenia z
 
 		{%assign pcount = project_count | strip %}
 		{%assign tcount = talk_count | strip%}
-
-		<p><a href="/authors/{{ f[0] }}" class="page__taxonomy-item p-category">
-			{% if f[1].zjazd_orga %}
-			Organizator.  
-			{% endif %}
-			{% unless pcount == "0" %}
-			Projektów: {{ project_count }}.
-			{% endunless %}
-			{% unless tcount == "0" %} Wystąpień: {{ talk_count }}.
-			{% endunless %}</a></p>
-		
+		<ul class="merits">
+			{% if f[1].orga_years contains site.current_year %}<li class="current_orga">Organizator tegorocznego Zjazdu.</li>{%endif%}
+			{% if f[1].qrp_years %}<li class="previous_orga"> Organizator {{ f[1].qrp_years.size }} edycji Warsztatów QRP.</li>{%endif%}
+			{% if f[1].orga_years %}<li class="previous_orga"> Organizator {{ f[1].orga_years.size }} edycji zjazdów.</li>{%endif%}
+			{% unless pcount == "0" %}<li class="puk_projects">Projektów w konkursie PUK: {{ project_count }}</li>{% endunless %}
+			{% unless tcount == "0" %}<li class="speaker_count">Wystąpień na Zjeździe jako prelegent: {{ talk_count }}</li>{% endunless %}
+			<li class="find_out_more"><a href="/authors/{{ f[0] }}" >Czytaj więcej</a></li> 
+		</ul>
 	</div>
 	{% endunless %}
 	{% endfor %}

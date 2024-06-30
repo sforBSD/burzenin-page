@@ -1,5 +1,5 @@
 ---
-title: PC01 - uniwersalny sterownik nadajnika/odbiornika/transceivera
+title: PC01 - uniwersalny sterownik TX/RX/TRX
 puk_category: D
 puk_year: 2017
 puk_place: 12

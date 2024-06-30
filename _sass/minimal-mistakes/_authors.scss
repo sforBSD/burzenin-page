@@ -1,0 +1,44 @@
+// Define a mixin for compact list styling
+@mixin compact-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	font-size: 14px; // Adjust font size as needed
+	line-height: 1.2; // Adjust line height for compactness
+  
+	li {
+	  margin: 0.25rem 0; // Small margin between list items
+	  display: flex;
+	  align-items: center;
+  
+	  &::before {
+		margin-right: 0.5rem; // Space between emoji and text
+	  }
+  
+	  &.current_orga::before {
+		content: "⭐"; // Emoji for current organizer
+	  }
+  
+	  &.previous_orga::before {
+		content: "📅"; // Emoji for previous organizer
+	  }
+  
+	  &.puk_projects::before {
+		content: "🏆"; // Emoji for PUK projects
+	  }
+  
+	  &.speaker_count::before {
+		content: "🎤"; // Emoji for speaker count
+	  }
+  
+	  &.find_out_more::before {
+		content: "🔗"; // Emoji for find out more
+	  }
+	}
+  }
+  
+  // Apply the mixin to your merits list
+  .merits {
+	@include compact-list;
+  }
+  

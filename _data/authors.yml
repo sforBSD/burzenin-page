@@ -3,7 +3,6 @@ sq9wtf:
   first_name      : "Wiktor"
   bio             : "Ten duży, z głupimi pomysłami"
   avatar          : "/assets/images/people/sq9wtf.jpg"
-  zjazd_orga      : yes
   constructor     : no
   speaker         : no
   callsign        : SQ9WTF
@@ -12,17 +11,21 @@ sq9wtf:
   github          : "wprzyb"
   instagram       : "wprzyb"
   mastodon        : "https://mastodon.radio/@sq9wtf"
+  orga_years      :
+    - 2023
+    - 2024
 
 sp6mar:
   name            : "Martyna"
   first_name      : "Martyna"
   bio             : "Zawodniczka ekipy SH9H"
   callsign        : SP6MAR
-  zjazd_orga      : yes
   constructor     : no
   speaker         : no
   authorpage      :  "/authors/sp6mar"
   email           : "martyna@hackerspace-krk.pl"
+  orga_years      :
+    - 2024
 
 sq9zaq:
   name            : "canis_lupus"
@@ -32,10 +35,12 @@ sq9zaq:
   avatar          : "/assets/images/people/sq9zaq.jpg"
   callsign        : SQ9ZAQ
   authorpage      :  "/authors/sq9zaq"
-  zjazd_orga      : yes
   constructor     : yes
   speaker         : no
   email           : "szymon@hackerspace-krk.pl"
+  orga_years      :
+    - 2023
+    - 2024
 
 sp3htf:
   name            : "Rafał"
@@ -43,8 +48,9 @@ sp3htf:
   # constructor_bio : ""
   bio             : "Człowiek od nagłośnienia i technikaliów - żebyście widzieli i słyszeli"
   callsign        : SP3HTF
-  zjazd_orga      : yes
   authorpage      :  "/authors/sp3htf"
+  orga_years      :
+    - 2024
 
 sp3nyr:
   name            : "Waldemar"
@@ -52,18 +58,47 @@ sp3nyr:
   # constructor_bio : ""
   bio             : "Konstruktor wielu talentów, często prowadzący warsztaty senior"
   callsign        : SP3NYR
-  zjazd_orga      : yes
   authorpage      :  "/authors/sp3nyr"
+  orga_years      :
+    - 2024
 
 sp7ukl:
   name            : "Cezary Libert"
   first_name      : "Czarek"
   callsign        : "SP7UKL"
   bio             : "Mózg całego sklepu i systemu zamówień, a także bardzo miły człowiek"
-  zjazd_orga      : yes
   constructor     : no
   speaker         : no
   authorpage      :  "/authors/sp7ukl"
+  orga_years      :
+    - 2024
+
+sq7iqa:
+  name            : "Krzysiek"
+  first_name      : "Krzysiek"
+  callsign        : "SQ7IQA"
+  bio             : ""
+  constructor     : no
+  speaker         : no
+  authorpage      :  "/authors/sq7iqa"
+  qrp_years       :
+    - 2007
+    - 2008
+    - 2009
+    - 2010
+    - 2011
+  orga_years      :
+    - 2012
+    - 2013
+    - 2014
+    - 2015
+    - 2016
+    - 2017
+    - 2018
+    - 2019
+    - 2022
+    - 2023
+    - 2024
 
 sp9mrn:
   name            : "Maciek Bal"
@@ -73,16 +108,16 @@ sp9mrn:
   constructor_bio : "Ojciec (matka?) Zjazdów Technicznych w Burzeninie... Konstruktor Małego Radia Nasłuchowca. Członek i działacz PZK, RedNacz TK/Propagacji. Można go polubić... :-)"
   avatar          : "/assets/images/people/sp9mrn.jpg"
   authorpage      : "/authors/sp9mrn"
-  zjazd_orga      : yes
   constructor     : yes
   speaker         : no
+  orga_years      :
+    - 2024
 
 sp2fp:
   name            : "Paweł"
   callsign        : "SP2FP"
   authorpage      : "/authors/sp2fp"
   # avatar          : "/assets/images/people/sp2fp.jpg"
-  zjazd_orga      : no
   constructor     : yes
   speaker         : no
 
@@ -92,7 +127,6 @@ sq7hjb:
   authorpage      : "/authors/sq7hjb"
   # avatar          : "/assets/images/people/sq7hjb.jpg"
   constructor_bio : "Licencjonowany krótkofalowiec od 1998 roku, raczej konstruktor, niż DX-man. Lubi budować wszelkie układy elektroniczne, nie tylko radiowe."
-  zjazd_orga      : no
   constructor     : yes
   speaker         : no
 
@@ -280,7 +314,9 @@ sq7bfs:
   constructor       : yes
   speaker           : no
   authorpage        :  "/authors/sq7bfs"
-  zjazd_orga      : yes
+  orga_years      :
+    - 2023
+    - 2024
 
 ## end SQ7BFS
 
@@ -366,7 +402,9 @@ sq9alw:
   constructor       : yes
   speaker           : no
   authorpage        :  "/authors/sq9alw"
-  zjazd_orga      : yes
+  orga_years      :
+    - 2023
+    - 2024
 
 ## end SQ9ALW
 
@@ -377,7 +415,9 @@ sp9jc:
   constructor       : yes
   speaker           : no
   authorpage        :  "/authors/sp9jc"
-  zjazd_orga      : yes
+  orga_years      :
+    - 2023
+    - 2024
 
 ## end SP9JC
 
@@ -454,7 +494,7 @@ sp5cgi:
 ## end SP5CGI
 
 ## begin SP6-01-446
-SP6-01-446:
+sp6-01-446:
   name              : Irek
   callsign          : SP6-01-446
   constructor       : yes
@@ -667,7 +707,9 @@ sq7pel:
   constructor       : yes
   speaker           : no
   authorpage        :  "/authors/sq7pel"
-  zjazd_orga      : yes
+  orga_years      :
+    - 2023
+    - 2024
 
 ## end SQ7PEL
 
@@ -688,6 +730,10 @@ sp9lvz:
   constructor       : no
   speaker           : yes
   authorpage        :  "/authors/sp9lvz"
+  qrp_years      :
+    - 2007
+    - 2010
+    - 2011
 
 ## end SP9LVZ
 
@@ -838,3 +884,122 @@ sp8ebc:
   authorpage        : "/authors/sp8ebc"
 
 ## end SP8EBC
+
+## begin SP2QCA
+sp2qca:
+  name              : Artur
+  callsign          : SP2QCA
+  authorpage        : "/authors/sp2qca"
+  qrp_years      :
+    - 2007
+    - 2010
+
+## end SP2QCA
+
+## begin SP4JFR
+sp4jfr:
+  name              : Bolek
+  callsign          : SP4JFR
+  authorpage        : "/authors/sp4jfr"
+  qrp_years      :
+    - 2007
+    - 2009
+    - 2010
+    - 2011
+
+
+## end SP4JFR
+
+## begin SP5EIN
+sp5ein:
+  name              : Grzegorz
+  callsign          : SP5EIN
+  authorpage        : "/authors/sp5ein"
+  qrp_years      :
+    - 2007
+    - 2010
+    - 2011
+
+## end SP5EIN
+
+## begin SP3SWJ
+sp3swj:
+  name              : Jarek
+  callsign          : SP3SWJ
+  authorpage        : "/authors/sp3swj"
+  qrp_years      :
+    - 2007
+    - 2008
+    - 2009
+    - 2010
+    - 2011
+
+## end SP3SWJ
+
+## begin SQ2DYL
+sq2dyl:
+  name              : Łukasz
+  callsign          : SQ2DYL
+  authorpage        : "/authors/sq2dyl"
+  qrp_years      :
+    - 2007
+    - 2008
+    - 2009
+    - 2010
+    - 2011
+
+## end SQ2DYL
+
+## begin SP5JNW
+sp5jnw:
+  name              : Marcin
+  callsign          : SP5JNW
+  authorpage        : "/authors/sp5jnw"
+  qrp_years      :
+    - 2007
+    - 2008
+    - 2009
+    - 2010
+    - 2011
+
+## end SP5JNW
+
+## begin SP5AYI
+sp5ayi:
+  name              : Marian
+  callsign          : SP5AYI
+  authorpage        : "/authors/sp5ayi"
+  qrp_years      :
+    - 2008
+    - 2010
+
+## end SP5AYI
+
+
+## begin SP5OBJ
+sp5obj:
+  name              : Roman
+  callsign          : SP5OBJ
+  authorpage        : "/authors/sp5obj"
+  qrp_years      :
+    - 2007
+    - 2008
+    - 2009
+    - 2010
+    - 2011
+
+## end SP5OBJ
+
+## begin SP5DDJ
+sp5ddj:
+  name              : Włodek
+  callsign          : SP5DDJ
+  authorpage        : "/authors/sp5ddj"
+  qrp_years      :
+    - 2007
+    - 2008
+    - 2009
+    - 2010
+    - 2011
+
+## end SP5DDJ

@@ -189,7 +189,7 @@ Listę wszystkich wystąpień jakie zgromadziliśmy łącznie z tymi poniżej <a
 {% assign all_talks = site.talks | concat: page.artificial_talks %}
 {% assign sorted_talks = all_talks | sort: "starttime" %}
 {% assign talks_by_date = sorted_talks | group_by_exp: "talk", "talk.starttime | date: '%Y-%m-%d'" %}
-{% assign current_year = 2024 %}
+{% assign current_year = site.current_year %}
 
 {% for date in talks_by_date %}
 {% if date.name contains current_year %}

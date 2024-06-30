@@ -18,7 +18,7 @@ $breakpoint-sm: 768px;
 .participant {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  // justify-content: space-between;
   border: 1px solid $border-color;
   padding: $gap-size;
   text-align: center;
