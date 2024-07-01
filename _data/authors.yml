@@ -1003,3 +1003,121 @@ sp5ddj:
     - 2011
 
 ## end SP5DDJ
+
+## begin SQ9RFC
+sq9rfc:
+  name              : Jurek
+  callsign          : SQ9RFC
+  constructor       : yes
+  authorpage        : "/authors/sq9rfc"
+
+## end SQ9RFC
+
+## begin DL6KAL
+dl6kal:
+  name              : Anton
+  callsign          : DL6KAL
+  constructor       : yes
+  authorpage        : "/authors/dl6kal"
+
+## end DL6KAL
+
+## begin SP2HQY
+sp2hqy:
+  name              : Darek
+  callsign          : SP2HQY
+  constructor       : yes
+  authorpage        : "/authors/sp2hqy"
+
+## end SP2HQY
+
+## begin SQ5NWI
+sq5nwi:
+  name              : Krzysztof
+  callsign          : SQ5NWI
+  constructor       : yes
+  authorpage        : "/authors/sq5nwi"
+
+## end SQ5NWI
+
+## begin SO5HME
+so5hme:
+  name              : Mirek
+  callsign          : SO5HME
+  constructor       : yes
+  authorpage        : "/authors/so5hme"
+
+## end SO5HME
+
+## begin SQ6BBA
+sq6bba:
+  name              : Jurek
+  callsign          : SQ6BBA
+  sk                : yes
+  constructor       : yes
+  authorpage        : "/authors/sq6bba"
+
+## end SQ6BBA
+
+## begin SP3CAI
+sp3cai:
+  name              : Bartek
+  callsign          : SP3CAI
+  constructor       : yes
+  authorpage        : "/authors/sp3cai"
+
+## end SP3CAI
+
+## begin SQ9SAT
+sq9sat:
+  name              : Grzesiek
+  callsign          : SQ9SAT
+  constructor       : yes
+  authorpage        : "/authors/sq9sat"
+
+## end SQ9SAT
+
+## begin SP7VC
+sp7vc:
+  name              : Przemek
+  callsign          : SP7VC
+  constructor       : yes
+  authorpage        : "/authors/sp7vc"
+
+## end SP7VC
+
+## begin SP9MLI
+sp9mli:
+  name              : Leszek
+  callsign          : SP9MLI
+  constructor       : yes
+  authorpage        : "/authors/sp9mli"
+
+## end SP9MLI
+
+## begin MIREKK36
+mirekk36:
+  name              : Mirek
+  callsign          : MIREKK36
+  constructor       : yes
+  authorpage        : "/authors/mirekk36"
+
+## end MIREKK36
+
+## begin OE1KDA
+oe1kda:
+  name              : Krzysztof
+  callsign          : OE1KDA
+  constructor       : yes
+  authorpage        : "/authors/oe1kda"
+
+## end OE1KDA
+
+## begin SQ2BVN
+sq2bvn:
+  name              : Mariusz
+  callsign          : SQ2BVN
+  constructor       : yes
+  authorpage        : "/authors/sq2bvn"
+
+## end SQ2BVN
