@@ -7,14 +7,14 @@ header:
 title: Kontakt
 ---
 
-=== Kontakt z organizatorami
+### Kontakt z organizatorami
 
 [kontakt@zjazdtechniczny.krotkofalowcy.com.pl](mailto:kontakt@zjazdtechniczny.krotkofalowcy.com.pl)
 
-=== Zgłoszenia do konkursu PUK
+### Zgłoszenia do konkursu PUK
 
 [puk@zjazdtechniczny.krotkofalowcy.com.pl](mailto:puk@zjazdtechniczny.krotkofalowcy.com.pl)
 
-=== Facebook zjazdowy 
+### Facebook zjazdowy 
 
 [FB Zjazd Techniczny Krótkofalowców SP ](https://www.facebook.com/zjazdtechniczny)
