@@ -8,6 +8,8 @@ main:
     url: /venue
   - title: "Rejestracja"
     url: https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/
+  - title: "Kontakt"
+    url: /staff
   - title: "Ekipa"
     url: /staff
   - title: "PUK"

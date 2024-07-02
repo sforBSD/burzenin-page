@@ -8,12 +8,12 @@ layout: talk
 tagline: ""
 room: a
 header:
-  overlay_image: /assets/images/posts/sp9lvz_blu_ip3.jpg
+  overlay_image: /assets/images/talks/sp9lvz_blu_ip3.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/posts/sp9lvz_blu_ip3.jpg
+  teaser: /assets/images/talks/sp9lvz_blu_ip3.jpg
 ---
 
-![](/assets/images/posts/sp9lvz_blu_ip3.jpg) 
+![](/assets/images/talks/sp9lvz_blu_ip3.jpg) 
 
 MISJA NIEMOŻLIWA TRX B-L-U IP3 +40dBm w niskobudżetowym klasycznym transciverze SSB/CW.
 ---

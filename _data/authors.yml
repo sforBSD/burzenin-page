@@ -1121,3 +1121,63 @@ sq2bvn:
   authorpage        : "/authors/sq2bvn"
 
 ## end SQ2BVN
+
+#############################
+## begin SQ7LRX
+sq7lrx:
+  name              : Adam
+  callsign          : SQ7LRX
+  constructor       : yes
+  authorpage        : "/authors/sq7lrx"
+
+## end SQ7LRX
+
+## begin SP9XWM
+sp9xwm:
+  name              : Michał
+  callsign          : SP9XWM
+  constructor       : yes
+  authorpage        : "/authors/sp9xwm"
+
+## end SP9XWM
+
+## begin EMCOM
+emcom:
+  name              : EMCOM
+  constructor       : yes
+  authorpage        : "/authors/emcom"
+
+## end EMCOM
+
+## begin SP2JMR
+sp2jmr:
+  name              : Piotr
+  callsign          : SP2JMR
+  constructor       : yes
+  authorpage        : "/authors/sp2jmr"
+
+## end SP2JMR
+
+## begin SP5YAM
+sp5yam:
+  name              : Klub SP5YAM
+  constructor       : yes
+  authorpage        : "/authors/sp5yam"
+
+## end SP5YAM
+
+## begin TITAWA
+titawa:
+  name              : Titawa
+  constructor       : yes
+  authorpage        : "/authors/titawa"
+
+## end TITAWA
+
+## begin SP5WWL
+sp5wwl:
+  name              : Klub SP5WWL
+  constructor       : yes
+  authorpage        : "/authors/sp5wwl"
+
+## end SP5WWL

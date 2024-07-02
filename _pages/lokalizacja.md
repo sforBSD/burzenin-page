@@ -29,15 +29,11 @@ gallery2:
     title: "Widok na parkingi - wewnętrzne i zewnętrzny"
 ---
 
+#### Współrzędne/linki do map:
 
-<!-- {% capture fig_img %}
-![Foo]({{ '/assets/images/gdzieto.jpg' | relative_url }})
-{% endcapture %}
+| QTH Lokator: JO91KL | [51°28'14.3"N 18°51'05.3"E](geo:51.47064847072268,18.85148179342849) |[51.47064,18.85148](geo:51.47064847072268,18.85148179342849) | [OpenStreetMap](http://www.openstreetmap.org/index.html?mlat=52.232222&mlon=21.008333&zoom=12) | [Google Maps](http://maps.google.com/maps?ll=52.232222,21.008333&spn=0.1,0.1&t=m&q=52.232222,21.008333) | [Apple Maps](https://maps.apple.com/?q=52.232222,21.008333&t=m) | 
 
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Lorem ipsum</figcaption>
-</figure> -->
+#### O Ośrodku
 
 Ośrodek „SPORTOWA OSADA” to malowniczo położony kompleks w sercu natury, zapewniający doskonałe warunki do relaksu oraz aktywności krótkofalarskich. Ośrodek od wielu lat sprzyja organizacji naszego zjazdu i pozwala nawet na najdziwniejsze operacje antenowe na swoim terenie.
 
