@@ -9,7 +9,7 @@ main:
   - title: "Rejestracja"
     url: https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/
   - title: "Kontakt"
-    url: /staff
+    url: /kontakt
   - title: "Ekipa"
     url: /staff
   - title: "PUK"
