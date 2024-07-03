@@ -31,7 +31,7 @@ gallery2:
 
 #### Współrzędne/linki do map:
 
-| QTH Lokator: JO91KL | [51°28'14.3"N 18°51'05.3"E](geo:51.47064847072268,18.85148179342849) |[51.47064,18.85148](geo:51.47064847072268,18.85148179342849) | [OpenStreetMap](http://www.openstreetmap.org/index.html?mlat=51.470648&mlon=18.851481&zoom=12) | [Google Maps](http://maps.google.com/maps?ll=51.470648,18.851481&spn=0.1,0.1&t=m&q=52.232222,21.008333) | [Apple Maps](https://maps.apple.com/?q=51.470648,18.851481&t=m) | 
+| QTH Lokator: JO91KL | [51°28'14.3"N 18°51'05.3"E](geo:51.47064847072268,18.85148179342849) |[51.47064,18.85148](geo:51.47064847072268,18.85148179342849) | [OpenStreetMap](http://www.openstreetmap.org/index.html?mlat=51.470648&mlon=18.851481&zoom=12) | [Google Maps](http://maps.google.com/maps?ll=51.470648,18.851481&spn=0.1,0.1&t=m&q=51.470648,18.851481) | [Apple Maps](https://maps.apple.com/?q=51.470648,18.851481&t=m) | 
 
 #### O Ośrodku
 
