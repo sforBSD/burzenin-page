@@ -552,7 +552,8 @@ sp7q:
   constructor       : yes
   speaker           : no
   authorpage        :  "/authors/sp7q"
-  constructor_bio   : Zapalony telegrafista (www.titawa.pl), lubi wyprawy terenowe i zawody. Często buduje urządzenia krótkofalarskie - wyłącznie przydatne!
+  avatar          : "/assets/images/people/sp7q.jpg"
+  bio   : "Zapalony telegrafista (www.titawa.pl), lubi wyprawy terenowe i zawody. Często buduje urządzenia krótkofalarskie - wyłącznie przydatne!"
 
 ## end SP7Q
 
