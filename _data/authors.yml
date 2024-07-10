@@ -1,3 +1,13 @@
+sq7okl:
+  name            : "Oskar Libert"
+  first_name      : "Oskar"
+  constructor     : no
+  speaker         : no
+  callsign        : SQ7OKL
+  orga_years      :
+    - 2023
+    - 2024
+
 sq9wtf:
   name            : "Wiktor Przybylski"
   first_name      : "Wiktor"
