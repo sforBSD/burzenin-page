@@ -108,7 +108,7 @@ Zdalny przełącznik antenowy
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 2/2020 str. 47-48
+
 
  
 

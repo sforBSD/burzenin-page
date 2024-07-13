@@ -46,7 +46,7 @@ Interfejs do odsłuchu/zapisu audio z dwóch TRX
 {% include swiatradio.html on_page="12/2018 str. 49-50" %}
 #### Opis w "Świat Radio"
 
-![](assets/img/logo/sr_logo_s.jpg)###### 12/2018 str. 49-50
+
 
  
 

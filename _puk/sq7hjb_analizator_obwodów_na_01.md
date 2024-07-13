@@ -99,7 +99,7 @@ miernikiem, działającym w paśmie krótkofalowym od 500kHz do 30MHz.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 02/2014 str. 48-49
+
 
  
 

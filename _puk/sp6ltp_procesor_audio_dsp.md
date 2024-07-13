@@ -133,7 +133,7 @@ Schemat blokowy przetwarzania sygnału przedstawiono na rysunku 4, a schematy el
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 12/2019 str. 42-44
+
 
  
 

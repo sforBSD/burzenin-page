@@ -57,7 +57,7 @@ Rozgałęźnik zasilania na złączach Anderson Power Pole
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 12/2018 str. 51
+
 
  
 

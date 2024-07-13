@@ -171,7 +171,7 @@ Zasilanie płytki: od 10V do 15V, wymiary: 70x120 mm.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 01/2013 str. 48-52
+
 
  
 

@@ -135,7 +135,7 @@ header:
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 01/2014 str. 48-49
+
 
  
 

@@ -149,7 +149,7 @@ Ten sam przycisk, wciśnięty w momencie prezentacji ekranu startowego, pozwala 
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 11/2018 str. 52-53
+
 
  
 

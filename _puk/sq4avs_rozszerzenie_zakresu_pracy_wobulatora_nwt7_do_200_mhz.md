@@ -193,7 +193,7 @@ Dodatkową zaletą układu w takiej aplikacji jest usunięcie z widma sygnału D
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 03/2013 str. 48-49
+
 
  
 

@@ -224,7 +224,7 @@ baterii i zasilacza zewnętrznego.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 06/2013 str. 50-52
+
 
  
 

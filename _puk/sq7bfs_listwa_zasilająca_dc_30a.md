@@ -82,7 +82,7 @@ Listwa zasilająca DC 30A
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 12/2018 str. 50-51
+
 
  
 

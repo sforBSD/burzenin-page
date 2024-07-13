@@ -142,7 +142,7 @@ Więcej informacji na stronie internetowej SP2FP i w załączonym opisie konkurs
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 03/2017 str. 44-52
+
 
  
 

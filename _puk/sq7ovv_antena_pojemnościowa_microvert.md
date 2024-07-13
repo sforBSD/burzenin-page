@@ -137,7 +137,7 @@ Antenę można stroić poprzez zmianę długości rurki, zmianę indukcyjności 
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 2/2020 str. 43-45
+
 
  
 

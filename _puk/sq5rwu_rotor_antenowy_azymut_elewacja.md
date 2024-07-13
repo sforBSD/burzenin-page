@@ -120,7 +120,7 @@ Położenie wyświetlane jest wyświetlane jest na tanim i łatwo dostępnym wy�
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 03/2016 str. 48-50
+
 
  
 

@@ -86,7 +86,7 @@ Wobulator na platformie Arduino
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 07/2017 str. 48-49
+
 
  
 

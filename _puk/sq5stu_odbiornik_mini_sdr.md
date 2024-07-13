@@ -173,7 +173,7 @@ konwerter poziomów pozwalający na użycie tych popularnych układów.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 03/2014 str. 47-50
+
 
  
 

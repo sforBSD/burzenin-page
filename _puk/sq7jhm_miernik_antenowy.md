@@ -128,7 +128,7 @@ kondensatory 1zł, oporniki 1zł, gałki 7zł).
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 01/2016 str. 51
+
 
  
 

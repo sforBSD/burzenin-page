@@ -59,7 +59,7 @@ TRX QRP
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 01/2015 str. 49
+
 
  
 

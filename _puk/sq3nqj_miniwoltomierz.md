@@ -164,7 +164,7 @@ pomiarowe.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 02/2015 str. 51-53
+
 
  
 

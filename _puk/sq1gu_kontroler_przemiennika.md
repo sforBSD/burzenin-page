@@ -109,7 +109,7 @@ Kontroler przemiennika
 {% include swiatradio.html on_page="02/2015 str. 48-49" %}
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 02/2015 str. 48-49
+
 
  
 

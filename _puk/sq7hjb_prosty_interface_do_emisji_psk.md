@@ -71,7 +71,7 @@ Wykonany interfejs został sprawdzony w działaniu z programem DroidPSK (aplikac
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 03/2013 str. 49-50
+
 
  
 

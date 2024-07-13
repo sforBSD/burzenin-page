@@ -86,7 +86,7 @@ na końcu promiennika.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 11/2018 str. 48-49
+
 
  
 

@@ -201,7 +201,7 @@ Część cyfrowa zasilana jest poprzez oddzielny stabilizator LM1117-5.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 08/2018 str. 44-50
+
 
  
 

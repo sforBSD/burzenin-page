@@ -65,7 +65,7 @@ Program FieldLog
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 1/2020 str. 48-51
+
 
  
 

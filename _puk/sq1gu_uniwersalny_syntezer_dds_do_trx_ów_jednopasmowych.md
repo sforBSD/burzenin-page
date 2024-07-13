@@ -151,7 +151,7 @@ Ponownie przyciskamy przycisk enkodera i układ przechodzi do normalnej pracy z 
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 04/2013 str. 48-49
+
 
  
 

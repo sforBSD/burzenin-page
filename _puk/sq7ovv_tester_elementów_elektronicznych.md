@@ -214,7 +214,7 @@ się też czasem płytka stykowa do pomiaru elementów SMD.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 02/2014 str. 49-51
+
 
  
 

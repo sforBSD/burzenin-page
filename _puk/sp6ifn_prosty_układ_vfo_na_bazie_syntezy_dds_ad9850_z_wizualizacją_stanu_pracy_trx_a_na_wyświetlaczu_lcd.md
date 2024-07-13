@@ -122,7 +122,7 @@ Poziom sygnału wyjściowego generatora wynosi 3 Vpp/50ohm i wystarcza do wyster
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 05/2014 str. 50-51
+
 
  
 

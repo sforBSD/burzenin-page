@@ -169,7 +169,7 @@ i uruchamiania.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 05/2018 str. 48-53 (cz. 1 - konstrukcja), 06/2018 str. 46-51 (cz. 2 - pomiary)
+
 
  
 

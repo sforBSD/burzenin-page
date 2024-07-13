@@ -145,7 +145,7 @@ pomocą klawisza Fx=Fy.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 04/2013 str. 52-53
+
 
  
 

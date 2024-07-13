@@ -59,7 +59,7 @@ Balkonowy zestaw antenowy BZA-5
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 01/2015 str. 50-51
+
 
  
 

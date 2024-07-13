@@ -238,7 +238,7 @@ Pod tranzystory Q7,Q8 zastosowano podkładkę miedzianą o grubośći 2mm i wymi
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 01/2016 str. 48-50
+
 
  
 

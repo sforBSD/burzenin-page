@@ -138,7 +138,7 @@ Szczegóły konstrukcji i przeprowadzone pomiary przedstawione są w załączony
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 03/2012 str. 42-44
+
 
  
 

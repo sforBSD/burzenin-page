@@ -90,7 +90,7 @@ Półautomatyczny tuner antenowy
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 06/2014 str. 48-49
+
 
  
 

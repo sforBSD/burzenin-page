@@ -99,7 +99,7 @@ Wymiary miernika: 10,5cm x 11,5cm x 2,5cm.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 02/2018 str. 52-53
+
 
  
 

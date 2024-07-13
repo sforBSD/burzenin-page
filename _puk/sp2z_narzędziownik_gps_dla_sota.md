@@ -105,7 +105,7 @@ Dane wyświetlane są na wyświetlaczu OLED, który znakomicie sprawdza się prz
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 03/2020 str. 52
+
 
  
 

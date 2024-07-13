@@ -90,7 +90,7 @@ Sterownik nadajnika ARDF
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 02/2012 str. 52-53
+
 
  
 

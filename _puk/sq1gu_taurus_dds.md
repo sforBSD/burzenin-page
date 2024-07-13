@@ -89,7 +89,7 @@ dobranie przekładni, aby sygnał DDS na wyprowadzeniu 20 wynosił nie więcej n
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 04/2013 str. 49-50
+
 
  
 

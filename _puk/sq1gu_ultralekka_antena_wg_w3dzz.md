@@ -98,7 +98,7 @@ wędce jako inverted-V.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 2/2020 str. 42
+
 
  
 

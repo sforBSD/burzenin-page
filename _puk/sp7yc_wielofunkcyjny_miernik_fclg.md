@@ -186,7 +186,7 @@ Pomiar rezonansu obwodów LC zbudowany jest na zastępczym układzie diody Lambd
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 04/2014 str. 48-51
+
 
  
 

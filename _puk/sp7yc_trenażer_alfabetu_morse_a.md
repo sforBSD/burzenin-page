@@ -196,7 +196,7 @@ Kondensator ten powinien znajdować się blisko wyprowadzeń mikroprocesora.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 07/2013 str. 50-52
+
 
  
 

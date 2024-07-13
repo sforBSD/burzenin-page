@@ -125,7 +125,7 @@ Konwerter TV-SAT do odbioru ATV w paśmie 13cm
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 03/2018 str. 48-49
+
 
  
 

@@ -172,7 +172,7 @@ Diagram przepływu danych pokazano na rysunku 3.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 11/2019 str. 47
+
 
  
 

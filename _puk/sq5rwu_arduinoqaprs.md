@@ -97,7 +97,7 @@ przez Fundację Wolnego Oprogramowania, według wersji 2 tej Licencji lub
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 05/2014 str. 49-50
+
 
  
 

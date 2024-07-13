@@ -57,7 +57,7 @@ MiniMax SWL - odbiornik dla nasłuchowca
 
 
 {% include swiatradio.html on_page="04/2012 str. 52-53" %}
-![](assets/img/logo/sr_logo_s.jpg)###### 04/2012 str. 52-53
+
 
  
 

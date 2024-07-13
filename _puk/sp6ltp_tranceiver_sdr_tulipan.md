@@ -89,7 +89,7 @@ TRX Tulipan-DSP
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 02/2016 str. 44-46
+
 
  
 

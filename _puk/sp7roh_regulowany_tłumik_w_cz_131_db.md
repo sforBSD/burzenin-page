@@ -121,7 +121,7 @@ Regulowany tłumik w.cz. 131 dB
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 04/2014 str. 46-48
+
 
  
 

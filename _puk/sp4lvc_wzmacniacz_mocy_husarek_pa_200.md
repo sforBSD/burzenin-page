@@ -73,7 +73,7 @@ Wzmacniacz mocy Husarek PA-200
 {% include swiatradio.html on_page="7/2019 str. 48-53 (cz. 1), 8/2019 str. 48-51 (cz.2), 11/2019 str. 48-53 (cz. 3)" %}
 #### Opis w "Świat Radio"
 
-![](assets/img/logo/sr_logo_s.jpg)###### 7/2019 str. 48-53 (cz. 1), 8/2019 str. 48-51 (cz.2), 11/2019 str. 48-53 (cz. 3)
+
 
  
 

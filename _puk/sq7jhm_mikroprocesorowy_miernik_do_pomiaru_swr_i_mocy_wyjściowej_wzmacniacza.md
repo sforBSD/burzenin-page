@@ -99,7 +99,7 @@ Mikroprocesorowy miernik SWR i mocy
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 04/2014 str. 51-52
+
 
  
 

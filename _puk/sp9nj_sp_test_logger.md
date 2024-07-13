@@ -70,7 +70,7 @@ SP-TEST Logger
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 11/2015 str. 44
+
 
  
 

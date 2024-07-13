@@ -93,7 +93,7 @@ Wobulator
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 02/2017 str. 44-45
+
 
  
 

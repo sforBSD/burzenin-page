@@ -84,7 +84,7 @@ w obudowach wysokich (HC49).
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 12/2012 str. 50-53
+
 
  
 

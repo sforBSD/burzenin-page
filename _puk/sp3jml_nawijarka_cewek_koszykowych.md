@@ -77,7 +77,7 @@ Element suwadła (ośka) jest sprzężony śrubowo z ramieniem korbowodu.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 03/2020 str. 52-53
+
 
  
 

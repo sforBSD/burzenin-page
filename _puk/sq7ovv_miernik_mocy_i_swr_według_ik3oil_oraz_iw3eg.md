@@ -165,7 +165,7 @@ Szczegóły konstrukcji i sposób uruchomienia układu opisane sa w załączonyc
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 02/2014 str. 46-48
+
 
  
 

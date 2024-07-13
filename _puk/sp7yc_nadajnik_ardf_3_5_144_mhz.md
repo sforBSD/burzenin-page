@@ -202,7 +202,7 @@ Program procesora napisany jest w BASCOMIE.
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 01/2015 str. 46-48
+
 
  
 

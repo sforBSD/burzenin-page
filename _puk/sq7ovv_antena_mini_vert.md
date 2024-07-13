@@ -138,7 +138,7 @@ Płytka przyłączeniowa to po prostu kawałek płyty izolacyjnej z zamontowanym
 
 
 
-![](assets/img/logo/sr_logo_s.jpg)###### 2/2020 str. 43-44
+
 
  
 
