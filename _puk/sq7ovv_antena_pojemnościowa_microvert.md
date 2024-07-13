@@ -23,7 +23,7 @@ header:
 
 
 
-![](assets/data/img/projects/2019-8-0.jpg) 
+
 
 
 

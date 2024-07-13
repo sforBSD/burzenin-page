@@ -23,7 +23,7 @@ header:
 
 
 
-![](assets/data/img/projects/2016-16-0.jpg) 
+
 
 
 
