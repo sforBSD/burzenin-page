@@ -7,7 +7,7 @@ author:
   - sp5mad
 tagline: ""
 layout: puk
-proofread: no
+proofread: yes
 classes: wide
 header:
   overlay_image: /assets/images/dummy.jpg
@@ -15,19 +15,4 @@ header:
   teaser: /assets/images/dummy.jpg
 ---
 
-
-
-![](assets/img/work-in-progress.jpg) 
-
-
 {% include swiatradio.html on_page="05/2017 str. 52-53" %}
-
- 
-
-
-
-
-
-
-
-

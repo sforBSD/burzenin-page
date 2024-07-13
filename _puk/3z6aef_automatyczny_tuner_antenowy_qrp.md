@@ -69,13 +69,3 @@ UWAGA. Kolejne wersje (B i C) tinyAAT z dodatkowymi funkcjonalnościami powstał
 #### Opis w "Świat Radio"
 
 {% include swiatradio.html on_page="11/2011 str. 47-49" %}
-
- 
-
-
-
-
-
- 
-
-
