@@ -23,12 +23,6 @@ header:
 
 
 
-
-
-
-![](assets/img/work-in-progress.jpg) 
-
-
 #### Odnośniki
 
 [Schemat TRX Kacper na portalu SP-QRP](https://sp-qrp.pl/modules.php?name=Downloads&op=getit&lid=65)

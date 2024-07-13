@@ -23,12 +23,6 @@ header:
 
 
 
-
-
-
-![](assets/img/work-in-progress.jpg) 
-
-
 #### Odnośniki
 
 [Dokumentacja TRX Omega na stronie SQ7BFS](http://www.lukaszruta.pl/omega_dok.htm)

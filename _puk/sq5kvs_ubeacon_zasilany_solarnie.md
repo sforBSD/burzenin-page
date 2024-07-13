@@ -23,12 +23,6 @@ header:
 
 
 
-
-
-
-![](assets/img/work-in-progress.jpg) 
-
-
 {% include swiatradio.html on_page="04/2020 str. 46-48" %}
 
  

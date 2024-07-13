@@ -15,7 +15,6 @@ header:
   teaser: /assets/images/dummy.jpg
 ---
 
-![](assets/img/work-in-progress.jpg) 
 
 
 

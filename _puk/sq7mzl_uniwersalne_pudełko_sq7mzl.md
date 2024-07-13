@@ -23,12 +23,6 @@ header:
 
 
 
-
-
-
-![](assets/img/work-in-progress.jpg) 
-
-
 {% include swiatradio.html on_page="02/2017 46-47" %}
 
  

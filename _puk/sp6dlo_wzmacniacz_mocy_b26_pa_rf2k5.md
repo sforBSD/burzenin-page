@@ -23,12 +23,6 @@ header:
 
 
 
-
-
-
-![](assets/img/work-in-progress.jpg) 
-
-
 #### Odnośniki
 
 [Opis wzmacniacza na stronie RF-Kits](https://rf-kit.de/index.php)

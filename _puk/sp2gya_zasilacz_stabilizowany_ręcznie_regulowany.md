@@ -23,12 +23,6 @@ header:
 
 
 
-
-
-
-![](assets/img/work-in-progress.jpg) 
-
-
 #### Odnośniki
 
 [Opis zasilacza DL5DBM (jęz. angielski)](http://dl5dbm.darc.de/20a_e.pdf)

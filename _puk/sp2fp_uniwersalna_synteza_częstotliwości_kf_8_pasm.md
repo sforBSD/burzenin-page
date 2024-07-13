@@ -23,12 +23,6 @@ header:
 
 
 
-
-
-
-![](assets/img/work-in-progress.jpg) 
-
-
 #### Odnośniki
 
 [Opis konstrukcji na stronie SP2FP](http://www.profimot.pl/sp2fp/DDS_VFO_synteza_SP2FP/DDSVFOSP2FP.html)

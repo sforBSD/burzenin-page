@@ -16,7 +16,6 @@ header:
 ---
 
 
-![](assets/img/work-in-progress.jpg) 
 
 
 

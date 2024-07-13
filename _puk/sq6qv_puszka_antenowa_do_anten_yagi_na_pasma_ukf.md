@@ -17,7 +17,6 @@ header:
 
 
 
-![](assets/img/work-in-progress.jpg) 
 
 
 {% include swiatradio.html on_page="11/2018 str. 50" %}

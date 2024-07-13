@@ -23,12 +23,6 @@ header:
 
 
 
-
-
-
-![](assets/img/work-in-progress.jpg) 
-
-
 #### Odnośniki
 
 [Wątek o TRX "Husarek" na forum SP Home Made](http://sp-hm.pl/thread-1093.html)

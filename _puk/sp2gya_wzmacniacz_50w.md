@@ -23,12 +23,6 @@ header:
 
 
 
-
-
-
-![](assets/img/work-in-progress.jpg) 
-
-
 #### Odnośniki
 
 [Opis wzmacniacza na stronie SP3RAF](https://sp3raf.pl.tl/PA-TAJFUN-_-Opis.htm)

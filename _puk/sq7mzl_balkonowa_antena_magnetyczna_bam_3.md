@@ -21,12 +21,6 @@ header:
 
  
 
-
-
-
-
-
-![](assets/img/work-in-progress.jpg) 
 #### Do pobrania
 
 [Opis konkursowy (plik pdf)](/assets/bin/SQ7MZL_Antena-balkonowa.pdf)

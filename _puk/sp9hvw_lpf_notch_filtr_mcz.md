@@ -23,12 +23,6 @@ header:
 
 
 
-
-
-
-![](assets/img/work-in-progress.jpg) 
-
-
 #### Odnośniki
 
 [Opis modułu na stronie SP9HVW](http://www.sp9hvw.info/inne-uklady/max7400-lpf-i-notch/)
