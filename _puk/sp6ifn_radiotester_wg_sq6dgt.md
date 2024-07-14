@@ -107,7 +107,7 @@ mikroprocesora przyrządu.
 
 #### Odnośniki
 
-[Opis projektu "radio3" na stronie SQ6DGT](https://mindpart.com/strona-glowna/projekty/radio3/)
+[Opis projektu "radio3" na stronie SQ6DGT](https://web.archive.org/web/20210805014720/https://mindpart.com/strona-glowna/projekty/radio3/)
 
  
 

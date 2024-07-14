@@ -180,7 +180,7 @@ Pomiar rezonansu obwodów LC zbudowany jest na zastępczym układzie diody Lambd
 
 #### Odnośniki
 
-[Oryginalny opis miernika](http://pic.rkniga.ru/shemotehnika/izmeritelnaya-tehnika/242-izmeritel-lcfg-na-mikrokontrollere-pic16f628a.html)
+[Oryginalny opis miernika](https://web.archive.org/web/20200804193509/http://pic.rkniga.ru/shemotehnika/izmeritelnaya-tehnika/242-izmeritel-lcfg-na-mikrokontrollere-pic16f628a.html)
 
  
 

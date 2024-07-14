@@ -40,7 +40,7 @@ Dodatkowo w skład systemu wchodzą zewnętrzne urządzenia (w osobnych obudowac
 
 #### Odnośniki
 
-[Strona projektu HAMBIT](http://termatic.webd.pro/)
+[Strona projektu HAMBIT](https://www.hambit.pl/)
 
 
 

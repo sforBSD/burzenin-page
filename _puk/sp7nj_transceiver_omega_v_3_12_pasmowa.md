@@ -1,5 +1,5 @@
 ---
-title: Transceiver  OMEGA V.3 (12-pasmowa)
+title: Transceiver OMEGA V.3 (12-pasmowa)
 puk_category: A
 puk_year: 2016
 puk_place: 5
@@ -25,7 +25,7 @@ header:
 
 #### Odnośniki
 
-[Dokumentacja TRX Omega na stronie SQ7BFS](http://www.lukaszruta.pl/omega_dok.htm)
+[Dokumentacja TRX Omega na stronie SQ7BFS](https://web.archive.org/web/20230611012750/https://www.lukaszruta.pl/omega_dok.htm)
 
 [Film z łączności na TRX Omega (YouTube)](https://www.youtube.com/watch?v=Sr82FwTC3DY)
 

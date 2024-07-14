@@ -123,9 +123,9 @@ jednak warto mieć wcześniej trochę doświadczenia, które można zdobyć choc
 
 #### Odnośniki
 
-###### [Zestaw (kit) ILER-20 na stronie EA3GCY](https://www.qrphamradiokits.com/transceivers/iler-40-20-v3-ssb/#cc-m-product-12639450749)
+###### [Zestaw (kit) ILER-20 na stronie EA3GCY](https://www.qrphamradiokits.com/qrp-transceiver-kits/iler-40-20-v3-1-band-ssb/#cc-m-product-12895539549)
 
-###### [Manual ILER-20 na stronie EA3GCY](https://www.qrphamradiokits.com/app/download/12122667449/ILER20+MK2+manual+english.pdf?t=1586795880)
+###### [Manual ILER-20 na stronie EA3GCY](https://www.qrphamradiokits.com/manuals/)
 
 ###### [Instrukcja montażu ILER-20 - tłumaczenie OE1KDA (plik pdf)](https://www.sp-qrp.pl/modules.php?name=Downloads&op=getit&lid=80)
 

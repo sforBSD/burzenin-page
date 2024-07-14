@@ -99,20 +99,11 @@ Mini transceiver PSK "NIKI 80"
  Na egzemplarzu modelowym przeprowadzono około 150 łączności PSK.
 
 
-[12/2010 str. 54](http://www.swiatradio.com.pl/virtual/modules.php?name=Downloads&d_op=getit&lid=31)
-
-
-
-
 #### Odnośniki
 
 [Wątek o TRX NIKI na forum SP-HomeMade](http://sp-hm.pl/thread-495.html)
 
- 
-
-
-
-![](assets/img/logo/sr_logo_s.jpg)[12/2010 str. 54](http://www.swiatradio.com.pl/virtual/modules.php?name=Downloads&d_op=getit&lid=31)
+[12/2010 str. 54](http://www.swiatradio.com.pl/virtual/modules.php?name=Downloads&d_op=getit&lid=31)
 
  
 

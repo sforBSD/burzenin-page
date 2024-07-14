@@ -17,7 +17,7 @@ header:
 
 Realizacja analizatora antenowego według popularnego układu EU1KY. Uniwersalny moduł DISCOVERY stosowany jest w wielu konstrukcjach, m.in. w rodzimym opracowaniu HUSAREK DSP.
 
-- [Nakładka do DISCOVERY w wykonaniu osiem.pl](http://osiem.net.pl/elektronika/elektronika-analizator-antenowy-wg-eu1ky/)
+- [Nakładka do DISCOVERY w wykonaniu osiem.pl](https://radiohobby.pl/projekty/analizator-antenowy-wg-eu1ky/)
 - [Wątek o analizatorze EU1KY na forum SP Home Made](http://sp-hm.pl/thread-2747.html)
 - [Wykonanie analizatora przez SP9HVW](http://www.sp9hvw.info/interfejsy/analizator-eu1ky/)
 - [Wgrywanie firmware KD8CEC (film SQ7HJB na YouTube)](https://www.youtube.com/watch?v=P-cObX64JK0)
