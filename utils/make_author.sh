@@ -31,7 +31,8 @@ SNIPPET=$(cat <<EOF
 $CALLSIGN_LOWER:
   name              : $NAME
   callsign          : $CALLSIGN_UPPER
-  constructor       : yes
+  constructor       : no
+  speaker       : no
   authorpage        : "/authors/$CALLSIGN_LOWER"
 
 ## end $CALLSIGN_UPPER
