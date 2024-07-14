@@ -1086,6 +1086,7 @@ so6mz:
   constructor       : no
   speaker       : yes
   authorpage        : "/authors/so6mz"
+  avatar          : "/assets/images/people/so6mz.jpg"
 
 ## end SO6MZ
 

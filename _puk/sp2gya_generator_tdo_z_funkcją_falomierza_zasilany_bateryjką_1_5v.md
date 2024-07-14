@@ -72,10 +72,6 @@ wynosi od 1,4 do 72 MHz.
 
 [12/2010 str. 58](http://www.swiatradio.com.pl/virtual/modules.php?name=Downloads&d_op=getit&lid=31)
 
-
-
-![](assets/img/logo/sr_logo_s.jpg)[12/2010 str. 58](http://www.swiatradio.com.pl/virtual/modules.php?name=Downloads&d_op=getit&lid=31)
-
  
 
 

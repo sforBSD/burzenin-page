@@ -9,9 +9,9 @@ layout: talk
 tagline: ""
 room: d
 header:
-  overlay_image: /assets/images/talks/sqotc_polskie_urzadzenia_pomiarowe.jpg
+  overlay_image: /assets/images/talks/sp9gmd_i_sq9njl_aparatura.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/talks/sqotc_polskie_urzadzenia_pomiarowe.jpg
+  teaser: /assets/images/talks/sp9gmd_i_sq9njl_aparatura.jpg
 ---
 
-![](/assets/images/talks/sqotc_polskie_urzadzenia_pomiarowe.jpg)
+![](/assets/images/talks/sp9gmd_i_sq9njl_aparatura.jpg)
