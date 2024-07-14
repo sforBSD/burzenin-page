@@ -1,6 +1,7 @@
 ---
 title: "IP3 +40dBm w niedrogim klasycznym transciverze SSB/CW."
-author: sp9lvz
+author: 
+  - sp9lvz
 ics_slug: sp9lvz_blu_ip3
 starttime: "2024-09-07 12:15"
 endtime: "2024-09-07 13:15"

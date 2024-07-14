@@ -1,6 +1,7 @@
 ---
 title: "1.2 MW mocy wyjściowej i BPSK - czyli czas na długich!"
-author: sp9uob
+author: 
+  - sp9uob
 ics_slug: sp9uob_system_dystrybucji_czasu
 starttime: "2024-09-07 11:00"
 endtime: "2024-09-07 12:00"

@@ -59,6 +59,8 @@ sp3htf:
   bio             : "Człowiek od nagłośnienia i technikaliów - żebyście widzieli i słyszeli"
   callsign        : SP3HTF
   authorpage      :  "/authors/sp3htf"
+  constructor       : no
+  speaker         : no
   orga_years      :
     - 2024
 
@@ -68,6 +70,8 @@ sp3nyr:
   # constructor_bio : ""
   bio             : "Konstruktor wielu talentów, często prowadzący warsztaty senior"
   callsign        : SP3NYR
+  constructor       : no
+  speaker         : yes
   authorpage      :  "/authors/sp3nyr"
   orga_years      :
     - 2024
@@ -89,7 +93,7 @@ sq7iqa:
   callsign        : "SQ7IQA"
   bio             : ""
   constructor     : no
-  speaker         : no
+  speaker         : yes
   authorpage      :  "/authors/sq7iqa"
   qrp_years       :
     - 2007
@@ -129,7 +133,7 @@ sp2fp:
   authorpage      : "/authors/sp2fp"
   # avatar          : "/assets/images/people/sp2fp.jpg"
   constructor     : yes
-  speaker         : no
+  speaker         : yes
 
 sq7hjb:
   name            : "Marek"
@@ -147,6 +151,8 @@ ekipa:
   email            : kontakt@zjazdtechniczny.krotkofalowcy.com.pl
   authorpage       : "/authors/ekipa"
   invisible        : yes
+  constructor       : no
+  speaker         : no
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -190,7 +196,7 @@ sp2gya:
   name              : Grzegorz
   callsign          : SP2GYA
   constructor       : yes
-  speaker           : no
+  speaker         : yes
   authorpage        :  "/authors/sp2gya"
 
 ## end SP2GYA
@@ -389,7 +395,7 @@ sq5kvs:
   name              : Karol
   callsign          : SQ5KVS
   constructor       : yes
-  speaker           : no
+  speaker         : yes
   authorpage        :  "/authors/sq5kvs"
   constructor_bio   : Obserwator komet i innych kosmicznych obiektów, krótkofalowiec (licencja 2013), ciekawy wszelkich nowinek technicznych, ale docenia również historię.
 
@@ -409,7 +415,7 @@ sq9kg:
 sq9alw:
   name              : Michał
   callsign          : SQ9ALW
-  constructor       : yes
+  constructor       : no
   speaker           : no
   authorpage        :  "/authors/sq9alw"
   orga_years      :
@@ -422,8 +428,8 @@ sq9alw:
 sp9jc:
   name              : Józek
   callsign          : SP9JC
-  constructor       : yes
-  speaker           : no
+  constructor       : no
+  speaker         : yes
   authorpage        :  "/authors/sp9jc"
   orga_years      :
     - 2023
@@ -436,7 +442,7 @@ sq9mdd:
   name              : Ryszard
   callsign          : SQ9MDD
   constructor       : yes
-  speaker           : no
+  speaker         : yes
   authorpage        :  "/authors/sq9mdd"
 
 ## end SQ9MDD
@@ -446,7 +452,7 @@ sq9pbs:
   name              : Wojciech
   callsign          : SQ9PBS
   constructor       : yes
-  speaker           : no
+  speaker         : yes
   authorpage        :  "/authors/sq9pbs"
 
 ## end SQ9PBS
@@ -560,7 +566,7 @@ sp7q:
   name              : Tomasz
   callsign          : SP7Q
   constructor       : yes
-  speaker           : no
+  speaker         : yes
   authorpage        :  "/authors/sp7q"
   avatar          : "/assets/images/people/sp7q.jpg"
   bio   : "Zapalony telegrafista (www.titawa.pl), lubi wyprawy terenowe i zawody. Często buduje urządzenia krótkofalarskie - wyłącznie przydatne!"
@@ -582,7 +588,7 @@ sp9jm:
   name              : Krzysztof
   callsign          : SP9JM
   constructor       : yes
-  speaker           : no
+  speaker         : yes
   authorpage        :  "/authors/sp9jm"
 
 ## end SP9JM
@@ -612,7 +618,7 @@ sq2rh:
   name              : Roman
   callsign          : SQ2RH
   constructor       : yes
-  speaker           : no
+  speaker         : yes
   authorpage        :  "/authors/sq2rh"
   constructor_bio   : W radioamatorkim hobby od lat '80 ubiegłego wieku, licencjonowany krótkofalowiec od 2002 roku. Niezwykle doświadczony administrator i programista IT. Lubi czasem zbudować coś krótkofalarsko przydatnego...
 
@@ -890,7 +896,7 @@ sq9zbf:
 sp8ebc:
   name              : Mateusz
   callsign          : SP8EBC
-  constructor       : yes
+  constructor       : no
   speaker           : yes
   authorpage        : "/authors/sp8ebc"
 
@@ -901,6 +907,8 @@ sp2qca:
   name              : Artur
   callsign          : SP2QCA
   authorpage        : "/authors/sp2qca"
+  constructor       : no
+  speaker         : no
   qrp_years      :
     - 2007
     - 2010
@@ -912,6 +920,8 @@ sp4jfr:
   name              : Bolek
   callsign          : SP4JFR
   authorpage        : "/authors/sp4jfr"
+  constructor       : no
+  speaker         : no
   qrp_years      :
     - 2007
     - 2009
@@ -926,6 +936,8 @@ sp5ein:
   name              : Grzegorz
   callsign          : SP5EIN
   authorpage        : "/authors/sp5ein"
+  constructor       : no
+  speaker         : no
   qrp_years      :
     - 2007
     - 2010
@@ -938,6 +950,8 @@ sp3swj:
   name              : Jarek
   callsign          : SP3SWJ
   authorpage        : "/authors/sp3swj"
+  constructor       : no
+  speaker         : no
   qrp_years      :
     - 2007
     - 2008
@@ -952,6 +966,8 @@ sq2dyl:
   name              : Łukasz
   callsign          : SQ2DYL
   authorpage        : "/authors/sq2dyl"
+  constructor       : no
+  speaker         : no
   qrp_years      :
     - 2007
     - 2008
@@ -965,6 +981,8 @@ sq2dyl:
 sp5jnw:
   name              : Marcin
   callsign          : SP5JNW
+  constructor       : no
+  speaker         : no
   authorpage        : "/authors/sp5jnw"
   qrp_years      :
     - 2007
@@ -980,6 +998,8 @@ sp5ayi:
   name              : Marian
   callsign          : SP5AYI
   authorpage        : "/authors/sp5ayi"
+  constructor       : no
+  speaker         : no
   qrp_years      :
     - 2008
     - 2010
@@ -992,6 +1012,8 @@ sp5obj:
   name              : Roman
   callsign          : SP5OBJ
   authorpage        : "/authors/sp5obj"
+  constructor       : no
+  speaker         : no
   qrp_years      :
     - 2007
     - 2008
@@ -1006,6 +1028,8 @@ sp5ddj:
   name              : Włodek
   callsign          : SP5DDJ
   authorpage        : "/authors/sp5ddj"
+  constructor       : no
+  speaker         : no
   qrp_years      :
     - 2007
     - 2008
@@ -1019,7 +1043,8 @@ sp5ddj:
 sq9rfc:
   name              : Jurek
   callsign          : SQ9RFC
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sq9rfc"
 
 ## end SQ9RFC
@@ -1028,7 +1053,8 @@ sq9rfc:
 dl6kal:
   name              : Anton
   callsign          : DL6KAL
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/dl6kal"
 
 ## end DL6KAL
@@ -1037,7 +1063,8 @@ dl6kal:
 sp2hqy:
   name              : Darek
   callsign          : SP2HQY
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sp2hqy"
 
 ## end SP2HQY
@@ -1046,26 +1073,29 @@ sp2hqy:
 sq5nwi:
   name              : Krzysztof
   callsign          : SQ5NWI
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sq5nwi"
 
 ## end SQ5NWI
 
-## begin SO5HME
-so5hme:
+## begin SO6MZ
+so6mz:
   name              : Mirek
-  callsign          : SO5HME
-  constructor       : yes
-  authorpage        : "/authors/so5hme"
+  callsign          : SO6MZ
+  constructor       : no
+  speaker       : yes
+  authorpage        : "/authors/so6mz"
 
-## end SO5HME
+## end SO6MZ
 
 ## begin SQ6BBA
 sq6bba:
   name              : Jurek
   callsign          : SQ6BBA
   sk                : yes
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sq6bba"
 
 ## end SQ6BBA
@@ -1074,7 +1104,8 @@ sq6bba:
 sp3cai:
   name              : Bartek
   callsign          : SP3CAI
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sp3cai"
 
 ## end SP3CAI
@@ -1083,7 +1114,8 @@ sp3cai:
 sq9sat:
   name              : Grzesiek
   callsign          : SQ9SAT
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sq9sat"
 
 ## end SQ9SAT
@@ -1092,7 +1124,8 @@ sq9sat:
 sp7vc:
   name              : Przemek
   callsign          : SP7VC
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sp7vc"
 
 ## end SP7VC
@@ -1101,7 +1134,8 @@ sp7vc:
 sp9mli:
   name              : Leszek
   callsign          : SP9MLI
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sp9mli"
 
 ## end SP9MLI
@@ -1110,7 +1144,8 @@ sp9mli:
 mirekk36:
   name              : Mirek
   callsign          : MIREKK36
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/mirekk36"
 
 ## end MIREKK36
@@ -1119,7 +1154,8 @@ mirekk36:
 oe1kda:
   name              : Krzysztof
   callsign          : OE1KDA
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/oe1kda"
 
 ## end OE1KDA
@@ -1128,7 +1164,8 @@ oe1kda:
 sq2bvn:
   name              : Mariusz
   callsign          : SQ2BVN
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sq2bvn"
 
 ## end SQ2BVN
@@ -1138,7 +1175,8 @@ sq2bvn:
 sq7lrx:
   name              : Adam
   callsign          : SQ7LRX
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sq7lrx"
 
 ## end SQ7LRX
@@ -1147,7 +1185,8 @@ sq7lrx:
 sp9xwm:
   name              : Michał
   callsign          : SP9XWM
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sp9xwm"
 
 ## end SP9XWM
@@ -1155,7 +1194,8 @@ sp9xwm:
 ## begin EMCOM
 emcom:
   name              : EMCOM
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/emcom"
 
 ## end EMCOM
@@ -1164,7 +1204,8 @@ emcom:
 sp2jmr:
   name              : Piotr
   callsign          : SP2JMR
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sp2jmr"
 
 ## end SP2JMR
@@ -1172,7 +1213,8 @@ sp2jmr:
 ## begin SP5YAM
 sp5yam:
   name              : Klub SP5YAM
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sp5yam"
 
 ## end SP5YAM
@@ -1180,7 +1222,8 @@ sp5yam:
 ## begin TITAWA
 titawa:
   name              : Titawa
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/titawa"
 
 ## end TITAWA
@@ -1188,7 +1231,18 @@ titawa:
 ## begin SP5WWL
 sp5wwl:
   name              : Klub SP5WWL
-  constructor       : yes
+  constructor       : no
+  speaker         : yes
   authorpage        : "/authors/sp5wwl"
 
 ## end SP5WWL
+
+## begin SP2JQR
+sp2jqr:
+  name              : Henryk
+  callsign          : SP2JQR
+  constructor       : no
+  speaker         : yes
+  authorpage        : "/authors/sp2jqr"
+
+## end SP2JQR
