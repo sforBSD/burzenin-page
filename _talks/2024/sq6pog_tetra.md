@@ -8,10 +8,14 @@ endtime: "2024-09-07 15:45"
 layout: talk
 tagline: ""
 room: a
+# header:
+#   overlay_image: /assets/images/talks/sq6pog_tetra.jpg
+#   overlay_filter: 0.5
+#   teaser: /assets/images/talks/sq6pog_tetra.jpg
 header:
-  overlay_image: /assets/images/talks/sq6pog_tetra.jpg
+  overlay_image: /assets/images/talks/dummy.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/talks/sq6pog_tetra.jpg
+  teaser: /assets/images/talks/dummy.jpg
 ---
 
-![](/assets/images/talks/sq6pog_tetra.jpg)
+![](/assets/images/talks/dummy.jpg)

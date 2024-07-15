@@ -68,7 +68,7 @@ Sterownik urządzenia jest rozwinięciem projektu kontrolera Tulipana.
 
 ###### [Opis TRX VisAir na stronie projektu (jęz. rosyjski)](http://visair.ru/)
 
-###### [Opis na stronie TRX Tulipan (jęz. angielski)](http://rus-sdr.ru/visair-2/)
+###### [Opis na stronie TRX Tulipan (jęz. angielski)](https://web.archive.org/web/20220812064320/http://rus-sdr.ru/visair-2/)
 
  
 

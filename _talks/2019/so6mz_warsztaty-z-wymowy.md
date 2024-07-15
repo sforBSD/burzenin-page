@@ -9,7 +9,7 @@ layout: talk
 tagline: ""
 room: a
 header:
-  overlay_image: /assets/images/dummy.jpg
+  overlay_image: /assets/images/talks/so6mz_dykcja_to_nie_fikcja.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/dummy.jpg
+  teaser: /assets/images/talks/so6mz_dykcja_to_nie_fikcja.jpg
 ---
