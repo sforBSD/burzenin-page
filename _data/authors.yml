@@ -1085,6 +1085,7 @@ so6mz:
   callsign          : SO6MZ
   constructor       : no
   speaker       : yes
+  bio               : "Rocznik 1967. W poprzednim życiu aktor i detepowiec. Radioamator od 2014. Robi łączności paszczą, bo wciąż nie umie telegrafii. Obecnie małorolny hodowca alpak."
   authorpage        : "/authors/so6mz"
   avatar          : "/assets/images/people/so6mz.jpg"
 
