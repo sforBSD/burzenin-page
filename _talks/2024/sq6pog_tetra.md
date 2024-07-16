@@ -13,9 +13,9 @@ room: a
 #   overlay_filter: 0.5
 #   teaser: /assets/images/talks/sq6pog_tetra.jpg
 header:
-  overlay_image: /assets/images/talks/dummy.jpg
+  overlay_image: /assets/images/dummy.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/talks/dummy.jpg
+  teaser: /assets/images/dummy.jpg
 ---
 
-![](/assets/images/talks/dummy.jpg)
+![](/assets/images/dummy.jpg)
