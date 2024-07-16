@@ -1,5 +1,5 @@
 ---
-layout: author
 author: dl6kal
-title: ""
+layout: author
+title: Anton DL6KAL
 ---

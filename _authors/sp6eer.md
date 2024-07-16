@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp6eer
-title: ""
+layout: author
+title: Zdzisław SP6EER
 ---

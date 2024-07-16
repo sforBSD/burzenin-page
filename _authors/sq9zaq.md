@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq9zaq
-title: ""
+layout: author
+title: canis_lupus SQ9ZAQ
 ---

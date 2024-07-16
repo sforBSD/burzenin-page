@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp5mad
-title: ""
+layout: author
+title: Włodzimierz SP5MAD
 ---

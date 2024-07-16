@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp3nyr
-title: ""
+layout: author
+title: Waldemar SP3NYR
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: alek
-title: ""
+layout: author
+title: Alek Zawada
 ---

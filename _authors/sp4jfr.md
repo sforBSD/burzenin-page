@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp4jfr
-title: ""
+layout: author
+title: Bolek SP4JFR
 ---

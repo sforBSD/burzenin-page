@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq9pbs
-title: ""
+layout: author
+title: Wojciech SQ9PBS
 ---

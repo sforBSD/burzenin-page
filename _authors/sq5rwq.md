@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq5rwq
-title: ""
+layout: author
+title: Adam SQ5RWQ
 ---

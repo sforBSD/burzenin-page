@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq7jhm
-title: ""
+layout: author
+title: Jerzy SQ7JHM
 ---

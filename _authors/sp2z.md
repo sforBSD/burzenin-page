@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp2z
-title: ""
+layout: author
+title: Bartosz SP2Z
 ---

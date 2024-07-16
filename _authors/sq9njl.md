@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq9njl
-title: ""
+layout: author
+title: Maciek SQ9NJL
 ---

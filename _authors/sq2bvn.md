@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq2bvn
-title: ""
+layout: author
+title: Mariusz SQ2BVN
 ---

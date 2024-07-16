@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp7ukl
-title: ""
+layout: author
+title: Cezary Libert SP7UKL
 ---

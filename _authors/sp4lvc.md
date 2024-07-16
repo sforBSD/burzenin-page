@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp4lvc
-title: ""
+layout: author
+title: Bogdan SP4LVC
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq5nwi
-title: ""
+layout: author
+title: Krzysztof SQ5NWI
 ---

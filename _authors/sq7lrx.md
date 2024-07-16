@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq7lrx
-title: ""
+layout: author
+title: Adam SQ7LRX
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq2dyl
-title: ""
+layout: author
+title: Łukasz SQ2DYL
 ---

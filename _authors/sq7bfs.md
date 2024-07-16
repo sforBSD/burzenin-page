@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq7bfs
-title: ""
+layout: author
+title: Łukasz SQ7BFS
 ---

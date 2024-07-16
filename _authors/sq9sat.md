@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq9sat
-title: ""
+layout: author
+title: Grzesiek SQ9SAT
 ---

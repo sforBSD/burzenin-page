@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq6dgt
-title: ""
+layout: author
+title: Robert SQ6DGT
 ---

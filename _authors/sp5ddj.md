@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp5ddj
-title: ""
+layout: author
+title: Włodek SP5DDJ
 ---

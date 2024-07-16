@@ -1,5 +1,5 @@
 ---
-layout: author
 author: emcom
-title: ""
+layout: author
+title: EMCOM EMCOM
 ---

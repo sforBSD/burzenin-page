@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp6dlo
-title: ""
+layout: author
+title: Sławomir SP6DLO
 ---

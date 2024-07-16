@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp5yam
-title: ""
+layout: author
+title: Klub SP5YAM SP5YAM
 ---

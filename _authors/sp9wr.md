@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9wr
-title: ""
+layout: author
+title: Waldemar SP9WR
 ---

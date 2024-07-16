@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp7yc
-title: ""
+layout: author
+title: Sławoj SP7YC
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp8hmz
-title: ""
+layout: author
+title: Karol SP8HMZ
 ---

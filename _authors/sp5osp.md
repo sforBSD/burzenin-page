@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp5osp
-title: ""
+layout: author
+title: Michał SP5OSP
 ---

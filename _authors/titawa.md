@@ -1,5 +1,5 @@
 ---
-layout: author
 author: titawa
-title: ""
+layout: author
+title: Titawa
 ---

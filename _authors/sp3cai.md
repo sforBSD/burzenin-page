@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp3cai
-title: ""
+layout: author
+title: Bartek SP3CAI
 ---

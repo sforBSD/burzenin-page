@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq5kvs
-title: ""
+layout: author
+title: Karol SQ5KVS
 ---

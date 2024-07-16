@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq7mzl
-title: ""
+layout: author
+title: Edward SQ7MZL
 ---

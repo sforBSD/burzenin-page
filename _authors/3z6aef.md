@@ -1,5 +1,5 @@
 ---
-layout: author
 author: 3z6aef
-title: ""
+layout: author
+title: Waldemar 3Z6AEF
 ---

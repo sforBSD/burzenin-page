@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9gmd
-title: ""
+layout: author
+title: Filip SP9GMD
 ---

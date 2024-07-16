@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq5stu
-title: ""
+layout: author
+title: Piotr SQ5STU
 ---

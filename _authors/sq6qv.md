@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq6qv
-title: ""
+layout: author
+title: Tomasz SQ6QV
 ---

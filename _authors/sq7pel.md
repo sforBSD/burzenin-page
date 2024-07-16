@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq7pel
-title: ""
+layout: author
+title: Patryk SQ7PEL
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp6ifn
-title: ""
+layout: author
+title: Ryszard SP6IFN
 ---

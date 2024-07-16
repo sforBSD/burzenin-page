@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq7okl
-title: ""
+layout: author
+title: Oskar Libert SQ7OKL
 ---

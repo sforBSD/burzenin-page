@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp7roh
-title: ""
+layout: author
+title: Maciej SP7ROH
 ---

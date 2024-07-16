@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq9alw
-title: ""
+layout: author
+title: Michał SQ9ALW
 ---

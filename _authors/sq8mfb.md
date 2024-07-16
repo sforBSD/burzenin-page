@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq8mfb
-title: ""
+layout: author
+title: Zbigniew SQ8MFB
 ---

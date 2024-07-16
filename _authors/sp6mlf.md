@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp6mlf
-title: ""
+layout: author
+title: Jarosław SP6MLF
 ---

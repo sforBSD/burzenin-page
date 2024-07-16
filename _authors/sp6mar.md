@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp6mar
-title: ""
+layout: author
+title: Martyna SP6MAR
 ---

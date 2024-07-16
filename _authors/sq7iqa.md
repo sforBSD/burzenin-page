@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq7iqa
-title: ""
+layout: author
+title: Krzysiek SQ7IQA
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: so6mz
-title: ""
+layout: author
+title: Mirek SO6MZ
 ---

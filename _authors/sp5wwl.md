@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp5wwl
-title: ""
+layout: author
+title: Klub SP5WWL SP5WWL
 ---

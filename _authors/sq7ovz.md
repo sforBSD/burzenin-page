@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq7ovz
-title: ""
+layout: author
+title: Marcin SQ7OVZ
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq4avs
-title: ""
+layout: author
+title: Rafał SQ4AVS
 ---

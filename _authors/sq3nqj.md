@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq3nqj
-title: ""
+layout: author
+title: Krzysztof SQ3NQJ
 ---

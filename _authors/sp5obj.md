@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp5obj
-title: ""
+layout: author
+title: Roman SP5OBJ
 ---

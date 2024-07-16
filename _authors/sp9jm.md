@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9jm
-title: ""
+layout: author
+title: Krzysztof SP9JM
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp3swj
-title: ""
+layout: author
+title: Jarek SP3SWJ
 ---

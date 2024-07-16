@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9bit
-title: ""
+layout: author
+title: Marcin SP9BIT
 ---

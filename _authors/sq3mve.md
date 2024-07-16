@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq3mve
-title: ""
+layout: author
+title: Mariusz SQ3MVE
 ---

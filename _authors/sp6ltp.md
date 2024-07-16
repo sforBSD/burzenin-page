@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp6ltp
-title: ""
+layout: author
+title: Zbigniew SP6LTP
 ---

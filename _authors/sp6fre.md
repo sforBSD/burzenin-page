@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp6fre
-title: ""
+layout: author
+title: Leszek SP6FRE
 ---

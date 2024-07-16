@@ -1,5 +1,5 @@
 ---
-layout: author
 author: ekipa
-title: ""
+layout: author
+title: Zjazd Techniczny Krótkofalowców
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp5bmp
-title: ""
+layout: author
+title: Janusz SP5BMP
 ---

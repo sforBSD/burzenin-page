@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp3htf
-title: ""
+layout: author
+title: Rafał SP3HTF
 ---

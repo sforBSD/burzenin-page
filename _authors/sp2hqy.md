@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp2hqy
-title: ""
+layout: author
+title: Darek SP2HQY
 ---

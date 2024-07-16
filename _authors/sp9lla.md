@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9lla
-title: ""
+layout: author
+title: Kazimierz SP9LLA
 ---

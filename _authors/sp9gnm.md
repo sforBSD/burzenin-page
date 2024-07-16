@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9gnm
-title: ""
+layout: author
+title: Władysław SP9GNM
 ---

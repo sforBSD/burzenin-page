@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp7vc
-title: ""
+layout: author
+title: Przemek SP7VC
 ---

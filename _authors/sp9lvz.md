@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9lvz
-title: ""
+layout: author
+title: Piotr SP9LVZ
 ---

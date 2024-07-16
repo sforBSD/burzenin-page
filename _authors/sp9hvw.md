@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9hvw
-title: ""
+layout: author
+title: Józef SP9HVW
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp8qep
-title: ""
+layout: author
+title: Piotr SP8QEP
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq2rh
-title: ""
+layout: author
+title: Roman SQ2RH
 ---

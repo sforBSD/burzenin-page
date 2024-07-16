@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq1gu
-title: ""
+layout: author
+title: Andrzej SQ1GU
 ---

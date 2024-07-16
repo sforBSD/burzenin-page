@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp2jmr
-title: ""
+layout: author
+title: Piotr SP2JMR
 ---

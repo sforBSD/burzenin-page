@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp5ein
-title: ""
+layout: author
+title: Grzegorz SP5EIN
 ---

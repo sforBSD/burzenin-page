@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp3jml
-title: ""
+layout: author
+title: Lech SP3JML
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp7nj
-title: ""
+layout: author
+title: Paweł SP7NJ
 ---

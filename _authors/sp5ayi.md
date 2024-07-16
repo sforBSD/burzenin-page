@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp5ayi
-title: ""
+layout: author
+title: Marian SP5AYI
 ---

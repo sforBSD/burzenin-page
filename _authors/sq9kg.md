@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq9kg
-title: ""
+layout: author
+title: Krzysztof SQ9KG
 ---

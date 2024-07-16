@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq7alx
-title: ""
+layout: author
+title: Aleksandra SQ7ALX
 ---

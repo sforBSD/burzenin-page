@@ -1,5 +1,5 @@
 ---
-layout: author
 author: oe1kda
-title: ""
+layout: author
+title: Krzysztof OE1KDA
 ---

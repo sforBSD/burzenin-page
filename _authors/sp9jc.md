@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9jc
-title: ""
+layout: author
+title: Józek SP9JC
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: mirekk36
-title: ""
+layout: author
+title: Mirek MIREKK36
 ---

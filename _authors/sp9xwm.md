@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9xwm
-title: ""
+layout: author
+title: Michał SP9XWM
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq9wtf
-title: ""
+layout: author
+title: Wiktor Przybylski SQ9WTF
 ---

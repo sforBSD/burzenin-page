@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq9rfc
-title: ""
+layout: author
+title: Jurek SQ9RFC
 ---

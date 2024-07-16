@@ -1,5 +1,5 @@
 ---
-layout: author
 author: spotc
-title: ""
+layout: author
+title: SP-OTC SPOTC
 ---

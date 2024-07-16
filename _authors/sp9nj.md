@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9nj
-title: ""
+layout: author
+title: Spike SP9NJ
 ---

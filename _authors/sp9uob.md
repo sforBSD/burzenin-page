@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9uob
-title: ""
+layout: author
+title: Tomek SP9UOB
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp6sp
-title: ""
+layout: author
+title: Marcin SP6SP
 ---

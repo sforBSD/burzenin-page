@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq6rgk
-title: ""
+layout: author
+title: Łukasz SQ6RGK
 ---

@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq7ovv
-title: ""
+layout: author
+title: Kuba SQ7OVV
 ---

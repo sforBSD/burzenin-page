@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp2gya
-title: ""
+layout: author
+title: Grzegorz SP2GYA
 ---

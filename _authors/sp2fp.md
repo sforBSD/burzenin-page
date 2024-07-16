@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp2fp
-title: ""
+layout: author
+title: Paweł SP2FP
 ---

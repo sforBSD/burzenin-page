@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp9mli
-title: ""
+layout: author
+title: Leszek SP9MLI
 ---

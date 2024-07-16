@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp2qca
-title: ""
+layout: author
+title: Artur SP2QCA
 ---

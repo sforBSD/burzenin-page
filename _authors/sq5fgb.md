@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq5fgb
-title: ""
+layout: author
+title: Lucjan SQ5FGB
 ---

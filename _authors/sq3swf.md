@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq3swf
-title: ""
+layout: author
+title: Olgierd SQ3SWF
 ---

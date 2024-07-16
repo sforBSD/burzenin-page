@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq7hjb
-title: ""
+layout: author
+title: Marek SQ7HJB
 ---

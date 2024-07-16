@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp6qks
-title: ""
+layout: author
+title: Stefan SP6QKS
 ---

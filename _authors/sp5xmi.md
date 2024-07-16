@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp5xmi
-title: ""
+layout: author
+title: Marcin SP5XMI
 ---

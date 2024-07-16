@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq9mdd
-title: ""
+layout: author
+title: Ryszard SQ9MDD
 ---

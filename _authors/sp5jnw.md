@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sp5jnw
-title: ""
+layout: author
+title: Marcin SP5JNW
 ---

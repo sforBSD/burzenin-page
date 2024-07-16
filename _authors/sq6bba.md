@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq6bba
-title: ""
+layout: author
+title: Jurek SQ6BBA
 ---

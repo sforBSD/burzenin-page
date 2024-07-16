@@ -1,5 +1,5 @@
 ---
-layout: author
 author: sq6pog
-title: ""
+layout: author
+title: Paweł SQ6POG
 ---
