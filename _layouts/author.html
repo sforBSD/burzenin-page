@@ -46,7 +46,7 @@ classes: wide
 
         <div class="project-category-grid">
           {% for post in posts %}
-            <div class="project-item project-item-half">
+            <div class="project-item project-item-half {% unless post.starttime contains site.current_year %}previous_years_talks{% endunless %}">
             {% if post.header.overlay_image %}
               <img src="{{ post.header.overlay_image | relative_url }}" alt="{{ post.title }}" class="project-image">
             {% endif %}
@@ -62,7 +62,7 @@ classes: wide
                     {% endif %}</a>
                   {% endfor %}
                 </span>
-                Kiedy: {{ post.starttime }} sala {{post.room}}.
+                Kiedy: {{ post.starttime }} sala {{post.room | upcase}}.
               </div>
             </div>
             </div>
