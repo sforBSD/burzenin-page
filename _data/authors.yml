@@ -1232,7 +1232,7 @@ titawa:
 
 ## begin PZK
 pzk:
-  name              : PZK
+  name              : Polski Związek Krótkofalowców
   constructor       : no
   speaker         : yes
   authorpage        : "/authors/pzk"

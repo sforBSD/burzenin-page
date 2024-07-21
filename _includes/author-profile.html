@@ -4,8 +4,12 @@
   {% assign author = site.data.authors[a] | default: a %}
 
   <div itemscope itemtype="https://schema.org/Person" class="h-card">
-    
-    <h3>Autor:</h3><hr/>
+    {% if page.collection == "talks" %}<h3>Prelegent:</h3>
+    {% elsif page.collection == "puk" %}<h3>Konstruktor:</h3>
+    {% else %}
+    <h3>Autor:</h3>
+    {% endif %}
+    <hr/>
     <div class="author__avatar">
       {% if author.authorpage %}
       <a href="{{ author.authorpage | default: '/' | absolute_url }}">
@@ -63,12 +67,14 @@
           </li>
         {% endif %}
 
+        {% if author.callsign %}
         <li>
           <a href="http://www.qrz.com/db/{{ author.callsign | downcase }}" rel="me" class="u-qrz">
             <meta itemprop="qrz" content="{{ author.callsign | downcase }}" />
             <i class="fas fa-fw fa-book" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].qrz_label | default: "QRZ" }}</span>
           </a>
         </li>
+        {% endif %}
 
         {% if author.email %}
           <li>

@@ -193,9 +193,15 @@ Listę wszystkich wystąpień jakie zgromadziliśmy łącznie z tymi poniżej <a
       {% if room_talks.size > 0 %}
         <div class="room-column">
           {%if room != "s" %}
-          <h3>Sala {{ room | upcase }}</h3>
+            <h3>Sala {{ room | upcase }}</h3>
+            {% if room == "a"%}<p class="room_hint">Na prawo od wejścia.</p>
+            {% elsif room == "b"%}<p class="room_hint">Na lewo od wejścia.</p>
+            {% elsif room == "c"%}<p class="room_hint">Na pierwszym piętrze.</p>
+            {% elsif room == "d"%}<p class="room_hint">Na wprost wejścia.</p>
+            {% endif %}
           {%else%}
-          <h3>Stołówka</h3>          
+          <h3>Stołówka</h3>
+          <p class="room_hint">Na pierwszym piętrze, naprzeciwko stacji zjazdowej.</p>
           {% endif %}
           
           <ul>
