@@ -1230,6 +1230,16 @@ titawa:
 
 ## end TITAWA
 
+## begin PZK
+pzk:
+  name              : PZK
+  constructor       : no
+  speaker         : yes
+  authorpage        : "/authors/pzk"
+  avatar          : "/assets/images/people/pzk.jpg"
+
+## end PZK
+
 ## begin SP5WWL
 sp5wwl:
   name              : Klub SP5WWL

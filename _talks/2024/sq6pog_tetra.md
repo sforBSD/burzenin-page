@@ -8,14 +8,14 @@ endtime: "2024-09-07 15:45"
 layout: talk
 tagline: ""
 room: a
-# header:
-#   overlay_image: /assets/images/talks/sq6pog_tetra.jpg
-#   overlay_filter: 0.5
-#   teaser: /assets/images/talks/sq6pog_tetra.jpg
 header:
-  overlay_image: /assets/images/dummy.jpg
+  overlay_image: /assets/images/talks/sq6pog_tetra.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/dummy.jpg
+  teaser: /assets/images/talks/sq6pog_tetra.jpg
 ---
 
-![](/assets/images/dummy.jpg)
+![](/assets/images/talks/sq6pog_tetra.jpg)
+
+Kolejna prezentacja!
+Paweł SQ6POG - Tetrapack, czyli amatorska implementacja rozległej sieci TETRA.
+Prezentacja funkcjonalności systemu, przykładowego przemiennika, terminali radiowych z punktu widzenia administratora i użytkownika.
