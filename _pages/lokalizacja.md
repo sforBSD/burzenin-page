@@ -10,21 +10,21 @@ header:
   overlay_image: /assets/images/hires/wiata.jpg
   overlay_filter: 0.5
 gallery1:
-  - url: /assets/images/hires/pawilony.web.jpg
-    image_path: /assets/images/hires/pawilony.thumb.jpg
+  - url: /assets/images/pawilony.jpg
+    image_path: /assets/images/thumbs/pawilony.jpg
     alt: "Pawilony A B i C, w których będziecie mieszkać (chyba, że wybierzecie nocleg w domkach typu Brda)"
     title: "Pawilony A B i C, w których będziecie mieszkać (chyba, że wybierzecie nocleg w domkach typu Brda)"
-  - url: /assets/images/hires/osrodek.web.jpg 
-    image_path: /assets/images/hires/osrodek.thumb.jpg
+  - url: /assets/images/osrodek.jpg 
+    image_path: /assets/images/thumbs/osrodek.jpg
     alt: "Ośrodek w tej części swej okazałości, na której odbywa się Zjazd"
     title: "Ośrodek w tej części swej okazałości, na której odbywa się Zjazd"
 gallery2:
-  - url: /assets/images/hires/parking.web.jpg
-    image_path: /assets/images/hires/parking.thumb.jpg
+  - url: /assets/images/parking.jpg
+    image_path: /assets/images/thumbs/parking.jpg
     alt: "Widok na parkingi - wewnętrzne i zewnętrzny"
     title: "Widok na parkingi - wewnętrzne i zewnętrzny"
-  - url: /assets/images/hires/parkingbok.web.jpg
-    image_path: /assets/images/hires/parkingbok.thumb.jpg
+  - url: /assets/images/parkingbok.jpg
+    image_path: /assets/images/thumbs/parkingbok.jpg
     alt: "Widok na parkingi - wewnętrzne i zewnętrzny"
     title: "Widok na parkingi - wewnętrzne i zewnętrzny"
 ---
