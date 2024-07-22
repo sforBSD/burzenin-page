@@ -9,7 +9,9 @@ layout: talk
 tagline: ""
 room: a
 header:
-  overlay_image: /assets/images/dummy.jpg
+  overlay_image: /assets/images/talks/emcom_panel-dyskusyjny.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/dummy.jpg
+  teaser: /assets/images/talks/emcom_panel-dyskusyjny.jpg
 ---
+
+{% include video id="6kOuTUIuLRQ" provider="youtube" %}

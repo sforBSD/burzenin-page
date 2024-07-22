@@ -5,7 +5,7 @@ classes: wide
 
 {% assign author = site.data.authors[page.author] %}
 {% assign posts = site.puk | where_exp:"item", "item.author contains page.author" %}
-    
+    {% if posts.size > 0 %}
     <section class="taxonomy__section">
       <h2 class="archive__subtitle">Projekty:</h2>
       <div class="entries-list">
@@ -37,9 +37,11 @@ classes: wide
         
       </div>
     </section>
+    {% endif %}
 
     {% assign posts = site.talks | where_exp:"item", "item.author contains page.author" %}
     
+    {% if posts.size > 0 %}
     <section class="taxonomy__section">
       <h2 class="archive__subtitle">Wystąpienia:</h2>
       <div class="entries-list">
@@ -71,5 +73,6 @@ classes: wide
         
       </div>
     </section>
+    {% endif %}
 
     {{ content }}

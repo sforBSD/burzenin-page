@@ -1195,10 +1195,11 @@ sp9xwm:
 
 ## begin EMCOM
 emcom:
-  name              : EMCOM
+  name              : EmCom Poland
   constructor       : no
   speaker         : yes
   authorpage        : "/authors/emcom"
+  avatar          : "/assets/images/people/emcom.jpg"
 
 ## end EMCOM
 
