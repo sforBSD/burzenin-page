@@ -7,7 +7,7 @@ excerpt: >
   **Adres:** ul. Zarzecze 12, 98-260 Burzenin  
   **QTH Locator:** JO91KL
 header:
-  overlay_image: /assets/images/hires/wiata.jpg
+  overlay_image: /assets/images/wiata.jpg
   overlay_filter: 0.5
 gallery1:
   - url: /assets/images/pawilony.jpg
