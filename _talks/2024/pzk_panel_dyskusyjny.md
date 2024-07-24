@@ -1,5 +1,5 @@
 ---
-title: "Panel Dyskusyjny - PZK i jego kluby"
+title: "Panel Dyskusyjny - Możliwości rozwoju klubów krótkofalarskich"
 author: 
   - pzk
 ics_slug: pzk_panel_dyskusyjny
