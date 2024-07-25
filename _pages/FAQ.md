@@ -10,15 +10,15 @@ toc: true
 # Ważne pytania i jeszcze ważniejsze odpowiedzi
 
 ### P: Co to właściwie jest?
-**O:** **TO** jest Zjazd Techniczny krótkofalowców czyli spotkanie radioamatorów szczególnie zainteresowanych własnymi konstrukcjami. Własnymi i cudzymi. Tych bardziej zaawansowanych i projektujących własne urządzenia, tych mniej doświadczonych – którzy je odtwarzają lub budują na podstawie planów czy z zestawów. Tych, którzy chcą się dowiedzieć czegoś o projektowaniu, używaniu przyrządów pomiarowych, budowaniu anten i tych, którzy konstruktorską atmosferą chcą pooddychać.
+**O:** To jest Zjazd Techniczny krótkofalowców czyli spotkanie radioamatorów szczególnie zainteresowanych własnymi konstrukcjami. Własnymi i cudzymi. Tych bardziej zaawansowanych i projektujących własne urządzenia, tych mniej doświadczonych – którzy je odtwarzają lub budują na podstawie planów czy z zestawów. Tych, którzy chcą się dowiedzieć czegoś o projektowaniu, używaniu przyrządów pomiarowych, budowaniu anten i tych, którzy konstruktorską atmosferą chcą pooddychać.
 
 
 ### P: Dlaczego właśnie **Burzenin**?
-**O:** Po pierwsze dlatego, że jest w centralnej Polsce i wszyscy mają tam tak samo zły dojazd. Po drugie dlatego, że mnóstwo lat temu, w czasach Warsztatów QRP Krzysiek znalazł tą miejscówkę i tak już zostało. Myśmy polubili ośrodek „Sportowa Osada” a ośrodek polubił nas.
+**O:** Po pierwsze dlatego, że jest w centralnej Polsce i wszyscy mają tam tak samo zły dojazd. Po drugie dlatego, że mnóstwo lat temu, w czasach Warsztatów QRP Krzysiek znalazł tą miejscówkę i tak już zostało. Myśmy polubili ośrodek „Sportowa Osada”, a ośrodek polubił nas.
 
 
 ### P: Co tak naprawdę tam się dzieje?
-**O:** To co się dzieje w ~~Las Vegas~~ Burzeninie zostaje w Burzeninie. Nie wszystko możemy opowiedzieć. Między innymi z tego powodu wykłady i spotkania nie są transmitowane online. Jak ktoś chce zobaczyć to zapraszamy. W programie są wykłady, pokazy, warsztaty, możliwość wspólnego konstruowania i konsultowania konstrukcji. Jest konkurs PUK (przydatne urządzenie krótkofalarskie) w którym można zaprezentować swoje konstrukcje i wygrać ciekawe a nieraz cenne nagrody – oraz zostać na zawsze uwiecznionym przez Świat Radio.
+**O:** To co się dzieje w ~~Las Vegas~~ Burzeninie zostaje w Burzeninie. Nie wszystko możemy opowiedzieć. Między innymi z tego powodu wykłady i spotkania nie są transmitowane online. Jak ktoś chce zobaczyć to zapraszamy. W programie są wykłady, pokazy, warsztaty, możliwość wspólnego konstruowania i konsultowania konstrukcji. Jest konkurs PUK (przydatne urządzenie krótkofalarskie) w którym można zaprezentować swoje konstrukcje i wygrać ciekawe, a nieraz cenne nagrody – oraz zostać na zawsze uwiecznionym przez Świat Radio.
 
 
 ### P: Jak się z Wami kontaktować?
@@ -30,7 +30,7 @@ toc: true
 
 
 ### P: Czy KAŻDY musi mieć wykupiony bilet na Zjazd?
-**O:** TAK - na teren Zjazdu będą mogły wejść TYLKO osoby z kupionym biletem wejściowym, który można kupić w naszym sklepie: <https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/>. Ze względów bezpieczeństwa, każdy uczestnik z wykupionym biletem będzie miał przygotowany identyfikator, który powinien nosić w widocznym miejscu.
+**O:** TAK - na teren Zjazdu będą mogły wejść TYLKO osoby z kupionym biletem wejściowym, który można kupić w naszym sklepie: <https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/>. Ze względów bezpieczeństwa, każdy uczestnik z wykupionym biletem będzie miał przygotowany identyfikator, który powinien nosić w widocznym miejscu. Ze wszelkich opłat, w tym związanych z noclegiem oczywiście są zwolnieni prowadzący prezentacje i warsztaty.
 
 
 ### P: Czy będzie możliwość wykupienia biletu wejściowego na miejscu za gotówkę?
@@ -78,11 +78,11 @@ toc: true
 ### P: Jakie są opcje parkingu?
 **O:** Wjazd na teren mają tylko osoby nocujące. Wszystkie samochody na terenie MUSZĄ posiadać **znak** i **numer telefonu** kierowcy za szybą.
 Może to być wydrukowana przepustka wg wzoru: [<< WZÓR TUTAJ >>](/assets/bin/przepustka.pdf) lub zwykłą kartka z tymi informacjami.
-W uzasadnionych przypadkach, np osób z niepełnosprawnością prosimy o wcześniejszy kontakt z organizatorami - ogarniemy.
+W uzasadnionych przypadkach, np. osób z niepełnosprawnością prosimy o wcześniejszy kontakt z organizatorami - ogarniemy.
 
 
 ### P: Przyjeżdżam tylko na sobotę, czy mogę wjechać na teren ośrodka?
-**O:** Na teren ośrodka mogą wjechać wyłącznie osoby nocujące. Po prostu brakuje miejsc parkingowych. Oczywiście dla osób niepełnosprawnych przewidziane są wyjątki, jak wyżej - skontaktuj się z nami, ogarniemy ;).
+**O:** Na teren ośrodka mogą wjechać wyłącznie osoby nocujące. Po prostu brakuje miejsc parkingowych. Oczywiście jak pisaliśmy wyżej przewidziane są wyjątki, jak wyżej - skontaktuj się z nami, ogarniemy ;). Możliwy będzie tez wjazd celem dostarczenia towaru na giełdę. 
 
 
 ### P: Jak wygląda kwestia wyżywienia?
