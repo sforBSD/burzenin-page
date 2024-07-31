@@ -9,12 +9,12 @@ layout: talk
 tagline: ""
 room: c
 header:
-  overlay_image: /assets/images/talks/so6xl_dota.jpg
+  overlay_image: /assets/images/people/so6xl.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/talks/so6xl_dota.jpg
+  teaser: /assets/images/people/so6xl.jpg
 ---
 
-![](/assets/images/talks/so6xl_dota.jpg)
+![](/assets/images/people/so6xl.jpg)
 
 Dużo pracujesz i wyjeżdżasz służbowo, przez to prawie nie dotykasz radia w domu, klucz zarasta pajęczyną. 
 
