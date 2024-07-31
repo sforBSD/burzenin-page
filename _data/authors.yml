@@ -1259,3 +1259,13 @@ sp2jqr:
   authorpage        : "/authors/sp2jqr"
 
 ## end SP2JQR
+
+## begin SO6XL
+so6xl:
+  name: Andrzej
+  callsign: SO6XL
+  constructor: no
+  speaker: yes
+  authorpage: "/authors/so6xl"
+  avatar          : "/assets/images/people/so6xl.jpg"
+## end SO6XL
