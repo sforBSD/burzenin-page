@@ -1,5 +1,5 @@
 ---
-title: "Co sąsiad może tobie - a co ty sąsiadowi. Krótkofalarstwo okiem prawnika"
+title: "Krótkofalarstwo okiem prawnika - Co sąsiad może Tobie, a Ty sąsiadowi"
 author: 
   - sp2hqy
 ics_slug: sp2hqy_co-sasiad-moze-tobie-a-co-ty-sasiadowi-krotkofalarstwo-okiem-prawnika
@@ -9,7 +9,7 @@ layout: talk
 tagline: ""
 room: a
 header:
-  overlay_image: /assets/images/dummy.jpg
+  overlay_image: /assets/images/talks/sp2hqy_wyklady.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/dummy.jpg
+  teaser: /assets/images/talks/sp2hqy_wyklady.jpg
 ---
