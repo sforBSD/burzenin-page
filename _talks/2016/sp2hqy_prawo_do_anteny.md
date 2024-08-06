@@ -3,8 +3,8 @@ title: "Prawo do anteny - fakty i mity"
 author: 
   - sp2hqy
 ics_slug: sp2hqy_prawo_do_anteny
-starttime: "2016"
-endtime: "2016"
+starttime: "2016-09-10"
+endtime: "2016-09-10"
 layout: talk
 tagline: ""
 room: a
