@@ -34,7 +34,7 @@ E - oprogramowanie
 
 5. Można zgłosić dowolną liczbę prac w każdej kategorii.
 
-6. Zgłoszenia dokonuje się poprzez wypełnienie  formularza  zgłoszeniowego na stronie internetowej Zjazdu Technicznego Krótkofalowców.
+6. Zgłoszenia dokonuje się poprzez wysłanie maila na adres: puk@zjazdtechniczny.krotkofalowcy.com.pl.
 
 7. Razem  ze zgłoszeniem  należy obowiązkowo  dostarczyć  streszczenie dokumentacji urządzenia (co najmniej: opis, schemat, fotografie).
 
