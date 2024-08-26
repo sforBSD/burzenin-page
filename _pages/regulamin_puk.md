@@ -34,7 +34,7 @@ E - oprogramowanie
 
 5. Można zgłosić dowolną liczbę prac w każdej kategorii.
 
-6. Zgłoszenia dokonuje się poprzez wypełnienie  formularza  zgłoszeniowego na stronie internetowej Zjazdu Technicznego Krótkofalowców.
+6. Zgłoszenia dokonuje się poprzez wysłanie maila na adres: puk@zjazdtechniczny.krotkofalowcy.com.pl.
 
 7. Razem  ze zgłoszeniem  należy obowiązkowo  dostarczyć  streszczenie dokumentacji urządzenia (co najmniej: opis, schemat, fotografie).
 
@@ -66,6 +66,8 @@ E - oprogramowanie
 
 17. Wszyscy uczestnicy konkursu otrzymują dyplomy i upominki. Projekty, które zajęły czołowe miejsca również nagrody w miarę możliwości organizatora.
 
-18. Dodatkową nagrodę będzie można uzyskać od "publiczności" Zjazdu, gdzie każdy uczestnijk zjazdu będzie dysponowal jedną karta do głosowania na której będzie musial zagłosować na jeden z projektów. 
+18. Dodatkową nagrodę będzie można uzyskać od "publiczności" Zjazdu, gdzie każdy uczestnijk zjazdu będzie dysponowal jedną karta do głosowania na której będzie musial zagłosować na jeden z projektów.
 
-19. Wszystkie prace konkursowe będą przedstawione na stronie internetowej Zjazdu Technicznego Krótkofalowców. Wybrane prace mogą być opisane na łamach miesięcznika "Świat Radio".
+19. W każdej kategorii zostanie przyznana osobna nagroda w podkategorii ROOKIE, przyznawana dla uczestnika poniżej 18 roku życia. 
+
+20. Wszystkie prace konkursowe będą przedstawione na stronie internetowej Zjazdu Technicznego Krótkofalowców. Wybrane prace mogą być opisane na łamach miesięcznika "Świat Radio".

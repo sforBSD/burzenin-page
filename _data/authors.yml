@@ -19,7 +19,6 @@ sq9wtf:
   authorpage      :  "/authors/sq9wtf"
   email           : "wiktor@hackerspace-krk.pl"
   github          : "wprzyb"
-  instagram       : "wprzyb"
   mastodon        : "https://mastodon.radio/@sq9wtf"
   orga_years      :
     - 2023
@@ -28,13 +27,14 @@ sq9wtf:
 sp6mar:
   name            : "Martyna"
   first_name      : "Martyna"
-  bio             : "Zawodniczka ekipy SH9H"
+  bio             : "Zawodniczka ekipy SN9H"
   callsign        : SP6MAR
   constructor     : no
   speaker         : no
   authorpage      :  "/authors/sp6mar"
   email           : "martyna@hackerspace-krk.pl"
   orga_years      :
+    - 2022
     - 2024
 
 sq9zaq:
@@ -425,7 +425,7 @@ sq9alw:
 ## end SQ9ALW
 
 ## begin SP9JC
-sp9jc:
+SP9JC:
   name              : Józek
   callsign          : SP9JC
   constructor       : no
@@ -433,7 +433,6 @@ sp9jc:
   authorpage        :  "/authors/sp9jc"
   orga_years      :
     - 2023
-    - 2024
 
 ## end SP9JC
 
@@ -884,11 +883,15 @@ sp9bit:
 
 ## begin SQ9ZBF
 sq9zbf:
-  name              : Magda
+  name              : Magdalena
   callsign          : SQ9ZBF
   constructor       : no
   speaker           : yes
   authorpage        : "/authors/sq9zbf"
+  orga_years        :
+    - 2022
+    - 2023
+    - 2024
 
 ## end SQ9ZBF
 
@@ -1259,3 +1262,13 @@ sp2jqr:
   authorpage        : "/authors/sp2jqr"
 
 ## end SP2JQR
+
+## begin SO6XL
+so6xl:
+  name: Andrzej
+  callsign: SO6XL
+  constructor: no
+  speaker: yes
+  authorpage: "/authors/so6xl"
+  avatar          : "/assets/images/people/so6xl.jpg"
+## end SO6XL
