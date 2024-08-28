@@ -3,8 +3,8 @@ title: "Pomiarownia cz. 2"
 author: 
   - sp9gmd
 ics_slug: sp9gmd_pomiarownia_cz_2
-starttime: "2024-09-07 09:30"
-endtime: "2024-09-07 12:00"
+starttime: "2024-09-07 14:15"
+endtime: "2024-09-07 16:00"
 layout: talk
 tagline: ""
 room: c
