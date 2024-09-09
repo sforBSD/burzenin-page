@@ -25,3 +25,6 @@ Pokaz warsztatowy retro - ciekawe odbiorniki
 
 Pokaz skoncentruje się na starszych, bardzo ciekawych konstrukcjach - będą odbiorniki refleksowe, a także reakcyjne, w tym taki, który można zasilić bardzo niskim napięciem. Wisienką na torcie będzie bardzo niestandardowe zasilanie odbiornika oraz prototyp samodzielnie wykonanego hybrydowego układu scalonego.
 Prezentacja - Marcin SP5XMI, pokaz budowy odbiornika - Aleksander Zawada.
+
+---
+Link do prezentacji: https://drive.google.com/file/d/1V6D8T9WFSHihw6xPvSB5vNl4mapNVhHI/view?usp=sharing
