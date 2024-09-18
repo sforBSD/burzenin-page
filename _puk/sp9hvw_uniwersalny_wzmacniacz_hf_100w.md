@@ -16,22 +16,8 @@ header:
 ---
 
 
-
-
-
- 
-
-
-
-
-
-
-
 PA HF 100W
 ----------
-
-
-
 
 
  Uniwersalny wzmacniacz mocy na pasma krótkofalowe. Możliwość wykorzystania tranzystorów MOSFET
